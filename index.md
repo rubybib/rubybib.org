@@ -9,7 +9,9 @@ Java or recently Python.
 
 However there are now a growing number of research projects using Ruby. On this
 page we list theses and peer-reviewed papers and articles that cover Ruby
-implementation or use Ruby, including alternative implementations such as JRuby. We also other notable papers that don't mention Ruby but are applied in Ruby implementations.
+implementation or use Ruby, including alternative implementations such as JRuby.
+We also list other notable papers that don't mention Ruby but are applied in
+Ruby implementations.
 
 # Ruby
 
