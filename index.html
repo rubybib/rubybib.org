@@ -1,1 +1,70 @@
-The Ruby Bibliography coming soon
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+  <title>The Ruby Bibliography</title>
+  <style type="text/css">code{white-space: pre;}</style>
+  <!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+</head>
+<body>
+<header>
+<h1 class="title">The Ruby Bibliography</h1>
+</header>
+<p>Ruby hasn't historically been the subject of much research, either in industry or academia. A lot of recent systems research has used languages like C, C++ and Java. Contemporary programming language research often uses languages like Java, Scala and Haskell. Modern research into VMs, compilers and garbage collectors is often based on Java or recently Python.</p>
+<p>However there are now a growing number of research projects using Ruby. On this page we list theses and peer-reviewed papers and articles that cover Ruby implementation or use Ruby, including alternative implementations such as JRuby. We also other notable papers that don't mention Ruby but are applied in Ruby implementations.</p>
+<h1 id="ruby">Ruby</h1>
+<h2 id="virtual-machines">Virtual Machines</h2>
+<ul>
+<li>M. Grimmer, C. Seaton, T. Würthinger, H. Mössenböck. <strong>Dynamically Composing Languages in a Modular Way: Supporting C Extensions for Dynamic Languages</strong>. In Proceedings of the 14th International Conference on Modularity, 2015 (to appear).</li>
+<li>A. Wöß, C. Wirth, D. Bonetta, C. Seaton, C. Humer, and H. Mössenböck. <strong><a href="http://dl.acm.org/citation.cfm?id=2647517">An object storage model for the Truffle language implementation framework</a></strong>. In Proceedings of the International Conference on Principles and Practices of Programming on the Java Platform (PPPJ), 2014.</li>
+<li>M. Furr, J. An, J. S. Foster, and M. Hicks. <strong><a href="http://www.cs.umd.edu/projects/PL/druby/papers/druby-dls09.pdf">The Ruby intermediate language</a></strong>. In Proceedings of the Dynamic Language Symposium, 2009.</li>
+</ul>
+<h2 id="parallelism-and-concurrency">Parallelism and Concurrency</h2>
+<ul>
+<li>L. Lu, W. Ji, and M. L. Scott. <strong><a href="http://www.cs.rochester.edu/u/scott/papers/2014_PLDI_DPR.pdf">Dynamic enforcement of determinism in a parallel scripting language</a></strong>. In Proceedings of the 35th Conference on Programming Language Design and Implementation (PLDI), 2014. (<a href="https://github.com/RB-DPR/RB-DPR">source code</a>)</li>
+<li>R. Odaira, J. G. Castanos, and H. Tomari. <strong><a href="http://researcher.watson.ibm.com/researcher/files/jp-ODAIRA/PPoPP2014_RubyGILHTM.pdf">Eliminating global interpreter locks in Ruby through hardware transactional memory</a></strong>. In Proceedings of the 19th Symposium on Principles and Practice of Parallel Programming (PPoPP), 2014.</li>
+<li>W. Ji, L. Lu, and M. L. Scott. <strong><a href="http://wodet.cs.washington.edu/wp-content/uploads/2013/03/wodet2013-final9.pdf">TARDIS: Task-level access race detection by intersecting sets</a></strong>. In Proceedings of the 4th Workshop on Determinism and Correctness in Parallel Programming (WoDet), 2013.</li>
+</ul>
+<h2 id="tooling">Tooling</h2>
+<ul>
+<li>C. Seaton, M. L. Van De Vanter, and M. Haupt. <strong><a href="http://www.lifl.fr/dyla14/papers/dyla14-3-Debugging_at_Full_Speed.pdf">Debugging at full speed</a></strong>. In Proceedings of the 8th Workshop on Dynamic Languages and Applications (DYLA), 2014. (<a href="http://lafo.ssw.uni-linz.ac.at/truffle/debugging/dyla14-debugging-artifact-0557a4f756d4.tar.gz">source code</a>)</li>
+</ul>
+<h2 id="type-systems">Type Systems</h2>
+<ul>
+<li>B. M. Ren, J. Toman, T. S. Strickland, and J. S. Foster. <strong><a href="http://www.cs.umd.edu/~jfoster/papers/oops13.pdf">The Ruby type checker</a></strong>. In Proceedings of the 28th Symposium on Applied Computing (SAC), 2013.</li>
+<li>J. An, A. Chaudhuri, J. S. Foster, and M. Hicks. <strong><a href="http://www.cs.umd.edu/~jfoster/papers/popl11.pdf">Dynamic inference of static types for Ruby</a></strong>. In Proceedings of the 38th ACM Symposium on Principles of Programming Languages (POPL), 2011.</li>
+<li>M. J. Edgar. <strong><a href="http://www.cs.dartmouth.edu/reports/TR2011-686.pdf">Static analysis for Ruby in the presence of gradual typing</a></strong>, 2011.</li>
+<li>M. Madsen, P. Sørensen, and K. Kristensen. <strong><a href="http://projekter.aau.dk/projekter/files/61071016/1181807983.pdf">Ecstatic – type inference for Ruby using the cartesian product algorithm</a></strong>. Master’s thesis, Aalborg University, 2007.</li>
+<li>M. Furr, J. An, J. S. Foster, and M. Hicks. <strong><a href="http://www.cs.umd.edu/projects/PL/druby/papers/drails-ase09.pdf">Static typing for Ruby on Rails</a></strong>. In Proceedings of the 24th Annual ACM Symposium on Applied Computing, 2009.</li>
+<li>M. Furr, J. An, and J. S. Foster. <strong><a href="http://www.cs.umd.edu/projects/PL/druby/papers/druby-pilot-plateau09.pdf">Work in progress: an empirical study of static typing in Ruby</a></strong>. In Proceedings of the 24th Annual Conference on Object-Oriented Programming Systems, Languages, and Applications, 2009.</li>
+<li>M. Daly, V. Sazawal, and J. S. Foster. <strong><a href="http://www.cs.umd.edu/projects/PL/druby/papers/druby-oopsla09.pdf">Profile-guided static typing for dynamic scripting languages</a></strong>. In First Workshop on Evaluation and Usability of Programming Languages and Tools, 2009.</li>
+<li>J. An, A. Chaudhuri, and J. S. Foster. <strong><a href="http://www.cs.umd.edu/projects/PL/druby/papers/druby-oops09.pdf">Static type inference for Ruby</a></strong>. In Proceedings of the 24th IEEE/ACM International Conference on Automated Software Engineering, 2009.</li>
+</ul>
+<h2 id="applications">Applications</h2>
+<h3 id="bioinformatics">Bioinformatics</h3>
+<ul>
+<li>R. Smith, R. Williamson, D. Ventura, and J. T. Prince. <strong><a href="http://www.biomedcentral.com/content/pdf/1758-2946-5-35.pdf">Rubabel: wrapping open Babel with Ruby</a></strong>. Journal of Cheminformatics, 5(1), 35, 2013.</li>
+<li>N. Goto, P. Prins, M. Nakao, R. Bonnal, J. Aerts, and T. Katayama. <strong><a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2951089/pdf/btq475.pdf">Bioruby: bioinformatics software for the Ruby programming language</a></strong>. Bioinformatics, 26(20):2617–9, Oct 2010.</li>
+</ul>
+<h3 id="modelling">Modelling</h3>
+<ul>
+<li>J. S. Cuadrado, J. G. Molina, and M. M. Tortosa. <strong><a href="http://link.springer.com/chapter/10.1007/11787044_13">RubyTL: A practical, extensible transformation language</a></strong>. Model Driven Architecture - Foundations and Applications, 4066, 2006.</li>
+</ul>
+<h2 id="notable-other-papers">Notable Other Papers</h2>
+<h3 id="virtual-machines-1">Virtual Machines</h3>
+<ul>
+<li>A. Goldberg, and D. Robson. <strong><a href="http://stephane.ducasse.free.fr/FreeBooks/BlueBook/Bluebook.pdf">Smalltalk 80: The Language and Its Implementation</a></strong>. Addison-Wesley Publishing Company. 1983.</li>
+</ul>
+<h3 id="type-systems-1">Type Systems</h3>
+<ul>
+<li>R. Cartwright and M. Fagan, <strong><a href="http://www.cs.rice.edu/CS/PLT/Publications/Scheme/pldi91-cf.ps.gz">Soft typing</a></strong>. In Proceedings of the ACM SIGPLAN 1991 conference on Programming language design and implementation, New York, New York, USA, 1991.</li>
+</ul>
+<hr />
+<p>Compiled by <a href="http://chrisseaton.com/">Chris Seaton</a></p>
+<p>Contributions appreciated - <a href="https://github.com/rubybib/rubybib.org">fork on GitHub</a></p>
+</body>
+</html>
