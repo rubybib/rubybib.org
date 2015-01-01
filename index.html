@@ -11,6 +11,32 @@
   <![endif]-->
   <link href="bootstrap-3.3.1/css/bootstrap.min.css" rel="stylesheet">
   <link href="bootstrap-3.3.1/css/bootstrap-theme.min.css" rel="stylesheet">
+  <style>
+    .tag {
+    display: inline;
+    padding: .2em .6em .3em;
+    font-size: 75%;
+    font-weight: bold;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25em;
+    }
+    .tag-mri {
+      background-color: #a40000;
+      color: white;
+    }
+    .tag-jruby {
+      background-color: #5c3566;
+      color: white;
+    }
+    .tag-truffle {
+      background-color: #204a87;
+      color: white;
+    }
+  </style>
 </head>
 <body>
 <div class="container">
@@ -22,36 +48,36 @@
 <h1 id="ruby">Ruby</h1>
 <h2 id="virtual-machines">Virtual Machines</h2>
 <ul>
-<li>M. Grimmer, C. Seaton, T. Würthinger, H. Mössenböck. <strong>Dynamically Composing Languages in a Modular Way: Supporting C Extensions for Dynamic Languages</strong>. In Proceedings of the 14th International Conference on Modularity, 2015 (to appear).</li>
-<li>A. Wöß, C. Wirth, D. Bonetta, C. Seaton, C. Humer, and H. Mössenböck. <strong><a href="http://dl.acm.org/citation.cfm?id=2647517">An object storage model for the Truffle language implementation framework</a></strong>. In Proceedings of the International Conference on Principles and Practices of Programming on the Java Platform (PPPJ), 2014.</li>
-<li>M. Furr, J. An, J. S. Foster, and M. Hicks. <strong><a href="http://www.cs.umd.edu/projects/PL/druby/papers/druby-dls09.pdf">The Ruby intermediate language</a></strong>. In Proceedings of the Dynamic Language Symposium, 2009.</li>
+<li><p>M. Grimmer, C. Seaton, T. Würthinger, H. Mössenböck. <strong>Dynamically Composing Languages in a Modular Way: Supporting C Extensions for Dynamic Languages</strong>. In Proceedings of the 14th International Conference on Modularity, 2015 (to appear). <span class="tag tag-jruby">JRuby</span> <span class="tag tag-truffle">Truffle</span></p></li>
+<li><p>A. Wöß, C. Wirth, D. Bonetta, C. Seaton, C. Humer, and H. Mössenböck. <strong><a href="http://dl.acm.org/citation.cfm?id=2647517">An object storage model for the Truffle language implementation framework</a></strong>. In Proceedings of the International Conference on Principles and Practices of Programming on the Java Platform (PPPJ), 2014. <span class="tag tag-jruby">JRuby</span> <span class="tag tag-truffle">Truffle</span></p></li>
+<li><p>M. Furr, J. An, J. S. Foster, and M. Hicks. <strong><a href="http://www.cs.umd.edu/projects/PL/druby/papers/druby-dls09.pdf">The Ruby intermediate language</a></strong>. In Proceedings of the Dynamic Language Symposium, 2009.</p></li>
 </ul>
 <h2 id="parallelism-and-concurrency">Parallelism and Concurrency</h2>
 <ul>
-<li>L. Lu, W. Ji, and M. L. Scott. <strong><a href="http://www.cs.rochester.edu/u/scott/papers/2014_PLDI_DPR.pdf">Dynamic enforcement of determinism in a parallel scripting language</a></strong>. In Proceedings of the 35th Conference on Programming Language Design and Implementation (PLDI), 2014. (<a href="https://github.com/RB-DPR/RB-DPR">source code</a>)</li>
-<li>R. Odaira, J. G. Castanos, and H. Tomari. <strong><a href="http://researcher.watson.ibm.com/researcher/files/jp-ODAIRA/PPoPP2014_RubyGILHTM.pdf">Eliminating global interpreter locks in Ruby through hardware transactional memory</a></strong>. In Proceedings of the 19th Symposium on Principles and Practice of Parallel Programming (PPoPP), 2014.</li>
-<li>W. Ji, L. Lu, and M. L. Scott. <strong><a href="http://wodet.cs.washington.edu/wp-content/uploads/2013/03/wodet2013-final9.pdf">TARDIS: Task-level access race detection by intersecting sets</a></strong>. In Proceedings of the 4th Workshop on Determinism and Correctness in Parallel Programming (WoDet), 2013.</li>
+<li><p>L. Lu, W. Ji, and M. L. Scott. <strong><a href="http://www.cs.rochester.edu/u/scott/papers/2014_PLDI_DPR.pdf">Dynamic enforcement of determinism in a parallel scripting language</a></strong>. In Proceedings of the 35th Conference on Programming Language Design and Implementation (PLDI), 2014. (<a href="https://github.com/RB-DPR/RB-DPR">source code</a>) <span class="tag tag-jruby">JRuby</span></p></li>
+<li><p>R. Odaira, J. G. Castanos, and H. Tomari. <strong><a href="http://researcher.watson.ibm.com/researcher/files/jp-ODAIRA/PPoPP2014_RubyGILHTM.pdf">Eliminating global interpreter locks in Ruby through hardware transactional memory</a></strong>. In Proceedings of the 19th Symposium on Principles and Practice of Parallel Programming (PPoPP), 2014. <span class="tag tag-mri">MRI</span></p></li>
+<li><p>W. Ji, L. Lu, and M. L. Scott. <strong><a href="http://wodet.cs.washington.edu/wp-content/uploads/2013/03/wodet2013-final9.pdf">TARDIS: Task-level access race detection by intersecting sets</a></strong>. In Proceedings of the 4th Workshop on Determinism and Correctness in Parallel Programming (WoDet), 2013. <span class="tag tag-jruby">JRuby</span></p></li>
 </ul>
 <h2 id="tooling">Tooling</h2>
 <ul>
-<li>C. Seaton, M. L. Van De Vanter, and M. Haupt. <strong><a href="http://www.lifl.fr/dyla14/papers/dyla14-3-Debugging_at_Full_Speed.pdf">Debugging at full speed</a></strong>. In Proceedings of the 8th Workshop on Dynamic Languages and Applications (DYLA), 2014. (<a href="http://lafo.ssw.uni-linz.ac.at/truffle/debugging/dyla14-debugging-artifact-0557a4f756d4.tar.gz">source code</a>)</li>
+<li>C. Seaton, M. L. Van De Vanter, and M. Haupt. <strong><a href="http://www.lifl.fr/dyla14/papers/dyla14-3-Debugging_at_Full_Speed.pdf">Debugging at full speed</a></strong>. In Proceedings of the 8th Workshop on Dynamic Languages and Applications (DYLA), 2014. (<a href="http://lafo.ssw.uni-linz.ac.at/truffle/debugging/dyla14-debugging-artifact-0557a4f756d4.tar.gz">source code</a>) <span class="tag tag-jruby">JRuby</span> <span class="tag tag-truffle">Truffle</span></li>
 </ul>
 <h2 id="type-systems">Type Systems</h2>
 <ul>
-<li>B. M. Ren, J. Toman, T. S. Strickland, and J. S. Foster. <strong><a href="http://www.cs.umd.edu/~jfoster/papers/oops13.pdf">The Ruby type checker</a></strong>. In Proceedings of the 28th Symposium on Applied Computing (SAC), 2013.</li>
-<li>J. An, A. Chaudhuri, J. S. Foster, and M. Hicks. <strong><a href="http://www.cs.umd.edu/~jfoster/papers/popl11.pdf">Dynamic inference of static types for Ruby</a></strong>. In Proceedings of the 38th ACM Symposium on Principles of Programming Languages (POPL), 2011.</li>
-<li>M. J. Edgar. <strong><a href="http://www.cs.dartmouth.edu/reports/TR2011-686.pdf">Static analysis for Ruby in the presence of gradual typing</a></strong>, 2011.</li>
-<li>M. Madsen, P. Sørensen, and K. Kristensen. <strong><a href="http://projekter.aau.dk/projekter/files/61071016/1181807983.pdf">Ecstatic – type inference for Ruby using the cartesian product algorithm</a></strong>. Master’s thesis, Aalborg University, 2007.</li>
-<li>M. Furr, J. An, J. S. Foster, and M. Hicks. <strong><a href="http://www.cs.umd.edu/projects/PL/druby/papers/drails-ase09.pdf">Static typing for Ruby on Rails</a></strong>. In Proceedings of the 24th Annual ACM Symposium on Applied Computing, 2009.</li>
-<li>M. Furr, J. An, and J. S. Foster. <strong><a href="http://www.cs.umd.edu/projects/PL/druby/papers/druby-pilot-plateau09.pdf">Work in progress: an empirical study of static typing in Ruby</a></strong>. In Proceedings of the 24th Annual Conference on Object-Oriented Programming Systems, Languages, and Applications, 2009.</li>
-<li>M. Daly, V. Sazawal, and J. S. Foster. <strong><a href="http://www.cs.umd.edu/projects/PL/druby/papers/druby-oopsla09.pdf">Profile-guided static typing for dynamic scripting languages</a></strong>. In First Workshop on Evaluation and Usability of Programming Languages and Tools, 2009.</li>
-<li>J. An, A. Chaudhuri, and J. S. Foster. <strong><a href="http://www.cs.umd.edu/projects/PL/druby/papers/druby-oops09.pdf">Static type inference for Ruby</a></strong>. In Proceedings of the 24th IEEE/ACM International Conference on Automated Software Engineering, 2009.</li>
+<li><p>B. M. Ren, J. Toman, T. S. Strickland, and J. S. Foster. <strong><a href="http://www.cs.umd.edu/~jfoster/papers/oops13.pdf">The Ruby type checker</a></strong>. In Proceedings of the 28th Symposium on Applied Computing (SAC), 2013.</p></li>
+<li><p>J. An, A. Chaudhuri, J. S. Foster, and M. Hicks. <strong><a href="http://www.cs.umd.edu/~jfoster/papers/popl11.pdf">Dynamic inference of static types for Ruby</a></strong>. In Proceedings of the 38th ACM Symposium on Principles of Programming Languages (POPL), 2011.</p></li>
+<li><p>M. J. Edgar. <strong><a href="http://www.cs.dartmouth.edu/reports/TR2011-686.pdf">Static analysis for Ruby in the presence of gradual typing</a></strong>, 2011.</p></li>
+<li><p>M. Madsen, P. Sørensen, and K. Kristensen. <strong><a href="http://projekter.aau.dk/projekter/files/61071016/1181807983.pdf">Ecstatic – type inference for Ruby using the cartesian product algorithm</a></strong>. Master’s thesis, Aalborg University, 2007.</p></li>
+<li><p>M. Furr, J. An, J. S. Foster, and M. Hicks. <strong><a href="http://www.cs.umd.edu/projects/PL/druby/papers/drails-ase09.pdf">Static typing for Ruby on Rails</a></strong>. In Proceedings of the 24th Annual ACM Symposium on Applied Computing, 2009.</p></li>
+<li><p>M. Furr, J. An, and J. S. Foster. <strong><a href="http://www.cs.umd.edu/projects/PL/druby/papers/druby-pilot-plateau09.pdf">Work in progress: an empirical study of static typing in Ruby</a></strong>. In Proceedings of the 24th Annual Conference on Object-Oriented Programming Systems, Languages, and Applications, 2009.</p></li>
+<li><p>M. Daly, V. Sazawal, and J. S. Foster. <strong><a href="http://www.cs.umd.edu/projects/PL/druby/papers/druby-oopsla09.pdf">Profile-guided static typing for dynamic scripting languages</a></strong>. In First Workshop on Evaluation and Usability of Programming Languages and Tools, 2009.</p></li>
+<li><p>J. An, A. Chaudhuri, and J. S. Foster. <strong><a href="http://www.cs.umd.edu/projects/PL/druby/papers/druby-oops09.pdf">Static type inference for Ruby</a></strong>. In Proceedings of the 24th IEEE/ACM International Conference on Automated Software Engineering, 2009.</p></li>
 </ul>
 <h2 id="applications">Applications</h2>
 <h3 id="bioinformatics">Bioinformatics</h3>
 <ul>
-<li>R. Smith, R. Williamson, D. Ventura, and J. T. Prince. <strong><a href="http://www.biomedcentral.com/content/pdf/1758-2946-5-35.pdf">Rubabel: wrapping open Babel with Ruby</a></strong>. Journal of Cheminformatics, 5(1), 35, 2013.</li>
-<li>N. Goto, P. Prins, M. Nakao, R. Bonnal, J. Aerts, and T. Katayama. <strong><a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2951089/pdf/btq475.pdf">Bioruby: bioinformatics software for the Ruby programming language</a></strong>. Bioinformatics, 26(20):2617–9, Oct 2010.</li>
+<li><p>R. Smith, R. Williamson, D. Ventura, and J. T. Prince. <strong><a href="http://www.biomedcentral.com/content/pdf/1758-2946-5-35.pdf">Rubabel: wrapping open Babel with Ruby</a></strong>. Journal of Cheminformatics, 5(1), 35, 2013.</p></li>
+<li><p>N. Goto, P. Prins, M. Nakao, R. Bonnal, J. Aerts, and T. Katayama. <strong><a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2951089/pdf/btq475.pdf">Bioruby: bioinformatics software for the Ruby programming language</a></strong>. Bioinformatics, 26(20):2617–9, Oct 2010.</p></li>
 </ul>
 <h3 id="modelling">Modelling</h3>
 <ul>
