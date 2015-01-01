@@ -53,6 +53,10 @@ Ruby implementations.
 
 * J. S. Cuadrado, J. G. Molina, and M. M. Tortosa. **[RubyTL: A practical, extensible transformation language](http://link.springer.com/chapter/10.1007/11787044_13)**. Model Driven Architecture - Foundations and Applications, 4066, 2006.
 
+## Standards
+
+* IPA Ruby Standardization WG. **[Programming Languages — Ruby (Draft)](https://www.ipa.go.jp/osc/english/ruby/)** (the Ruby ISO standard). 2010.
+
 ## Notable Other Papers
 
 ### Virtual Machines
