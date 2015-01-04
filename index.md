@@ -78,6 +78,10 @@ Ruby implementations.
 
 * IPA Ruby Standardization WG. **[Programming Languages — Ruby (Draft)](https://www.ipa.go.jp/osc/english/ruby/)** (the Ruby ISO standard). 2010.
 
+## FLOSS Community Studies
+
+* M. M. M. Syeed, K. M. Hansen, I. Hammouda, and K. Manikas. **[Socio-Technical Congruence in the Ruby Ecosystem](http://www.opensym.org/os2014-files/proceedings/p110.pdf)**. In Proceedings of the 10th International Symposium on Open Collaboration, 2014.
+
 ## Notable Other Papers
 
 ### Virtual Machines
