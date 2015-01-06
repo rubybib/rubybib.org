@@ -1,4 +1,7 @@
-% The Ruby Bibliography
+---
+layout: default
+title: The Ruby Bibliography
+---
 
 The [Ruby programming language](http://ruby-lang.org/) hasn't historically been
 the subject of much research, either in industry or academia. A lot of recent
