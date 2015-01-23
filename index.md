@@ -73,6 +73,10 @@ Ruby implementations.
 
 * N. Goto, P. Prins, M. Nakao, R. Bonnal, J. Aerts, and T. Katayama. **[Bioruby: bioinformatics software for the Ruby programming language](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2951089/pdf/btq475.pdf)**. Bioinformatics, 26(20):2617–9, Oct 2010.
 
+### Distributed Computing
+
+* J. Collins. **[Communication Paradigms for Mobile Ad Hoc Networks](http://cs.ucla.edu/~collins/documents/Justin_Collins-Communication_Paradigms_for_Mobile_Ad_Hoc_Networks-Dissertation.pdf)**. PhD thesis, 2014.
+
 ### Modelling
 
 * J. S. Cuadrado, J. G. Molina, and M. M. Tortosa. **[RubyTL: A practical, extensible transformation language](http://link.springer.com/chapter/10.1007/11787044_13)**. Model Driven Architecture - Foundations and Applications, 4066, 2006.
