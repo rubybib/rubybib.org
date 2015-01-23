@@ -77,6 +77,14 @@ Ruby implementations.
 
 * J. S. Cuadrado, J. G. Molina, and M. M. Tortosa. **[RubyTL: A practical, extensible transformation language](http://link.springer.com/chapter/10.1007/11787044_13)**. Model Driven Architecture - Foundations and Applications, 4066, 2006.
 
+### Robotics
+
+* B. Roman, C. Scholin, S. Jensen, E. Massion, R. Marin III, C. Preston, D. Greenfield, W. Jones, K. Wheeler. **[Controlling a Robotic Marine Environmental Sampler with the Ruby Scripting Language](http://jla.sagepub.com/content/12/1/56.full.pdf)**, JALA - Journal of the Association for Laboratory Automation, 12(1), 56-61, 2007
+
+### Computer Vision
+
+* J. Wedekind. **[Efficient Implementations of Machine Vision Algorithms using a Dynamically Typed Programming Language](http://dx.doi.org/10.6084/m9.figshare.97244)**, PhD thesis, 2012.
+
 ## Standards
 
 * IPA Ruby Standardization WG. **[Programming Languages — Ruby (Draft)](https://www.ipa.go.jp/osc/english/ruby/)** (the Ruby ISO standard). 2010.
