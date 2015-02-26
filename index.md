@@ -28,10 +28,10 @@ Ruby implementations.
 <span class="tag tag-jruby">JRuby</span>
 <span class="tag tag-truffle">Truffle</span>
 
-* M. Furr, J. An, J. S. Foster, and M. Hicks. **[The Ruby intermediate language](http://www.cs.umd.edu/projects/PL/druby/papers/druby-dls09.pdf)**. In Proceedings of the Dynamic Language Symposium, 2009.
-
 * M. Springer. **[Inter-language Collaboration in an Object-oriented Virtual Machine](http://www.matthiasspringer.de/downloads/BP2012H1_intra-language_collaboration.pdf)**. Bachelor's thesis, Hasso-Plattner-Institute, 2013.
 <span class="tag tag-maglev">MagLev</span>
+
+* M. Furr, J. An, J. S. Foster, and M. Hicks. **[The Ruby intermediate language](http://www.cs.umd.edu/projects/PL/druby/papers/druby-dls09.pdf)**. In Proceedings of the Dynamic Language Symposium, 2009.
 
 ## Parallelism and Concurrency
 
