@@ -10,9 +10,3 @@ conferences and journals. We aren't looking to list technical books for Ruby use
 ### Style Guide
 
 Copy the existing entries.
-
-### Building
-
-You need [Pandoc](http://pandoc.org/). You can install this on Mac with `brew install pandoc`.
-
-Run `make`.
