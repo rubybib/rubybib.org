@@ -20,11 +20,15 @@ Ruby implementations.
 
 ## Virtual Machines
 
+* S. Marr, C. Seaton, S. Ducasse. **Zero-Overhead Metaprogramming: Reflection and Metaobject Protocols Fast and without Compromises**. In Proceedings of the 36th Conference on Programming Language Design and Implementation (PLDI), 2015 (to appear).
+<span class="tag tag-jruby">JRuby</span>
+<span class="tag tag-truffle">Truffle</span>
+
 * M. Grimmer, C. Seaton, T. Würthinger, H. Mössenböck. **Dynamically Composing Languages in a Modular Way: Supporting C Extensions for Dynamic Languages**. In Proceedings of the 14th International Conference on Modularity, 2015 (to appear).
 <span class="tag tag-jruby">JRuby</span>
 <span class="tag tag-truffle">Truffle</span>
 
-* A. Wöß, C. Wirth, D. Bonetta, C. Seaton, C. Humer, and H. Mössenböck. **[An object storage model for the Truffle language implementation framework](http://dl.acm.org/citation.cfm?id=2647517)**. In Proceedings of the International Conference on Principles and Practices of Programming on the Java Platform (PPPJ), 2014.
+* A. Wöß, C. Wirth, D. Bonetta, C. Seaton, C. Humer, and H. Mössenböck. **[An object storage model for the Truffle language implementation framework](http://www.chrisseaton.com/rubytruffle/pppj14-om/pppj14-om.pdf)**. In Proceedings of the International Conference on Principles and Practices of Programming on the Java Platform (PPPJ), 2014.
 <span class="tag tag-jruby">JRuby</span>
 <span class="tag tag-truffle">Truffle</span>
 
