@@ -116,6 +116,6 @@ Ruby implementations.
 
 ----
 
-Compiled by [Chris Seaton](http://chrisseaton.com/)
+Compiled by [Chris Seaton](http://chrisseaton.com/) and others
 
 Contributions appreciated - [fork on GitHub](https://github.com/rubybib/rubybib.org)
