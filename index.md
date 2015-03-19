@@ -24,7 +24,7 @@ Ruby implementations.
 <span class="tag tag-jruby">JRuby</span>
 <span class="tag tag-truffle">Truffle</span>
 
-* M. Grimmer, C. Seaton, T. Würthinger, H. Mössenböck. **Dynamically Composing Languages in a Modular Way: Supporting C Extensions for Dynamic Languages**. In Proceedings of the 14th International Conference on Modularity, 2015 (to appear).
+* M. Grimmer, C. Seaton, T. Würthinger, H. Mössenböck. **[Dynamically Composing Languages in a Modular Way: Supporting C Extensions for Dynamic Languages](http://www.chrisseaton.com/rubytruffle/modularity15/rubyextensions.pdf)**. In Proceedings of the 14th International Conference on Modularity, 2015.
 <span class="tag tag-jruby">JRuby</span>
 <span class="tag tag-truffle">Truffle</span>
 
