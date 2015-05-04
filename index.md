@@ -68,7 +68,7 @@ Ruby implementations.
 
 * M. Furr, J. An, and J. S. Foster. **[Work in progress: an empirical study of static typing in Ruby](http://www.cs.umd.edu/projects/PL/druby/papers/druby-pilot-plateau09.pdf)**. In Proceedings of the PLATEAU Workshop on Evaluation and Usability of Programming Languages and Tools, 2009.
 
-* M. Daly, V. Sazawal, and J. S. Foster. **[Profile-guided static typing for dynamic scripting languages](http://www.cs.umd.edu/projects/PL/druby/papers/druby-oopsla09.pdf)**. In First Workshop on Evaluation and Usability of Programming Languages and Tools, 2009.
+* M. Daly, V. Sazawal, and J. S. Foster. **[Profile-guided static typing for dynamic scripting languages](http://www.cs.umd.edu/projects/PL/druby/papers/druby-oopsla09.pdf)**. In Proceedings of the Conference on Object Oriented Programming Systems Languages and Applications, 2009.
 
 * J. An, A. Chaudhuri, and J. S. Foster. **[Static type inference for Ruby](http://www.cs.umd.edu/projects/PL/druby/papers/druby-oops09.pdf)**. In Proceedings of the 24th IEEE/ACM International Conference on Automated Software Engineering, 2009.
 
