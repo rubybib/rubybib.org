@@ -20,6 +20,10 @@ Ruby implementations.
 
 ## Virtual Machines
 
+* B. Daloze, C. Seaton, D. Bonetta, H. Mössenböck. **Techniques and Applications for Guest-Language Safepoints**. In Proceedings of the 10th Implementation, Compilation, Optimization of Object-Oriented Languages, Programs and Systems Workshop (ICOOOLPS), 2015 (to appear).
+<span class="tag tag-jruby">JRuby</span>
+<span class="tag tag-truffle">Truffle</span>
+
 * S. Marr, C. Seaton, S. Ducasse. **Zero-Overhead Metaprogramming: Reflection and Metaobject Protocols Fast and without Compromises**. In Proceedings of the 36th Conference on Programming Language Design and Implementation (PLDI), 2015 (to appear).
 <span class="tag tag-jruby">JRuby</span>
 <span class="tag tag-truffle">Truffle</span>
