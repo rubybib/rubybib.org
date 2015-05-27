@@ -20,6 +20,10 @@ Ruby implementations.
 
 ## Virtual Machines
 
+* F. Niephaus, M. Springer, T. Felgentreff, T. Pape, R. Hirschfeld. **Call-target-specific Method Arguments**. In Proceedings of the 10th Implementation, Compilation, Optimization of Object-Oriented Languages, Programs and Systems Workshop (ICOOOLPS), 2015 (to appear).
+<span class="tag tag-jruby">JRuby</span>
+<span class="tag tag-truffle">Truffle</span>
+
 * B. Daloze, C. Seaton, D. Bonetta, H. Mössenböck. **Techniques and Applications for Guest-Language Safepoints**. In Proceedings of the 10th Implementation, Compilation, Optimization of Object-Oriented Languages, Programs and Systems Workshop (ICOOOLPS), 2015 (to appear).
 <span class="tag tag-jruby">JRuby</span>
 <span class="tag tag-truffle">Truffle</span>
