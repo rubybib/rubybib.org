@@ -45,6 +45,9 @@ Ruby implementations.
 
 * M. Furr, J. An, J. S. Foster, and M. Hicks. **[The Ruby intermediate language](http://www.cs.umd.edu/projects/PL/druby/papers/druby-dls09.pdf)**. In Proceedings of the Dynamic Language Symposium, 2009.
 
+* K. Sasada. **[YARV: yet another RubyVM: innovating the ruby interpreter](http://dl.acm.org/citation.cfm?doid=1094855.1094912)**. In Proceedings of the Companion to the 20th Conference on Object-Priented Programming, Systems, Languages, and Applications, 2005.
+<span class="tag tag-mri">MRI</span>
+
 ## Parallelism and Concurrency
 
 * L. Lu, W. Ji, and M. L. Scott. **[Dynamic enforcement of determinism in a parallel scripting language](http://www.cs.rochester.edu/u/scott/papers/2014_PLDI_DPR.pdf)**. In Proceedings of the 35th Conference on Programming Language Design and Implementation (PLDI), 2014. ([source code](https://github.com/RB-DPR/RB-DPR))
