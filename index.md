@@ -45,7 +45,7 @@ Ruby implementations.
 
 * M. Furr, J. An, J. S. Foster, and M. Hicks. **[The Ruby intermediate language](http://www.cs.umd.edu/projects/PL/druby/papers/druby-dls09.pdf)**. In Proceedings of the Dynamic Language Symposium, 2009.
 
-* K. Sasada. **[YARV: yet another RubyVM: innovating the ruby interpreter](http://dl.acm.org/citation.cfm?doid=1094855.1094912)**. In Proceedings of the Companion to the 20th Conference on Object-Priented Programming, Systems, Languages, and Applications, 2005.
+* K. Sasada. **[YARV: yet another RubyVM: innovating the Ruby interpreter](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.482.9851&rep=rep1&type=pdf)**. In Proceedings of the Companion to the 20th Conference on Object-Priented Programming, Systems, Languages, and Applications, 2005.
 <span class="tag tag-mri">MRI</span>
 
 ## Parallelism and Concurrency
