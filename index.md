@@ -102,7 +102,7 @@ All paper links were publicly available.
 
 ### Distributed Computing
 
-* J. Collins. **[Communication Paradigms for Mobile Ad Hoc Networks](http://cs.ucla.edu/~collins/documents/Justin_Collins-Communication_Paradigms_for_Mobile_Ad_Hoc_Networks-Dissertation.pdf)**. PhD thesis, 2014.
+* J. Collins. **[Communication Paradigms for Mobile Ad Hoc Networks](https://escholarship.org/uc/item/8md1h50q)**. PhD thesis, 2014.
 
 ### Modelling
 
