@@ -16,6 +16,8 @@ implementation or use Ruby, including alternative implementations such as JRuby.
 We also list other notable papers that don't mention Ruby but are applied in
 Ruby implementations.
 
+All paper links were publicly available.
+
 # Ruby
 
 ## Virtual Machines
