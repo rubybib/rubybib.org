@@ -20,15 +20,15 @@ Ruby implementations.
 
 ## Virtual Machines
 
-* F. Niephaus, M. Springer, T. Felgentreff, T. Pape, R. Hirschfeld. **Call-target-specific Method Arguments**. In Proceedings of the 10th Implementation, Compilation, Optimization of Object-Oriented Languages, Programs and Systems Workshop (ICOOOLPS), 2015 (to appear).
+* F. Niephaus, M. Springer, T. Felgentreff, T. Pape, R. Hirschfeld. **[Call-target-specific Method Arguments](https://github.com/HPI-SWA-Lab/TargetSpecific-ICOOOLPS/raw/gh-pages/call_target_specific_method_arguments.pdf)**. In Proceedings of the 10th Implementation, Compilation, Optimization of Object-Oriented Languages, Programs and Systems Workshop (ICOOOLPS).
 <span class="tag tag-jruby">JRuby</span>
 <span class="tag tag-truffle">Truffle</span>
 
-* B. Daloze, C. Seaton, D. Bonetta, H. Mössenböck. **Techniques and Applications for Guest-Language Safepoints**. In Proceedings of the 10th Implementation, Compilation, Optimization of Object-Oriented Languages, Programs and Systems Workshop (ICOOOLPS), 2015 (to appear).
+* B. Daloze, C. Seaton, D. Bonetta, H. Mössenböck. **[Techniques and Applications for Guest-Language Safepoints](http://chrisseaton.com/rubytruffle/icooolps15-safepoints/safepoints.pdf)**. In Proceedings of the 10th Implementation, Compilation, Optimization of Object-Oriented Languages, Programs and Systems Workshop (ICOOOLPS).
 <span class="tag tag-jruby">JRuby</span>
 <span class="tag tag-truffle">Truffle</span>
 
-* S. Marr, C. Seaton, S. Ducasse. **Zero-Overhead Metaprogramming: Reflection and Metaobject Protocols Fast and without Compromises**. In Proceedings of the 36th Conference on Programming Language Design and Implementation (PLDI), 2015 (to appear).
+* S. Marr, C. Seaton, S. Ducasse. **[Zero-Overhead Metaprogramming: Reflection and Metaobject Protocols Fast and without Compromise](http://chrisseaton.com/rubytruffle/pldi15-metaprogramming/pldi15-marr-et-al-zero-overhead-metaprogramming.pdf)s**. In Proceedings of the 36th Conference on Programming Language Design and Implementation (PLDI), 2015.
 <span class="tag tag-jruby">JRuby</span>
 <span class="tag tag-truffle">Truffle</span>
 
