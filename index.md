@@ -22,6 +22,10 @@ All paper links were publicly available.
 
 ## Virtual Machines
 
+* C. Seaton. **[Specialising Dynamic Techniques for Implementing the Ruby Programming Langauge](http://chrisseaton.com/phd/specialising-ruby.pdf)**. PhD thesis, University of Manchester, 2015.
+<span class="tag tag-jruby">JRuby</span>
+<span class="tag tag-truffle">Truffle</span>
+
 * M. Grimmer, C. Seaton, R. Schatz, T. Würthinger, H. Mössenböck. **High-Performance Cross-Language Interoperability in a Multi-Language Runtime**. In Proceedings of 11th Dynamic Languages Symposium (DLS) (to appear).
 <span class="tag tag-jruby">JRuby</span>
 <span class="tag tag-truffle">Truffle</span>
