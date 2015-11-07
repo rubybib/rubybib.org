@@ -3,6 +3,8 @@ layout: default
 title: The Ruby Bibliography
 ---
 
+![The Ruby Logo is Copyright (c) 2006, Yukihiro Matsumoto. It is licensed under the terms of the Creative Commons Attribution-ShareAlike 2.5 agreement.](ruby.png)
+
 The [Ruby programming language](http://ruby-lang.org/) hasn't historically been
 the subject of much research, either in industry or academia. A lot of recent
 systems research has used languages like C, C++ and Java. Contemporary
@@ -18,9 +20,9 @@ Ruby implementations.
 
 All paper links were publicly available.
 
-# Ruby
+## Ruby
 
-## Virtual Machines
+### Virtual Machines
 
 * M. Viering. **[An Efficient Runtime System
 for Reactive Programming](http://mviering.de/reactiveruby.pdf)**. Master thesis, Technische Universität Darmstadt, 2015.
@@ -63,7 +65,7 @@ for Reactive Programming](http://mviering.de/reactiveruby.pdf)**. Master thesis,
 * K. Sasada. **[YARV: yet another RubyVM: innovating the Ruby interpreter](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.482.9851&rep=rep1&type=pdf)**. In Proceedings of the Companion to the 20th Conference on Object-Priented Programming, Systems, Languages, and Applications, 2005.
 <span class="tag tag-mri">MRI</span>
 
-## Parallelism and Concurrency
+### Parallelism and Concurrency
 
 * C. Ding, B. Gernhardt, P. Li, and M. Hertz. **[Safe Parallel Programming in an Interpreted Language](http://polaris.cs.uiuc.edu/hpsl/abstracts/a7-ding.pdf)**. In Proceedings of the First Workshop on the High Performance Scripting Languages, 2015.
 <span class="tag tag-mri">MRI</span>
@@ -77,13 +79,13 @@ for Reactive Programming](http://mviering.de/reactiveruby.pdf)**. Master thesis,
 * W. Ji, L. Lu, and M. L. Scott. **[TARDIS: Task-level access race detection by intersecting sets](http://wodet.cs.washington.edu/wp-content/uploads/2013/03/wodet2013-final9.pdf)**. In Proceedings of the 4th Workshop on Determinism and Correctness in Parallel Programming (WoDet), 2013.
 <span class="tag tag-jruby">JRuby</span>
 
-## Tooling
+### Tooling
 
 * C. Seaton, M. L. Van De Vanter, and M. Haupt. **[Debugging at full speed](http://www.lifl.fr/dyla14/papers/dyla14-3-Debugging_at_Full_Speed.pdf)**. In Proceedings of the 8th Workshop on Dynamic Languages and Applications (DYLA), 2014. ([source code](http://lafo.ssw.uni-linz.ac.at/truffle/debugging/dyla14-debugging-artifact-0557a4f756d4.tar.gz))
 <span class="tag tag-jruby">JRuby</span>
 <span class="tag tag-truffle">Truffle</span>
 
-## Type Systems
+### Type Systems
 
 * B. M. Ren, J. Toman, T. S. Strickland, and J. S. Foster. **[The Ruby type checker](http://www.cs.umd.edu/~jfoster/papers/oops13.pdf)**. In Proceedings of the 28th Symposium on Applied Computing (SAC), 2013.
 
@@ -101,27 +103,27 @@ for Reactive Programming](http://mviering.de/reactiveruby.pdf)**. Master thesis,
 
 * J. An, A. Chaudhuri, and J. S. Foster. **[Static type inference for Ruby](http://www.cs.umd.edu/projects/PL/druby/papers/druby-oops09.pdf)**. In Proceedings of the 24th IEEE/ACM International Conference on Automated Software Engineering, 2009.
 
-## Applications
+### Applications
 
-### Bioinformatics
+#### Bioinformatics
 
 * R. Smith, R. Williamson, D. Ventura, and J. T. Prince. **[Rubabel: wrapping open Babel with Ruby](http://www.biomedcentral.com/content/pdf/1758-2946-5-35.pdf)**. Journal of Cheminformatics, 5(1), 35, 2013.
 
 * N. Goto, P. Prins, M. Nakao, R. Bonnal, J. Aerts, and T. Katayama. **[Bioruby: bioinformatics software for the Ruby programming language](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2951089/pdf/btq475.pdf)**. Bioinformatics, 26(20):2617–9, Oct 2010.
 
-### Distributed Computing
+#### Distributed Computing
 
 * J. Collins. **[Communication Paradigms for Mobile Ad Hoc Networks](https://escholarship.org/uc/item/8md1h50q)**. PhD thesis, 2014.
 
-### Modelling
+#### Modelling
 
 * J. S. Cuadrado, J. G. Molina, and M. M. Tortosa. **[RubyTL: A practical, extensible transformation language](http://link.springer.com/chapter/10.1007/11787044_13)**. Model Driven Architecture - Foundations and Applications, 4066, 2006.
 
-### Robotics
+#### Robotics
 
 * B. Roman, C. Scholin, S. Jensen, E. Massion, R. Marin III, C. Preston, D. Greenfield, W. Jones, K. Wheeler. **[Controlling a Robotic Marine Environmental Sampler with the Ruby Scripting Language](http://jla.sagepub.com/content/12/1/56.full.pdf)**, JALA - Journal of the Association for Laboratory Automation, 12(1), 56-61, 2007
 
-### Computer Vision
+#### Computer Vision
 
 * J. Wedekind. **[Efficient Implementations of Machine Vision Algorithms using a Dynamically Typed Programming Language](http://dx.doi.org/10.6084/m9.figshare.97244)**, PhD thesis, 2012.
 
@@ -148,3 +150,7 @@ for Reactive Programming](http://mviering.de/reactiveruby.pdf)**. Master thesis,
 Compiled by [Chris Seaton](http://chrisseaton.com/) and others
 
 Contributions appreciated - [fork on GitHub](https://github.com/rubybib/rubybib.org)
+
+The Ruby Logo is Copyright (c) 2006, Yukihiro Matsumoto. It is licensed
+under the terms of the Creative Commons Attribution-ShareAlike 2.5
+agreement.

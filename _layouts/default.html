@@ -12,17 +12,28 @@
   <link href="bootstrap-3.3.1/css/bootstrap.min.css" rel="stylesheet">
   <link href="bootstrap-3.3.1/css/bootstrap-theme.min.css" rel="stylesheet">
   <style>
+    .container {
+      margin-top: 2em;
+      margin-bottom: 3em;
+    }
+    img {
+      float: right;
+      width: 200px;
+      height: 200px;
+      margin-left: 2em;
+      margin-bottom: 2em;
+    }
     .tag {
-    display: inline;
-    padding: .2em .6em .3em;
-    font-size: 75%;
-    font-weight: bold;
-    line-height: 1;
-    color: #fff;
-    text-align: center;
-    white-space: nowrap;
-    vertical-align: baseline;
-    border-radius: .25em;
+      display: inline;
+      padding: .2em .6em .3em;
+      font-size: 75%;
+      font-weight: bold;
+      line-height: 1;
+      color: #fff;
+      text-align: center;
+      white-space: nowrap;
+      vertical-align: baseline;
+      border-radius: .25em;
     }
     .tag-mri {
       background-color: #a40000;
@@ -45,7 +56,9 @@
 <body>
 <div class="container">
 <header>
+<div class="page-header">
 <h1 class="title">{{ page.title }}</h1>
+</div>
 </header>
 {{ content }}
 </div>
