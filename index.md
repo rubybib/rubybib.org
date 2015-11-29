@@ -33,7 +33,7 @@ for Reactive Programming](http://mviering.de/reactiveruby.pdf)**. Master thesis,
 <span class="tag tag-jruby">JRuby</span>
 <span class="tag tag-truffle">Truffle</span>
 
-* M. Grimmer, C. Seaton, R. Schatz, T. Würthinger, H. Mössenböck. **High-Performance Cross-Language Interoperability in a Multi-Language Runtime**. In Proceedings of 11th Dynamic Languages Symposium (DLS) (to appear).
+* M. Grimmer, C. Seaton, R. Schatz, T. Würthinger, H. Mössenböck. **[High-Performance Cross-Language Interoperability in a Multi-Language Runtime](http://chrisseaton.com/rubytruffle/dls15-interop/dls15-interop.pdf)**. In Proceedings of 11th Dynamic Languages Symposium (DLS).
 <span class="tag tag-jruby">JRuby</span>
 <span class="tag tag-truffle">Truffle</span>
 
