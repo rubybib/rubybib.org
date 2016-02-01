@@ -111,6 +111,10 @@ for Reactive Programming](http://mviering.de/reactiveruby.pdf)**. Master thesis,
 
 * N. Goto, P. Prins, M. Nakao, R. Bonnal, J. Aerts, and T. Katayama. **[Bioruby: bioinformatics software for the Ruby programming language](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2951089/pdf/btq475.pdf)**. Bioinformatics, 26(20):2617–9, Oct 2010.
 
+#### Content Management
+
+* A. Tapiador, J. Salvachúa. **[Content Management in Ruby on Rails](http://singularities.org/atd/docs/Content_management_in_Ruby_on_Rails.pdf)** . Proceedings of the IADIS International Conference on Collaborative Technologies 2011.
+
 #### Distributed Computing
 
 * J. Collins. **[Communication Paradigms for Mobile Ad Hoc Networks](https://escholarship.org/uc/item/8md1h50q)**. PhD thesis, 2014.
@@ -122,6 +126,12 @@ for Reactive Programming](http://mviering.de/reactiveruby.pdf)**. Master thesis,
 #### Robotics
 
 * B. Roman, C. Scholin, S. Jensen, E. Massion, R. Marin III, C. Preston, D. Greenfield, W. Jones, K. Wheeler. **[Controlling a Robotic Marine Environmental Sampler with the Ruby Scripting Language](http://jla.sagepub.com/content/12/1/56.full.pdf)**, JALA - Journal of the Association for Laboratory Automation, 12(1), 56-61, 2007
+
+#### Social Networks
+
+* A. Tapiador, D. Carrera, J. Salvachúa. **[Social Stream, a social network framework](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6476557)**. Proceedings of International Conference on Future Generation Communication Technology (FGCT 2012).
+
+* A. Tapiador **[A framework for building distributed social network websites](http://oa.upm.es/21801/)**. PhD thesis, 2013.
 
 #### Computer Vision
 
