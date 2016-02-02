@@ -32,15 +32,15 @@ All paper links were publicly available.
 <span class="tag tag-jruby">JRuby</span>
 <span class="tag tag-truffle">Truffle</span>
 
-* M. Grimmer, C. Seaton, R. Schatz, T. Würthinger, H. Mössenböck. **[High-Performance Cross-Language Interoperability in a Multi-Language Runtime](http://chrisseaton.com/rubytruffle/dls15-interop/dls15-interop.pdf)**. In Proceedings of 11th Dynamic Languages Symposium (DLS).
+* M. Grimmer, C. Seaton, R. Schatz, T. Würthinger, H. Mössenböck. **[High-Performance Cross-Language Interoperability in a Multi-Language Runtime](http://chrisseaton.com/rubytruffle/dls15-interop/dls15-interop.pdf)**. In Proceedings of 11th Dynamic Languages Symposium (DLS), 2015.
 <span class="tag tag-jruby">JRuby</span>
 <span class="tag tag-truffle">Truffle</span>
 
-* F. Niephaus, M. Springer, T. Felgentreff, T. Pape, R. Hirschfeld. **[Call-target-specific Method Arguments](https://github.com/HPI-SWA-Lab/TargetSpecific-ICOOOLPS/raw/gh-pages/call_target_specific_method_arguments.pdf)**. In Proceedings of the 10th Implementation, Compilation, Optimization of Object-Oriented Languages, Programs and Systems Workshop (ICOOOLPS).
+* F. Niephaus, M. Springer, T. Felgentreff, T. Pape, R. Hirschfeld. **[Call-target-specific Method Arguments](https://github.com/HPI-SWA-Lab/TargetSpecific-ICOOOLPS/raw/gh-pages/call_target_specific_method_arguments.pdf)**. In Proceedings of the 10th Implementation, Compilation, Optimization of Object-Oriented Languages, Programs and Systems Workshop (ICOOOLPS), 2015.
 <span class="tag tag-jruby">JRuby</span>
 <span class="tag tag-truffle">Truffle</span>
 
-* B. Daloze, C. Seaton, D. Bonetta, H. Mössenböck. **[Techniques and Applications for Guest-Language Safepoints](http://chrisseaton.com/rubytruffle/icooolps15-safepoints/safepoints.pdf)**. In Proceedings of the 10th Implementation, Compilation, Optimization of Object-Oriented Languages, Programs and Systems Workshop (ICOOOLPS).
+* B. Daloze, C. Seaton, D. Bonetta, H. Mössenböck. **[Techniques and Applications for Guest-Language Safepoints](http://chrisseaton.com/rubytruffle/icooolps15-safepoints/safepoints.pdf)**. In Proceedings of the 10th Implementation, Compilation, Optimization of Object-Oriented Languages, Programs and Systems Workshop (ICOOOLPS), 2015.
 <span class="tag tag-jruby">JRuby</span>
 <span class="tag tag-truffle">Truffle</span>
 
@@ -112,7 +112,7 @@ All paper links were publicly available.
 
 #### Content Management
 
-* A. Tapiador, J. Salvachúa. **[Content Management in Ruby on Rails](http://singularities.org/atd/docs/Content_management_in_Ruby_on_Rails.pdf)** . Proceedings of the IADIS International Conference on Collaborative Technologies 2011.
+* A. Tapiador, J. Salvachúa. **[Content Management in Ruby on Rails](http://singularities.org/atd/docs/Content_management_in_Ruby_on_Rails.pdf)**. Proceedings of the IADIS International Conference on Collaborative Technologies, 2011.
 
 #### Distributed Computing
 
@@ -124,21 +124,21 @@ All paper links were publicly available.
 
 #### Robotics
 
-* B. Roman, C. Scholin, S. Jensen, E. Massion, R. Marin III, C. Preston, D. Greenfield, W. Jones, K. Wheeler. **[Controlling a Robotic Marine Environmental Sampler with the Ruby Scripting Language](http://jla.sagepub.com/content/12/1/56.full.pdf)**, JALA - Journal of the Association for Laboratory Automation, 12(1), 56-61, 2007
+* B. Roman, C. Scholin, S. Jensen, E. Massion, R. Marin III, C. Preston, D. Greenfield, W. Jones, K. Wheeler. **[Controlling a Robotic Marine Environmental Sampler with the Ruby Scripting Language](http://jla.sagepub.com/content/12/1/56.full.pdf)**. JALA - Journal of the Association for Laboratory Automation, 12(1), 56-61, 2007.
 
 #### Social Networks
 
-* A. Tapiador, D. Carrera, J. Salvachúa. **[Social Stream, a social network framework](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6476557)**. Proceedings of International Conference on Future Generation Communication Technology (FGCT 2012).
+* A. Tapiador, D. Carrera, J. Salvachúa. **[Social Stream, a social network framework](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6476557)**. Proceedings of International Conference on Future Generation Communication Technology (FGCT), 2012.
 
 * A. Tapiador **[A framework for building distributed social network websites](http://oa.upm.es/21801/)**. PhD thesis, 2013.
 
 #### Computer Vision
 
-* J. Wedekind. **[Efficient Implementations of Machine Vision Algorithms using a Dynamically Typed Programming Language](http://dx.doi.org/10.6084/m9.figshare.97244)**, PhD thesis, 2012.
+* J. Wedekind. **[Efficient Implementations of Machine Vision Algorithms using a Dynamically Typed Programming Language](http://dx.doi.org/10.6084/m9.figshare.97244)**. PhD thesis, 2012.
 
 ## Standards
 
-* IPA Ruby Standardization WG. **[Programming Languages — Ruby (Draft)](https://www.ipa.go.jp/osc/english/ruby/)** (the Ruby ISO standard). 2010.
+* IPA Ruby Standardization WG. **[Programming Languages — Ruby (Draft)](https://www.ipa.go.jp/osc/english/ruby/)**. Final draft of the Ruby ISO standard, 2010.
 
 ## FLOSS Community Studies
 
@@ -148,7 +148,7 @@ All paper links were publicly available.
 
 ### Virtual Machines
 
-* A. Goldberg, and D. Robson. **[Smalltalk 80: The Language and Its Implementation](http://stephane.ducasse.free.fr/FreeBooks/BlueBook/Bluebook.pdf)**. Addison-Wesley Publishing Company. 1983.
+* A. Goldberg, and D. Robson. **[Smalltalk 80: The Language and Its Implementation](http://stephane.ducasse.free.fr/FreeBooks/BlueBook/Bluebook.pdf)**. Addison-Wesley Publishing Company, 1983.
 
 ### Type Systems
 
