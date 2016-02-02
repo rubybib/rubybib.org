@@ -102,6 +102,10 @@ All paper links were publicly available.
 
 * J. An, A. Chaudhuri, and J. S. Foster. **[Static Type Inference for Ruby](http://www.cs.umd.edu/projects/PL/druby/papers/druby-oops09.pdf)**. In Proceedings of the 24th IEEE/ACM International Conference on Automated Software Engineering, 2009.
 
+### Software Engineering
+
+* T. Poncelet, and L. Vigneron. **[The Phenomenal Gem - Putting Features as a Service on Rails](http://phenomenal-gem.com/The_Phenomenal_Gem_Poncelet_Vigneron_2012.pdf)**. Master's thesis, Université Catholique de Louvain, 2012.
+
 ### Applications
 
 #### Bioinformatics
