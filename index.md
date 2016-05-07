@@ -86,6 +86,8 @@ All paper links were publicly available.
 
 ### Type Systems
 
+* B. M. Ren, and J. S. Foster. **[Just-in-Time Static Type Checking for Dynamic Languages](http://www.cs.umd.edu/~jfoster/papers/pldi16.pdf)**. PLDI, 2016.
+
 * B. M. Ren, J. Toman, T. S. Strickland, and J. S. Foster. **[The Ruby Type Checker](http://www.cs.umd.edu/~jfoster/papers/oops13.pdf)**. In Proceedings of the 28th Symposium on Applied Computing (SAC), 2013.
 
 * J. An, A. Chaudhuri, J. S. Foster, and M. Hicks. **[Dynamic Inference of Static Types for Ruby](http://www.cs.umd.edu/~jfoster/papers/popl11.pdf)**. In Proceedings of the 38th ACM Symposium on Principles of Programming Languages (POPL), 2011.
