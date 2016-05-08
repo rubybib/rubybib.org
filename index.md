@@ -106,6 +106,10 @@ All paper links were publicly available.
 
 * T. Poncelet, and L. Vigneron. **[The Phenomenal Gem - Putting Features as a Service on Rails](http://phenomenal-gem.com/The_Phenomenal_Gem_Poncelet_Vigneron_2012.pdf)**. Master's thesis, Université Catholique de Louvain, 2012.
 
+### Security
+
+* J. P. Near, and D. Jackson. **[Finding Security Bugs in Web Applications using a Catalog of Access Control Patterns.](http://dspace.mit.edu/openaccess-disseminate/1721.1/102281)**. 38th International Conference on Software Engineering, 2016.
+
 ### Applications
 
 #### Bioinformatics
