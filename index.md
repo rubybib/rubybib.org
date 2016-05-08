@@ -110,7 +110,7 @@ All paper links were publicly available.
 
 ### Security
 
-* J. P. Near, and D. Jackson. **[Finding Security Bugs in Web Applications using a Catalog of Access Control Patterns.](http://dspace.mit.edu/openaccess-disseminate/1721.1/102281)**. 38th International Conference on Software Engineering, 2016.
+* J. P. Near, and D. Jackson. **[Finding Security Bugs in Web Applications using a Catalog of Access Control Patterns](http://dspace.mit.edu/openaccess-disseminate/1721.1/102281)**. 38th International Conference on Software Engineering, 2016.
 
 ### Applications
 
