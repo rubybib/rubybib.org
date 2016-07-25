@@ -8,7 +8,7 @@ title: The Ruby Bibliography
 The [Ruby programming language](http://ruby-lang.org/) hasn't historically been
 the subject of much research, either in industry or academia. A lot of recent
 systems research has used languages like C, C++ and Java. Contemporary
-programming language research often uses languages like Java, Scala and Haskell.
+programming language research often uses languages like Java, Scala, Racket and Haskell.
 Modern research into VMs, compilers and garbage collectors is often based on
 Java or recently Python.
 
