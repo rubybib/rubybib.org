@@ -70,6 +70,10 @@ All paper links were publicly available.
 
 ### Parallelism and Concurrency
 
+* B. Daloze, S. Marr, D. Bonetta, H. Mössenböck. **[Efficient and Thread-Safe Objects for Dynamically-Typed Languages](http://ssw.jku.at/General/Staff/Daloze/thread-safe-objects.pdf)**. In Proceedings of the ACM International Conference on Object Oriented Programming Systems Languages and Applications (OOPSLA), 2016.
+<span class="tag tag-jruby">JRuby</span>
+<span class="tag tag-truffle">Truffle</span>
+
 * C. Ding, B. Gernhardt, P. Li, and M. Hertz. **[Safe Parallel Programming in an Interpreted Language](http://polaris.cs.uiuc.edu/hpsl/abstracts/a7-ding.pdf)**. In Proceedings of the First Workshop on the High Performance Scripting Languages, 2015.
 <span class="tag tag-mri">MRI</span>
 
