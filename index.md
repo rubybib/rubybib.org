@@ -124,7 +124,7 @@ All paper links were publicly available.
 
 #### Artificial Intelligence
 
-* J. Adam. **[Designing Emergence: automatic extraction of stigmergic algorithms from lattice structures](http://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.428979) ([pdf here](http://assets.lazyatom.com/thesis.pdf))**. PhD Thesis, 2006.
+* J. Adam. **[Designing Emergence: automatic extraction of stigmergic algorithms from lattice structures](http://assets.lazyatom.com/thesis.pdf)**. PhD Thesis, 2006.
 
 #### Bioinformatics
 
