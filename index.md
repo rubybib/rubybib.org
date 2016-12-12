@@ -122,6 +122,10 @@ All paper links were publicly available.
 
 ### Applications
 
+#### Artificial Intelligence
+
+* J. Adam. **[Designing Emergence: automatic extraction of stigmergic algorithms from lattice structures](http://assets.lazyatom.com/thesis.pdf)**. PhD Thesis, 2006.
+
 #### Bioinformatics
 
 * R. Smith, R. Williamson, D. Ventura, and J. T. Prince. **[Rubabel: wrapping open Babel with Ruby](http://www.biomedcentral.com/content/pdf/1758-2946-5-35.pdf)**. Journal of Cheminformatics, 5(1), 35, 2013.
