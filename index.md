@@ -24,7 +24,7 @@ All paper links were publicly available.
 
 ### Virtual Machines
 
-* T. Würthinger, C. Wimmer, C. Humer, A. Wöss, L. Stadler, C. Seaton, G. Duboscq, D. Simon, M. Grimmer. **[Practical Partial Evaluation for High-Performance Dynamic Language Runtimes](http://pldi17.sigplan.org/event/pldi-2017-papers-practical-partial-evaluation-for-high-performance-dynamic-language-runtimes)**. In Proceedings of the Conference on Programming Language Design and Implementation (PLDI), 2017. (Tentatively accepted.)
+* T. Würthinger, C. Wimmer, C. Humer, A. Wöss, L. Stadler, C. Seaton, G. Duboscq, D. Simon, M. Grimmer. **[Practical Partial Evaluation for High-Performance Dynamic Language Runtimes](http://chrisseaton.com/rubytruffle/pldi17-truffle/pldi17-truffle.pdf)**. In Proceedings of the Conference on Programming Language Design and Implementation (PLDI), 2017.
 <span class="tag tag-truffle">Truffle</span>
 
 * C. Seaton. **[AST Specialisation and Partial Evaluation for Easy High-Performance Metaprogramming](http://chrisseaton.com/rubytruffle/meta16/meta16-ruby.pdf)**. In Proceedings of the 1st Workshop on Meta-Programming Techniques and Reflection (META), 2016.
