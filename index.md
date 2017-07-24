@@ -117,7 +117,7 @@ All paper links were publicly available.
 
 ### Software Engineering
 
-* T. Poncelet, and L. Vigneron. **[The Phenomenal Gem - Putting Features as a Service on Rails](http://phenomenal-gem.com/The_Phenomenal_Gem_Poncelet_Vigneron_2012.pdf)**. Master's thesis, Université Catholique de Louvain, 2012.
+* T. Poncelet, and L. Vigneron. **[The Phenomenal Gem - Putting Features as a Service on Rails](http://phenomenal-gem.com)**. Master's thesis, Université Catholique de Louvain, 2012.
 
 ### Security
 
