@@ -3,14 +3,12 @@ layout: default
 title: The Ruby Bibliography
 ---
 
-![The Ruby Logo is Copyright (c) 2006, Yukihiro Matsumoto. It is licensed under the terms of the Creative Commons Attribution-ShareAlike 2.5 agreement.](ruby.png)
-
 The [Ruby programming language](http://ruby-lang.org/) hasn't historically been
 the subject of much research, either in industry or academia. A lot of recent
 systems research has used languages like C, C++ and Java. Contemporary
-programming language research often uses languages like Java, Scala, Racket and Haskell.
-Modern research into VMs, compilers and garbage collectors is often based on
-Java or recently Python.
+programming language research often uses languages like Java, Scala, Racket and
+Haskell. Modern research into VMs, compilers and garbage collectors is often
+based on Java or recently Python.
 
 However there are now a growing number of research projects using Ruby. On this
 page we list theses and peer-reviewed papers and articles that cover Ruby
@@ -178,13 +176,3 @@ All paper links were publicly available.
 ### Type Systems
 
 * R. Cartwright and M. Fagan, **[Soft Typing](http://www.cs.rice.edu/CS/PLT/Publications/Scheme/pldi91-cf.ps.gz)**. In Proceedings of the ACM SIGPLAN 1991 conference on Programming language design and implementation, New York, New York, USA, 1991.
-
-----
-
-Compiled by [Chris Seaton](http://chrisseaton.com/) and others
-
-Contributions appreciated - [fork on GitHub](https://github.com/rubybib/rubybib.org)
-
-The Ruby Logo is Copyright (c) 2006, Yukihiro Matsumoto. It is licensed
-under the terms of the Creative Commons Attribution-ShareAlike 2.5
-agreement.
