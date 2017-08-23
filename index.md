@@ -8,46 +8,37 @@ title: The Ruby Bibliography
 ### Virtual Machines
 
 * T. Würthinger, C. Wimmer, C. Humer, A. Wöss, L. Stadler, C. Seaton, G. Duboscq, D. Simon, M. Grimmer. **[Practical Partial Evaluation for High-Performance Dynamic Language Runtimes](http://chrisseaton.com/rubytruffle/pldi17-truffle/pldi17-truffle.pdf)**. In Proceedings of the Conference on Programming Language Design and Implementation (PLDI), 2017.
-<span class="badge badge-primary">Truffle</span>
+<span class="badge badge-warning">TruffleRuby</span>
 
 * C. Seaton. **[AST Specialisation and Partial Evaluation for Easy High-Performance Metaprogramming](http://chrisseaton.com/rubytruffle/meta16/meta16-ruby.pdf)**. In Proceedings of the 1st Workshop on Meta-Programming Techniques and Reflection (META), 2016.
-<span class="badge badge-info">JRuby</span>
-<span class="badge badge-primary">Truffle</span>
+<span class="badge badge-warning">TruffleRuby</span>
 
 * M. Viering. **[An Efficient Runtime System for Reactive Programming](http://mviering.de/reactiveruby.pdf)**. Master thesis, Technische Universität Darmstadt, 2015.
-<span class="badge badge-info">JRuby</span>
-<span class="badge badge-primary">Truffle</span>
+<span class="badge badge-warning">TruffleRuby</span>
 
 * C. Seaton. **[Specialising Dynamic Techniques for Implementing the Ruby Programming Langauge](http://chrisseaton.com/phd/specialising-ruby.pdf)**. PhD thesis, University of Manchester, 2015.
-<span class="badge badge-info">JRuby</span>
-<span class="badge badge-primary">Truffle</span>
+<span class="badge badge-warning">TruffleRuby</span>
 
 * M. Grimmer, C. Seaton, R. Schatz, T. Würthinger, H. Mössenböck. **[High-Performance Cross-Language Interoperability in a Multi-Language Runtime](http://chrisseaton.com/rubytruffle/dls15-interop/dls15-interop.pdf)**. In Proceedings of 11th Dynamic Languages Symposium (DLS), 2015.
-<span class="badge badge-info">JRuby</span>
-<span class="badge badge-primary">Truffle</span>
+<span class="badge badge-warning">TruffleRuby</span>
 
 * F. Niephaus, M. Springer, T. Felgentreff, T. Pape, R. Hirschfeld. **[Call-target-specific Method Arguments](https://github.com/HPI-SWA-Lab/TargetSpecific-ICOOOLPS/raw/gh-pages/call_target_specific_method_arguments.pdf)**. In Proceedings of the 10th Implementation, Compilation, Optimization of Object-Oriented Languages, Programs and Systems Workshop (ICOOOLPS), 2015.
-<span class="badge badge-info">JRuby</span>
-<span class="badge badge-primary">Truffle</span>
+<span class="badge badge-warning">TruffleRuby</span>
 
 * B. Daloze, C. Seaton, D. Bonetta, H. Mössenböck. **[Techniques and Applications for Guest-Language Safepoints](http://chrisseaton.com/rubytruffle/icooolps15-safepoints/safepoints.pdf)**. In Proceedings of the 10th Implementation, Compilation, Optimization of Object-Oriented Languages, Programs and Systems Workshop (ICOOOLPS), 2015.
-<span class="badge badge-info">JRuby</span>
-<span class="badge badge-primary">Truffle</span>
+<span class="badge badge-warning">TruffleRuby</span>
 
 * S. Marr, C. Seaton, S. Ducasse. **[Zero-Overhead Metaprogramming: Reflection and Metaobject Protocols Fast and without Compromises](http://chrisseaton.com/rubytruffle/pldi15-metaprogramming/pldi15-marr-et-al-zero-overhead-metaprogramming.pdf)**. In Proceedings of the 36th Conference on Programming Language Design and Implementation (PLDI), 2015.
-<span class="badge badge-info">JRuby</span>
-<span class="badge badge-primary">Truffle</span>
+<span class="badge badge-warning">TruffleRuby</span>
 
 * M. Grimmer, C. Seaton, T. Würthinger, H. Mössenböck. **[Dynamically Composing Languages in a Modular Way: Supporting C Extensions for Dynamic Languages](http://www.chrisseaton.com/rubytruffle/modularity15/rubyextensions.pdf)**. In Proceedings of the 14th International Conference on Modularity, 2015.
-<span class="badge badge-info">JRuby</span>
-<span class="badge badge-primary">Truffle</span>
+<span class="badge badge-warning">TruffleRuby</span>
 
 * A. Wöß, C. Wirth, D. Bonetta, C. Seaton, C. Humer, and H. Mössenböck. **[An Object Storage Model for the Truffle Language Implementation Framework](http://www.chrisseaton.com/rubytruffle/pppj14-om/pppj14-om.pdf)**. In Proceedings of the International Conference on Principles and Practices of Programming on the Java Platform (PPPJ), 2014.
-<span class="badge badge-info">JRuby</span>
-<span class="badge badge-primary">Truffle</span>
+<span class="badge badge-warning">TruffleRuby</span>
 
 * M. Springer. **[Inter-language Collaboration in an Object-oriented Virtual Machine](http://www.matthiasspringer.de/downloads/BP2012H1_intra-language_collaboration.pdf)**. Bachelor's thesis, Hasso-Plattner-Institute, 2013.
-<span class="badge badge-warning">MagLev</span>
+<span class="badge badge-primary">MagLev</span>
 
 * M. Furr, J. An, J. S. Foster, and M. Hicks. **[The Ruby Intermediate Language](http://www.cs.umd.edu/projects/PL/druby/papers/druby-dls09.pdf)**. In Proceedings of the Dynamic Language Symposium, 2009.
 
@@ -57,8 +48,7 @@ title: The Ruby Bibliography
 ### Parallelism and Concurrency
 
 * B. Daloze, S. Marr, D. Bonetta, H. Mössenböck. **[Efficient and Thread-Safe Objects for Dynamically-Typed Languages](http://ssw.jku.at/General/Staff/Daloze/thread-safe-objects.pdf)**. In Proceedings of the ACM International Conference on Object Oriented Programming Systems Languages and Applications (OOPSLA), 2016.
-<span class="badge badge-info">JRuby</span>
-<span class="badge badge-primary">Truffle</span>
+<span class="badge badge-warning">TruffleRuby</span>
 
 * C. Ding, B. Gernhardt, P. Li, and M. Hertz. **[Safe Parallel Programming in an Interpreted Language](http://polaris.cs.uiuc.edu/hpsl/abstracts/a7-ding.pdf)**. In Proceedings of the First Workshop on the High Performance Scripting Languages, 2015.
 <span class="badge badge-danger">MRI</span>
@@ -75,8 +65,7 @@ title: The Ruby Bibliography
 ### Tooling
 
 * C. Seaton, M. L. Van De Vanter, and M. Haupt. **[Debugging at Full Speed](http://www.lifl.fr/dyla14/papers/dyla14-3-Debugging_at_Full_Speed.pdf)**. In Proceedings of the 8th Workshop on Dynamic Languages and Applications (DYLA), 2014. ([source code](http://lafo.ssw.uni-linz.ac.at/truffle/debugging/dyla14-debugging-artifact-0557a4f756d4.tar.gz))
-<span class="badge badge-info">JRuby</span>
-<span class="badge badge-primary">Truffle</span>
+<span class="badge badge-warning">TruffleRuby</span>
 
 ### Type Systems
 
