@@ -19,20 +19,65 @@
   <meta name="msapplication-TileColor" content="#ffffff">
   <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
   <meta name="theme-color" content="#ffffff">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+  <link rel="stylesheet" href="bootstrap.min.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <style>
+    header {
+      margin-top: 2em;
+    }
+    h1 {
+      hyphens: auto;
+      -webkit-hyphens: auto;
+    }
+    h2 {
+      margin-top: 1em;
+      margin-bottom: 1em;
+    }
+    h3 {
+      margin-top: 1em;
+      margin-bottom: 1em;
+    }
+    footer {
+      margin-top: 4em;
+      padding: 2em;
+    }
+  </style>
+
   <title>{{ page.title }}</title>
 </head>
 <body>
 <div class="container">
 <header>
-<h1 class="title">{{ page.title }}</h1>
+<div class="jumbotron">
+  <h1 class="display-3">{{ page.title }}</h1>
+  <p class="lead">Academic writing on the Ruby programming language</p>
+</div>
 </header>
+<div class="row">
+<div class="col-md-6">
+<p>The <a href="http://ruby-lang.org/">Ruby programming language</a> hasn't historically been
+the subject of much research, either in industry or academia. A lot of recent
+systems research has used languages like C, C++ and Java. Contemporary
+programming language research often uses languages like Java, Scala, Racket and
+Haskell. Modern research into VMs, compilers and garbage collectors is often
+based on Java or recently Python.</p>
+<p>However there are now a growing number of research projects using Ruby. On this
+page we list theses and peer-reviewed papers and articles that cover Ruby
+implementation or use Ruby, including alternative implementations such as JRuby.
+We also list other notable papers that don't mention Ruby but are applied in
+Ruby implementations.</p>
+</div>
+<div class="col-md-6">
+  <p class="text-center"><img src="logo/logo.png" width="300px" height="300px"></p>
+</div>
+</div>
 {{ content }}
-<footer>
+</div>
+<footer class="bg-light text-center">
 <p>Compiled by <a href="http://chrisseaton.com/)">Chris Seaton</a> and others.</p>
+<p>All paper links were publicly available.</p>
 <p>Contributions appreciated - <a href="https://github.com/rubybib/rubybib.org">fork on GitHub</a>.</p>
 </footer>
-</div>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

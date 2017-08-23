@@ -3,95 +3,80 @@ layout: default
 title: The Ruby Bibliography
 ---
 
-The [Ruby programming language](http://ruby-lang.org/) hasn't historically been
-the subject of much research, either in industry or academia. A lot of recent
-systems research has used languages like C, C++ and Java. Contemporary
-programming language research often uses languages like Java, Scala, Racket and
-Haskell. Modern research into VMs, compilers and garbage collectors is often
-based on Java or recently Python.
-
-However there are now a growing number of research projects using Ruby. On this
-page we list theses and peer-reviewed papers and articles that cover Ruby
-implementation or use Ruby, including alternative implementations such as JRuby.
-We also list other notable papers that don't mention Ruby but are applied in
-Ruby implementations.
-
-All paper links were publicly available.
-
 ## Ruby
 
 ### Virtual Machines
 
 * T. Würthinger, C. Wimmer, C. Humer, A. Wöss, L. Stadler, C. Seaton, G. Duboscq, D. Simon, M. Grimmer. **[Practical Partial Evaluation for High-Performance Dynamic Language Runtimes](http://chrisseaton.com/rubytruffle/pldi17-truffle/pldi17-truffle.pdf)**. In Proceedings of the Conference on Programming Language Design and Implementation (PLDI), 2017.
-<span class="tag tag-truffle">Truffle</span>
+<span class="badge badge-primary">Truffle</span>
 
 * C. Seaton. **[AST Specialisation and Partial Evaluation for Easy High-Performance Metaprogramming](http://chrisseaton.com/rubytruffle/meta16/meta16-ruby.pdf)**. In Proceedings of the 1st Workshop on Meta-Programming Techniques and Reflection (META), 2016.
-<span class="tag tag-jruby">JRuby</span>
-<span class="tag tag-truffle">Truffle</span>
+<span class="badge badge-info">JRuby</span>
+<span class="badge badge-primary">Truffle</span>
 
 * M. Viering. **[An Efficient Runtime System for Reactive Programming](http://mviering.de/reactiveruby.pdf)**. Master thesis, Technische Universität Darmstadt, 2015.
-<span class="tag tag-jruby">JRuby</span>
-<span class="tag tag-truffle">Truffle</span>
+<span class="badge badge-info">JRuby</span>
+<span class="badge badge-primary">Truffle</span>
 
 * C. Seaton. **[Specialising Dynamic Techniques for Implementing the Ruby Programming Langauge](http://chrisseaton.com/phd/specialising-ruby.pdf)**. PhD thesis, University of Manchester, 2015.
-<span class="tag tag-jruby">JRuby</span>
-<span class="tag tag-truffle">Truffle</span>
+<span class="badge badge-info">JRuby</span>
+<span class="badge badge-primary">Truffle</span>
 
 * M. Grimmer, C. Seaton, R. Schatz, T. Würthinger, H. Mössenböck. **[High-Performance Cross-Language Interoperability in a Multi-Language Runtime](http://chrisseaton.com/rubytruffle/dls15-interop/dls15-interop.pdf)**. In Proceedings of 11th Dynamic Languages Symposium (DLS), 2015.
-<span class="tag tag-jruby">JRuby</span>
-<span class="tag tag-truffle">Truffle</span>
+<span class="badge badge-info">JRuby</span>
+<span class="badge badge-primary">Truffle</span>
 
 * F. Niephaus, M. Springer, T. Felgentreff, T. Pape, R. Hirschfeld. **[Call-target-specific Method Arguments](https://github.com/HPI-SWA-Lab/TargetSpecific-ICOOOLPS/raw/gh-pages/call_target_specific_method_arguments.pdf)**. In Proceedings of the 10th Implementation, Compilation, Optimization of Object-Oriented Languages, Programs and Systems Workshop (ICOOOLPS), 2015.
-<span class="tag tag-jruby">JRuby</span>
-<span class="tag tag-truffle">Truffle</span>
+<span class="badge badge-info">JRuby</span>
+<span class="badge badge-primary">Truffle</span>
 
 * B. Daloze, C. Seaton, D. Bonetta, H. Mössenböck. **[Techniques and Applications for Guest-Language Safepoints](http://chrisseaton.com/rubytruffle/icooolps15-safepoints/safepoints.pdf)**. In Proceedings of the 10th Implementation, Compilation, Optimization of Object-Oriented Languages, Programs and Systems Workshop (ICOOOLPS), 2015.
-<span class="tag tag-jruby">JRuby</span>
-<span class="tag tag-truffle">Truffle</span>
+<span class="badge badge-info">JRuby</span>
+<span class="badge badge-primary">Truffle</span>
 
 * S. Marr, C. Seaton, S. Ducasse. **[Zero-Overhead Metaprogramming: Reflection and Metaobject Protocols Fast and without Compromises](http://chrisseaton.com/rubytruffle/pldi15-metaprogramming/pldi15-marr-et-al-zero-overhead-metaprogramming.pdf)**. In Proceedings of the 36th Conference on Programming Language Design and Implementation (PLDI), 2015.
-<span class="tag tag-jruby">JRuby</span>
-<span class="tag tag-truffle">Truffle</span>
+<span class="badge badge-info">JRuby</span>
+<span class="badge badge-primary">Truffle</span>
 
 * M. Grimmer, C. Seaton, T. Würthinger, H. Mössenböck. **[Dynamically Composing Languages in a Modular Way: Supporting C Extensions for Dynamic Languages](http://www.chrisseaton.com/rubytruffle/modularity15/rubyextensions.pdf)**. In Proceedings of the 14th International Conference on Modularity, 2015.
-<span class="tag tag-jruby">JRuby</span>
-<span class="tag tag-truffle">Truffle</span>
+<span class="badge badge-info">JRuby</span>
+<span class="badge badge-primary">Truffle</span>
 
 * A. Wöß, C. Wirth, D. Bonetta, C. Seaton, C. Humer, and H. Mössenböck. **[An Object Storage Model for the Truffle Language Implementation Framework](http://www.chrisseaton.com/rubytruffle/pppj14-om/pppj14-om.pdf)**. In Proceedings of the International Conference on Principles and Practices of Programming on the Java Platform (PPPJ), 2014.
-<span class="tag tag-jruby">JRuby</span>
-<span class="tag tag-truffle">Truffle</span>
+<span class="badge badge-info">JRuby</span>
+<span class="badge badge-primary">Truffle</span>
 
 * M. Springer. **[Inter-language Collaboration in an Object-oriented Virtual Machine](http://www.matthiasspringer.de/downloads/BP2012H1_intra-language_collaboration.pdf)**. Bachelor's thesis, Hasso-Plattner-Institute, 2013.
-<span class="tag tag-maglev">MagLev</span>
+<span class="badge badge-warning">MagLev</span>
 
 * M. Furr, J. An, J. S. Foster, and M. Hicks. **[The Ruby Intermediate Language](http://www.cs.umd.edu/projects/PL/druby/papers/druby-dls09.pdf)**. In Proceedings of the Dynamic Language Symposium, 2009.
 
 * K. Sasada. **[YARV: Yet Another RubyVM: Innovating the Ruby Interpreter](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.482.9851&rep=rep1&type=pdf)**. In Proceedings of the Companion to the 20th Conference on Object-Priented Programming, Systems, Languages, and Applications, 2005.
-<span class="tag tag-mri">MRI</span>
+<span class="badge badge-danger">MRI</span>
 
 ### Parallelism and Concurrency
 
 * B. Daloze, S. Marr, D. Bonetta, H. Mössenböck. **[Efficient and Thread-Safe Objects for Dynamically-Typed Languages](http://ssw.jku.at/General/Staff/Daloze/thread-safe-objects.pdf)**. In Proceedings of the ACM International Conference on Object Oriented Programming Systems Languages and Applications (OOPSLA), 2016.
-<span class="tag tag-jruby">JRuby</span>
-<span class="tag tag-truffle">Truffle</span>
+<span class="badge badge-info">JRuby</span>
+<span class="badge badge-primary">Truffle</span>
 
 * C. Ding, B. Gernhardt, P. Li, and M. Hertz. **[Safe Parallel Programming in an Interpreted Language](http://polaris.cs.uiuc.edu/hpsl/abstracts/a7-ding.pdf)**. In Proceedings of the First Workshop on the High Performance Scripting Languages, 2015.
-<span class="tag tag-mri">MRI</span>
+<span class="badge badge-danger">MRI</span>
 
 * L. Lu, W. Ji, and M. L. Scott. **[Dynamic Enforcement of Determinism in a Parallel Scripting Language](http://www.cs.rochester.edu/u/scott/papers/2014_PLDI_DPR.pdf)**. In Proceedings of the 35th Conference on Programming Language Design and Implementation (PLDI), 2014. ([source code](https://github.com/RB-DPR/RB-DPR))
-<span class="tag tag-jruby">JRuby</span>
+<span class="badge badge-info">JRuby</span>
 
 * R. Odaira, J. G. Castanos, and H. Tomari. **[Eliminating Global Interpreter Locks in Ruby through Hardware Transactional Memory](http://researcher.watson.ibm.com/researcher/files/jp-ODAIRA/PPoPP2014_RubyGILHTM.pdf)**. In Proceedings of the 19th Symposium on Principles and Practice of Parallel Programming (PPoPP), 2014.
-<span class="tag tag-mri">MRI</span>
+<span class="badge badge-danger">MRI</span>
 
 * W. Ji, L. Lu, and M. L. Scott. **[TARDIS: Task-level Access Race Detection by Intersecting Sets](http://wodet.cs.washington.edu/wp-content/uploads/2013/03/wodet2013-final9.pdf)**. In Proceedings of the 4th Workshop on Determinism and Correctness in Parallel Programming (WoDet), 2013.
-<span class="tag tag-jruby">JRuby</span>
+<span class="badge badge-info">JRuby</span>
 
 ### Tooling
 
 * C. Seaton, M. L. Van De Vanter, and M. Haupt. **[Debugging at Full Speed](http://www.lifl.fr/dyla14/papers/dyla14-3-Debugging_at_Full_Speed.pdf)**. In Proceedings of the 8th Workshop on Dynamic Languages and Applications (DYLA), 2014. ([source code](http://lafo.ssw.uni-linz.ac.at/truffle/debugging/dyla14-debugging-artifact-0557a4f756d4.tar.gz))
-<span class="tag tag-jruby">JRuby</span>
-<span class="tag tag-truffle">Truffle</span>
+<span class="badge badge-info">JRuby</span>
+<span class="badge badge-primary">Truffle</span>
 
 ### Type Systems
 
