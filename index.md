@@ -15,6 +15,9 @@ title: The Ruby Bibliography
 * C. Seaton. **[AST Specialisation and Partial Evaluation for Easy High-Performance Metaprogramming](http://chrisseaton.com/rubytruffle/meta16/meta16-ruby.pdf)**. In Proceedings of the 1st Workshop on Meta-Programming Techniques and Reflection (META), 2016.
 <span class="badge badge-warning">TruffleRuby</span>
 
+* Tanaka, Kazuaki, Avinash Dev Nagumanthri, and Yukihiro Matsumoto. **[mruby--Rapid Software Development for Embedded Systems.](https://www.researchgate.net/profile/Aviansh_Nagumanthri/publication/282816987_mruby_-_Rapid_Software_Development_for_Embedded_Systems/links/561f03e308ae50795aff64d0/mruby-Rapid-Software-Development-for-Embedded-Systems.pdf)**. Computational Science and Its Applications (ICCSA), 2015 15th International Conference on. IEEE, 2015.
+<span class="badge badge-warning">mruby</span>
+
 * M. Viering. **[An Efficient Runtime System for Reactive Programming](http://mviering.de/reactiveruby.pdf)**. Master thesis, Technische Universität Darmstadt, 2015.
 <span class="badge badge-warning">TruffleRuby</span>
 
