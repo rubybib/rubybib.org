@@ -145,13 +145,3 @@ title: The Ruby Bibliography
 ## FLOSS Community Studies
 
 * M. M. M. Syeed, K. M. Hansen, I. Hammouda, and K. Manikas. **[Socio-Technical Congruence in the Ruby Ecosystem](http://www.opensym.org/os2014/proceedings-files/p110.pdf)**. In Proceedings of the 10th International Symposium on Open Collaboration, 2014.
-
-## Notable Other Papers
-
-### Virtual Machines
-
-* A. Goldberg, and D. Robson. **[Smalltalk 80: The Language and Its Implementation](http://stephane.ducasse.free.fr/FreeBooks/BlueBook/Bluebook.pdf)**. Addison-Wesley Publishing Company, 1983.
-
-### Type Systems
-
-* R. Cartwright and M. Fagan, **[Soft Typing](http://www.cs.rice.edu/CS/PLT/Publications/Scheme/pldi91-cf.ps.gz)**. In Proceedings of the ACM SIGPLAN 1991 conference on Programming language design and implementation, New York, New York, USA, 1991.
