@@ -120,16 +120,17 @@ title: The Ruby Bibliography
 
 * J. Collins. **[Communication Paradigms for Mobile Ad Hoc Networks](https://escholarship.org/uc/item/8md1h50q)**. PhD thesis, 2014.
 
-#### Modelling
-
-* J. S. Cuadrado, J. G. Molina, and M. M. Tortosa. **[RubyTL: A Practical, Extensible Transformation Language](http://link.springer.com/chapter/10.1007/11787044_13)**. Model Driven Architecture - Foundations and Applications, 4066, 2006.
-
 #### Modeling and Simulation
 
-* Rząsa W.: **[Simulation-Based Analysis of a Platform as a Service Infrastructure Performance from a User Perspective](https://link.springer.com/chapter/10.1007/978-3-319-19419-6_17)**, P. Gaj et al. (Eds.): CN 2015, CCIS 522, pp. 182–192, 2015 ISBN: 978-3-319-19418-9.
-* Rząsa W., Rzońca D.: **[Event-Driven Approach to Modeling and Performance Estimation of a Distributed Control System](https://link.springer.com/chapter/10.1007/978-3-319-39207-3_15)**, in: Gaj P., Kwiecień A., and Stera P. (Eds.): Computer Networks 2016, Communications in Computer and Information Science 608, Springer International Publishing 2016, pp. 168-179.
-* Rząsa W.: **[Predicting Performance in a PaaS Environment: a Case Study for a Web Application](https://journals.agh.edu.pl/csci/article/view/1794)**. Computer Science, [S.l.], vol. 18(1), pp. 21 -39, 2017. ISSN 2300-7036. Date accessed: 15 May. 2017. doi:http://dx.doi.org/10.7494/csci.2017.18.1.21.
-* Rząsa W., Jamro M., Rzonca D.: **[Improving Accuracy of a Network Model Basing on the Case Study of a Distributed System with a Mobile Application and an API](https://link.springer.com/chapter/10.1007/978-3-319-59767-6_2)**. In: Gaj P., Kwiecień A., Sawicki M. (eds) Computer Networks. CN 2017. Communications in Computer and Information Science, vol 718. Springer, Cham, pp 14-27, DOI: 10.1007/978-3-319-59767-6_2
+* W. Rząsa. **[Predicting Performance in a PaaS Environment: a Case Study for a Web Application](https://journals.agh.edu.pl/csci/article/view/1794)**. In the Computer Science Journal, volume 18, number 1, 2017.
+
+* W. Rząsa, M. Jamro, and D. Rzonca: **[Improving Accuracy of a Network Model Basing on the Case Study of a Distributed System with a Mobile Application and an API](https://link.springer.com/chapter/10.1007/978-3-319-59767-6_2)**. In Proceedings of the International Conference on Computer Networks, 2017.
+
+* W. Rząsa, and D. Rzońca. **[Event-Driven Approach to Modeling and Performance Estimation of a Distributed Control System](https://link.springer.com/chapter/10.1007/978-3-319-39207-3_15)**. In Proceedings of the International Conference on Computer Networks, 2016.
+
+* W. Rząsa. **[Simulation-Based Analysis of a Platform as a Service Infrastructure Performance from a User Perspective](https://link.springer.com/chapter/10.1007/978-3-319-19419-6_17)**. In Proceedings of the International Conference on Computer Networks, 2015.
+
+* J. S. Cuadrado, J. G. Molina, and M. M. Tortosa. **[RubyTL: A Practical, Extensible Transformation Language](http://link.springer.com/chapter/10.1007/11787044_13)**. Model Driven Architecture - Foundations and Applications, 4066, 2006.
 
 #### Robotics
 
