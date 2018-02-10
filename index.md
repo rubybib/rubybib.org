@@ -124,6 +124,13 @@ title: The Ruby Bibliography
 
 * J. S. Cuadrado, J. G. Molina, and M. M. Tortosa. **[RubyTL: A Practical, Extensible Transformation Language](http://link.springer.com/chapter/10.1007/11787044_13)**. Model Driven Architecture - Foundations and Applications, 4066, 2006.
 
+#### Modeling and Simulation
+
+* Rząsa W.: **[Simulation-Based Analysis of a Platform as a Service Infrastructure Performance from a User Perspective](https://link.springer.com/chapter/10.1007/978-3-319-19419-6_17)**, P. Gaj et al. (Eds.): CN 2015, CCIS 522, pp. 182–192, 2015 ISBN: 978-3-319-19418-9.
+* Rząsa W., Rzońca D.: **[Event-Driven Approach to Modeling and Performance Estimation of a Distributed Control System](https://link.springer.com/chapter/10.1007/978-3-319-39207-3_15)**, in: Gaj P., Kwiecień A., and Stera P. (Eds.): Computer Networks 2016, Communications in Computer and Information Science 608, Springer International Publishing 2016, pp. 168-179.
+* Rząsa W.: **[Predicting Performance in a PaaS Environment: a Case Study for a Web Application](https://journals.agh.edu.pl/csci/article/view/1794)**. Computer Science, [S.l.], vol. 18(1), pp. 21 -39, 2017. ISSN 2300-7036. Date accessed: 15 May. 2017. doi:http://dx.doi.org/10.7494/csci.2017.18.1.21.
+* Rząsa W., Jamro M., Rzonca D.: **[Improving Accuracy of a Network Model Basing on the Case Study of a Distributed System with a Mobile Application and an API](https://link.springer.com/chapter/10.1007/978-3-319-59767-6_2)**. In: Gaj P., Kwiecień A., Sawicki M. (eds) Computer Networks. CN 2017. Communications in Computer and Information Science, vol 718. Springer, Cham, pp 14-27, DOI: 10.1007/978-3-319-59767-6_2
+
 #### Robotics
 
 * B. Roman, C. Scholin, S. Jensen, E. Massion, R. Marin III, C. Preston, D. Greenfield, W. Jones, K. Wheeler. **[Controlling a Robotic Marine Environmental Sampler with the Ruby Scripting Language](http://jla.sagepub.com/content/12/1/56.full.pdf)**. JALA - Journal of the Association for Laboratory Automation, 12(1), 56-61, 2007.
