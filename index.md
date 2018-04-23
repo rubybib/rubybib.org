@@ -45,6 +45,12 @@ title: The Ruby Bibliography
 * M. Springer. **[Inter-language Collaboration in an Object-oriented Virtual Machine](http://www.matthiasspringer.de/downloads/BP2012H1_intra-language_collaboration.pdf)**. Bachelor's thesis, Hasso-Plattner-Institute, 2013.
 <span class="badge badge-primary">MagLev</span>
 
+* S. Shiba, K. Sasada, K. Hiraki. **[CastOff: A Compiler for Ruby Implemented as a Library](http://id.nii.ac.jp/1001/00083504/)**. In Journal of Information Processing Society of Japan, Transactions on Programming, 2012. *In Japanese*.
+<span class="badge badge-danger">MRI</span>
+
+* S. Shiba, K. Sasada, S. Urabe, Y. Matsumoto, M. Inaba, K. Hiraki. **[A Practical AOT Compiler for Ruby](http://id.nii.ac.jp/1001/00073661/)**. In Journal of Information Processing Society of Japan, Transactions on Programming, 2011. *In Japanese*.
+<span class="badge badge-danger">MRI</span>
+
 * M. Furr, J. An, J. S. Foster, and M. Hicks. **[The Ruby Intermediate Language](http://www.cs.umd.edu/projects/PL/druby/papers/druby-dls09.pdf)**. In Proceedings of the Dynamic Language Symposium, 2009.
 
 * K. Sasada. **[YARV: Yet Another RubyVM: Innovating the Ruby Interpreter](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.482.9851&rep=rep1&type=pdf)**. In Proceedings of the Companion to the 20th Conference on Object-Oriented Programming, Systems, Languages, and Applications, 2005.
