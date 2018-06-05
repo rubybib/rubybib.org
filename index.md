@@ -80,7 +80,7 @@ title: The Ruby Bibliography
 
 ### Type Systems
 
-* M. Kazerounian, N. Vazou, A. Bourgerie, J. S. Foster, and E. Torlak. **[Refinement Types for Ruby](https://arxiv.org/pdf/1711.09281.pdf)**. VMCAI, 2018.
+* <a name="refinement-types-for-ruby">M. Kazerounian, N. Vazou, A. Bourgerie, J. S. Foster, and E. Torlak. **[Refinement Types for Ruby](https://arxiv.org/pdf/1711.09281.pdf)**. VMCAI, 2018.
 
 * B. M. Ren, and J. S. Foster. **[Just-in-Time Static Type Checking for Dynamic Languages](http://www.cs.umd.edu/~jfoster/papers/pldi16.pdf)**. PLDI, 2016.
 
