@@ -61,6 +61,8 @@ title: The Ruby Bibliography
 
 ### Parallelism and Concurrency
 
+* M. Springer, and H. Masuhara. **[Object Support in an Array-Based GPGPU Extension for Ruby](https://m-sp.org/downloads/array16.pdf)**. In Proceedings of the 3rd International Workshop on Libraries, Languages, and Compilers for Array Programming, 2016.
+
 * B. Daloze, S. Marr, D. Bonetta, H. Mössenböck. **[Efficient and Thread-Safe Objects for Dynamically-Typed Languages](http://ssw.jku.at/General/Staff/Daloze/thread-safe-objects.pdf)**. In Proceedings of the ACM International Conference on Object Oriented Programming Systems Languages and Applications (OOPSLA), 2016.
 <span class="badge badge-warning">TruffleRuby</span>
 
@@ -106,6 +108,10 @@ title: The Ruby Bibliography
 ### Software Engineering
 
 * T. Poncelet, and L. Vigneron. **[The Phenomenal Gem - Putting Features as a Service on Rails](http://phenomenal-gem.com)**. Master's thesis, Université Catholique de Louvain, 2012.
+
+* S. Günther, and M. Fischer. **[Metaprogramming in Ruby - A Pattern Catalog](http://www.hillside.net/plop/2010/papers/ACMVersions/papers/gunther-1.pdf)**. In Proceedings of the 17th Conference on Pattern Languages of Programs, 2010.
+
+* S. Günther, and T. Cleenewerck. **[Design Principles for Internal Domain-Specific Languages: A Pattern Catalog Illustrated by Ruby](http://www.hillside.net/plop/2010/papers/ACMVersions/papers/gunther-2.pdf)**. In Proceedings of the 17th Conference on Pattern Languages of Programs, 2010.
 
 ### Security
 
