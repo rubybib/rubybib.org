@@ -28,7 +28,7 @@ Language Implementations](http://delivery.acm.org/10.1145/3150000/3141874/splash
 * K. Tanaka, A. D. Nagumanthri, Y. Matsumoto. **[mruby--Rapid Software Development for Embedded Systems](https://www.researchgate.net/profile/Aviansh_Nagumanthri/publication/282816987_mruby_-_Rapid_Software_Development_for_Embedded_Systems/links/561f03e308ae50795aff64d0/mruby-Rapid-Software-Development-for-Embedded-Systems.pdf)**. Proceedings of the 15th International Conference on Computational Science and its Applications (ICCSA), 2015.
 <span class="badge badge-success">mruby</span>
 
-* S. Xu, D. Bremner, D. Heidinga. **[Mining Method Handle Graphs for Efficient Dynamic JVM Languages]（https://dl.acm.org/citation.cfm?id=2807440）**. ACM proceedings 12th Conference on Principles and Practices of Programming on the Java Platform: virtual machines, languages, and tools (PPPJ15) , Melbourne, Florida, USA. 
+* S. Xu, D. Bremner, D. Heidinga.**[Mining Method Handle Graphs for Efficient Dynamic JVM Languages](https://dl.acm.org/citation.cfm?id=2807440)**. ACM proceedings 12th Conference on Principles and Practices of Programming on the Java Platform: virtual machines, languages, and tools (PPPJ15) , Melbourne, Florida, USA. 
 <span class="badge badge-danger">JRuby</span>
 
 * M. Viering. **[An Efficient Runtime System for Reactive Programming](http://mviering.de/reactiveruby.pdf)**. Master thesis, Technische Universität Darmstadt, 2015.
