@@ -80,6 +80,9 @@ title: The Ruby Bibliography
 
 ### Tooling
 
+* M. Van De Vanter, C. Seaton, M. Haupt, C. Humer, and T. Würthinger. **[Fast, Flexible, Polyglot Instrumentation Support for Debuggers and other Tools](https://arxiv.org/pdf/1803.10201v1.pdf)**. In The Art, Science, and Engineering of Programming, Vol. 2, No. 3, 2018.
+<span class="badge badge-warning">TruffleRuby</span>
+
 * C. Seaton, M. L. Van De Vanter, and M. Haupt. **[Debugging at Full Speed](http://www.lifl.fr/dyla14/papers/dyla14-3-Debugging_at_Full_Speed.pdf)**. In Proceedings of the 8th Workshop on Dynamic Languages and Applications (DYLA), 2014. ([source code](http://lafo.ssw.uni-linz.ac.at/truffle/debugging/dyla14-debugging-artifact-0557a4f756d4.tar.gz))
 <span class="badge badge-warning">TruffleRuby</span>
 
