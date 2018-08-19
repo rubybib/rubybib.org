@@ -12,8 +12,7 @@ title: The Ruby Bibliography
 
 * B. Yang, J. Kim, S. Moon. **[Exceptionalization: A Java VM Optimization for Non-Java Languages](https://dl.acm.org/citation.cfm?id=3046681)**. In ACM Transactions on Architecture and Code Optimization, volume 14, issue 1, 2017. <span class="badge badge-info">JRuby</span>
 
-* S. Xu, D. Bremner, D. Heidinga. **[Fusing Method Handle Graphs for Efficient Dynamic JVM
-Language Implementations](https://xushijie.github.io/papers/vmil17.pdf)**. In Proceedings of the 9th ACM SIGPLAN International Workshop on Virtual Machines and Intermediate Languages (VMIL 2017).
+* S. Xu, D. Bremner, D. Heidinga. **[Fusing Method Handle Graphs for Efficient Dynamic JVM Language Implementations (https://xushijie.github.io/papers/vmil17.pdf)**. In Proceedings of the 9th ACM SIGPLAN International Workshop on Virtual Machines and Intermediate Languages (VMIL 2017).
 <span class="badge badge-danger">JRuby</span>
 
 * T. Würthinger, C. Wimmer, C. Humer, A. Wöss, L. Stadler, C. Seaton, G. Duboscq, D. Simon, M. Grimmer. **[Practical Partial Evaluation for High-Performance Dynamic Language Runtimes](http://chrisseaton.com/rubytruffle/pldi17-truffle/pldi17-truffle.pdf)**. In Proceedings of the Conference on Programming Language Design and Implementation (PLDI), 2017.
