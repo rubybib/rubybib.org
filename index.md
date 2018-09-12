@@ -7,7 +7,7 @@ title: The Ruby Bibliography
 
 ### Virtual Machines
 
-* K. Menard, C. Seaton, B. Daloze. **[Specializing Ropes for Ruby](https://chrisseaton.com/truffleruby/ropes-manlang.pdf)**. In Proceedings of 15th International Conference on Managed Languages & Runtimes (ManLang), 2018.
+* <a name="specializing-ropes-for-ruby">K. Menard, C. Seaton, B. Daloze. **[Specializing Ropes for Ruby](https://chrisseaton.com/truffleruby/ropes-manlang.pdf)**. In Proceedings of 15th International Conference on Managed Languages & Runtimes (ManLang), 2018.
 <span class="badge badge-warning">TruffleRuby</span>
 
 * M. Grimmer, R. Schatz, C. Seaton, T. Würthinger, M. Luján. **[Cross-Language Interoperability in a Multi-Language Runtime](http://chrisseaton.com/truffleruby/cross-language-interop.pdf)**. In ACM Transactions on Programming Languages and Systems (TOPLAS), Vol. 40, No. 2, 2018.
