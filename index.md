@@ -68,17 +68,17 @@ title: The Ruby Bibliography
 
 * M. Furr, J. An, J. S. Foster, and M. Hicks. **[The Ruby Intermediate Language](http://www.cs.umd.edu/projects/PL/druby/papers/druby-dls09.pdf)**. In Proceedings of the Dynamic Language Symposium, 2009.
 
-* K. Sasada. **[YARV: Yet Another RubyVM: Innovating the Ruby Interpreter](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.482.9851&rep=rep1&type=pdf)**. In Proceedings of the Companion to the 20th Conference on Object-Oriented Programming, Systems, Languages, and Applications, 2005.
+* K. Sasada. **[YARV: Yet Another RubyVM: Innovating the Ruby Interpreter](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.482.9851&rep=rep1&type=pdf)**. In Proceedings of the Companion to the 20th Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA), 2005.
 <span class="badge badge-danger">MRI</span>
 
 ### Parallelism and Concurrency
 
-* B. Daloze, A. Tal, S. Marr, H. Mössenböck, E. Petrank. **[Parallellization of Dynamic Languages: Synchronizing Built-in Collections](http://ssw.jku.at/General/Staff/Daloze/thread-safe-collections.pdf)**. In Proceedings of the ACM International Conference on Object Oriented Programming, Systems, Languages, and Applications (OOPSLA), 2018.
+* B. Daloze, A. Tal, S. Marr, H. Mössenböck, E. Petrank. **[Parallellization of Dynamic Languages: Synchronizing Built-in Collections](http://ssw.jku.at/General/Staff/Daloze/thread-safe-collections.pdf)**. In Proceedings of the Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA), 2018.
 <span class="badge badge-warning">TruffleRuby</span>
 
 * M. Springer, and H. Masuhara. **[Object Support in an Array-Based GPGPU Extension for Ruby](https://m-sp.org/downloads/array16.pdf)**. In Proceedings of the 3rd International Workshop on Libraries, Languages, and Compilers for Array Programming (ARRAY), 2016.
 
-* B. Daloze, S. Marr, D. Bonetta, H. Mössenböck. **[Efficient and Thread-Safe Objects for Dynamically-Typed Languages](http://ssw.jku.at/General/Staff/Daloze/thread-safe-objects.pdf)**. In Proceedings of the ACM International Conference on Object Oriented Programming, Systems, Languages, and Applications (OOPSLA), 2016.
+* B. Daloze, S. Marr, D. Bonetta, H. Mössenböck. **[Efficient and Thread-Safe Objects for Dynamically-Typed Languages](http://ssw.jku.at/General/Staff/Daloze/thread-safe-objects.pdf)**. In Proceedings of the Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA), 2016.
 <span class="badge badge-warning">TruffleRuby</span>
 
 * C. Ding, B. Gernhardt, P. Li, and M. Hertz. **[Safe Parallel Programming in an Interpreted Language](http://polaris.cs.uiuc.edu/hpsl/abstracts/a7-ding.pdf)**. In Proceedings of the First Workshop on the High Performance Scripting Languages, 2015.
@@ -119,7 +119,7 @@ title: The Ruby Bibliography
 
 * M. Furr, J. An, and J. S. Foster. **[Work In Progress: an Empirical Study of Static Typing in Ruby](http://www.cs.umd.edu/projects/PL/druby/papers/druby-pilot-plateau09.pdf)**. In Proceedings of the PLATEAU Workshop on Evaluation and Usability of Programming Languages and Tools, 2009.
 
-* M. Daly, V. Sazawal, and J. S. Foster. **[Profile-Guided Static Typing for Dynamic Scripting Languages](http://www.cs.umd.edu/projects/PL/druby/papers/druby-oopsla09.pdf)**. In Proceedings of the Conference on Object Oriented Programming, Systems, Languages, and Applications, 2009.
+* M. Daly, V. Sazawal, and J. S. Foster. **[Profile-Guided Static Typing for Dynamic Scripting Languages](http://www.cs.umd.edu/projects/PL/druby/papers/druby-oopsla09.pdf)**. In Proceedings of the Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA), 2009.
 
 * J. An, A. Chaudhuri, and J. S. Foster. **[Static Type Inference for Ruby](http://www.cs.umd.edu/projects/PL/druby/papers/druby-oops09.pdf)**. In Proceedings of the 24th IEEE/ACM International Conference on Automated Software Engineering, 2009.
 
