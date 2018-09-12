@@ -73,6 +73,9 @@ title: The Ruby Bibliography
 
 ### Parallelism and Concurrency
 
+* B. Daloze, A. Tal, S. Marr, H. Mössenböck, E. Petrank. **[Parallellization of Dynamic Languages: Synchronizing Built-in Collections](http://ssw.jku.at/General/Staff/Daloze/thread-safe-collections.pdf)**. In Proceedings of the ACM International Conference on Object Oriented Programming, Systems, Languages, and Applications (OOPSLA), 2018.
+<span class="badge badge-warning">TruffleRuby</span>
+
 * M. Springer, and H. Masuhara. **[Object Support in an Array-Based GPGPU Extension for Ruby](https://m-sp.org/downloads/array16.pdf)**. In Proceedings of the 3rd International Workshop on Libraries, Languages, and Compilers for Array Programming (ARRAY), 2016.
 
 * B. Daloze, S. Marr, D. Bonetta, H. Mössenböck. **[Efficient and Thread-Safe Objects for Dynamically-Typed Languages](http://ssw.jku.at/General/Staff/Daloze/thread-safe-objects.pdf)**. In Proceedings of the ACM International Conference on Object Oriented Programming, Systems, Languages, and Applications (OOPSLA), 2016.
