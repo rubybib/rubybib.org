@@ -3,8 +3,6 @@ layout: default
 title: The Ruby Bibliography
 ---
 
-## Ruby
-
 ### Virtual Machines
 
 * <a name="specializing-ropes-for-ruby">K. Menard, C. Seaton, B. Daloze. **[Specializing Ropes for Ruby](https://chrisseaton.com/truffleruby/ropes-manlang.pdf)**. In Proceedings of 15th International Conference on Managed Languages & Runtimes (ManLang), 2018.
@@ -187,7 +185,3 @@ title: The Ruby Bibliography
 ## Standards
 
 * IPA Ruby Standardization WG. **[Programming Languages — Ruby (Draft)](https://www.ipa.go.jp/osc/english/ruby/)**. Final draft of the Ruby ISO standard, 2010.
-
-## FLOSS Community Studies
-
-* M. M. M. Syeed, K. M. Hansen, I. Hammouda, and K. Manikas. **[Socio-Technical Congruence in the Ruby Ecosystem](http://www.opensym.org/os2014/proceedings-files/p110.pdf)**. In Proceedings of the 10th International Symposium on Open Collaboration, 2014.
