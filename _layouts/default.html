@@ -32,8 +32,13 @@
 <div class="container">
 <header>
 <div class="jumbotron">
-  <img src="library.png" style="width: 150px; height: 150px; float: left; margin-right: 1em;">
-  <h1 class="display-3">{{ page.title }}</h1>
+  <div class="d-none d-md-block">
+    <img src="library.png" style="width: 150px; height: 150px; float: left; margin-right: 1em;">
+    <h1 class="display-3">The Ruby Bibliography</h1>
+  </div>
+  <div class="d-md-none">
+    <h1 class="display-3">Ruby Bib</h1>
+  </div>
   <p class="lead">Academic writing on the Ruby programming language</p>
 </div>
 </header>
