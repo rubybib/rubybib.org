@@ -55,6 +55,9 @@ title: The Ruby Bibliography
 * A. Wöß, C. Wirth, D. Bonetta, C. Seaton, C. Humer, and H. Mössenböck. **[An Object Storage Model for the Truffle Language Implementation Framework](http://www.chrisseaton.com/rubytruffle/pppj14-om/pppj14-om.pdf)**. In Proceedings of the International Conference on Principles and Practices of Programming on the Java Platform (PPPJ), 2014.
 <span class="badge badge-warning">TruffleRuby</span>
 
+* <a name="talk-talk">W. Hang Li, D. R. White, and J. Singer **[JVM-Hosted Languages: They Talk the Talk, but do they Walk the Walk?](http://www.dcs.gla.ac.uk/~jsinger/pdfs/pppj13.pdf)**. In Proceedings of the International Conference on Principles and Practices of Programming on the Java Platform (PPPJ), 2013.
+<span class="badge badge-info">JRuby</span>
+
 * M. Springer. **[Inter-language Collaboration in an Object-oriented Virtual Machine](http://www.matthiasspringer.de/downloads/BP2012H1_intra-language_collaboration.pdf)**. Bachelor's thesis, Hasso-Plattner-Institute, 2013.
 <span class="badge badge-primary">MagLev</span>
 
