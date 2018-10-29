@@ -19,6 +19,9 @@ title: The Ruby Bibliography
 * T. Würthinger, C. Wimmer, C. Humer, A. Wöss, L. Stadler, C. Seaton, G. Duboscq, D. Simon, M. Grimmer. **[Practical Partial Evaluation for High-Performance Dynamic Language Runtimes](http://chrisseaton.com/rubytruffle/pldi17-truffle/pldi17-truffle.pdf)**. In Proceedings of the Conference on Programming Language Design and Implementation (PLDI), 2017.
 <span class="badge badge-warning">TruffleRuby</span>
 
+* S. Marr, B. Daloze, H. Mössenböck. **[Cross-Language Compiler Benchmarking - Are We Fast Yet?](http://stefan-marr.de/downloads/dls16-marr-et-al-cross-language-compiler-benchmarking-are-we-fast-yet.pdf)**. In Proceedings of the 12th Dynamic Languages Symposium (DLS), 2016.
+<span class="badge badge-warning">TruffleRuby</span> <span class="badge badge-info">JRuby</span> <span class="badge badge-secondary">Rubinius</span> <span class="badge badge-danger">MRI</span>
+
 * C. Seaton. **[AST Specialisation and Partial Evaluation for Easy High-Performance Metaprogramming](http://chrisseaton.com/rubytruffle/meta16/meta16-ruby.pdf)**. In Proceedings of the 1st Workshop on Meta-Programming Techniques and Reflection (META), 2016.
 <span class="badge badge-warning">TruffleRuby</span>
 
