@@ -37,7 +37,7 @@ title: The Ruby Bibliography
 * C. Seaton. **[Specialising Dynamic Techniques for Implementing the Ruby Programming Langauge](http://chrisseaton.com/phd/specialising-ruby.pdf)**. PhD thesis, University of Manchester, 2015.
 <span class="badge badge-warning">TruffleRuby</span>
 
-* M. Grimmer, C. Seaton, R. Schatz, T. Würthinger, H. Mössenböck. **[High-Performance Cross-Language Interoperability in a Multi-Language Runtime](http://chrisseaton.com/rubytruffle/dls15-interop/dls15-interop.pdf)**. In Proceedings of 11th Dynamic Languages Symposium (DLS), 2015.
+* M. Grimmer, C. Seaton, R. Schatz, T. Würthinger, H. Mössenböck. **[High-Performance Cross-Language Interoperability in a Multi-Language Runtime](http://chrisseaton.com/rubytruffle/dls15-interop/dls15-interop.pdf)**. In Proceedings of the 11th Dynamic Languages Symposium (DLS), 2015.
 <span class="badge badge-warning">TruffleRuby</span>
 
 * F. Niephaus, M. Springer, T. Felgentreff, T. Pape, R. Hirschfeld. **[Call-target-specific Method Arguments](https://github.com/HPI-SWA-Lab/TargetSpecific-ICOOOLPS/raw/gh-pages/call_target_specific_method_arguments.pdf)**. In Proceedings of the 10th Implementation, Compilation, Optimization of Object-Oriented Languages, Programs and Systems Workshop (ICOOOLPS), 2015.
@@ -55,7 +55,7 @@ title: The Ruby Bibliography
 * A. Wöß, C. Wirth, D. Bonetta, C. Seaton, C. Humer, and H. Mössenböck. **[An Object Storage Model for the Truffle Language Implementation Framework](http://www.chrisseaton.com/rubytruffle/pppj14-om/pppj14-om.pdf)**. In Proceedings of the International Conference on Principles and Practices of Programming on the Java Platform (PPPJ), 2014.
 <span class="badge badge-warning">TruffleRuby</span>
 
-* <a name="talk-talk">W. Hang Li, D. R. White, and J. Singer **[JVM-Hosted Languages: They Talk the Talk, but do they Walk the Walk?](http://www.dcs.gla.ac.uk/~jsinger/pdfs/pppj13.pdf)**. In Proceedings of the International Conference on Principles and Practices of Programming on the Java Platform (PPPJ), 2013.
+* <a name="talk-talk">W. Hang Li, D. R. White, and J. Singer. **[JVM-Hosted Languages: They Talk the Talk, but do they Walk the Walk?](http://www.dcs.gla.ac.uk/~jsinger/pdfs/pppj13.pdf)**. In Proceedings of the International Conference on Principles and Practices of Programming on the Java Platform (PPPJ), 2013.
 <span class="badge badge-info">JRuby</span>
 
 * M. Springer. **[Inter-language Collaboration in an Object-oriented Virtual Machine](http://www.matthiasspringer.de/downloads/BP2012H1_intra-language_collaboration.pdf)**. Bachelor's thesis, Hasso-Plattner-Institute, 2013.
@@ -163,7 +163,7 @@ title: The Ruby Bibliography
 
 * W. Rząsa. **[Predicting Performance in a PaaS Environment: a Case Study for a Web Application](https://journals.agh.edu.pl/csci/article/view/1794)**. In the Computer Science Journal, volume 18, number 1, 2017.
 
-* W. Rząsa, M. Jamro, and D. Rzonca: **[Improving Accuracy of a Network Model Basing on the Case Study of a Distributed System with a Mobile Application and an API](https://link.springer.com/chapter/10.1007/978-3-319-59767-6_2)**. In Proceedings of the International Conference on Computer Networks, 2017.
+* W. Rząsa, M. Jamro, and D. Rzonca. **[Improving Accuracy of a Network Model Basing on the Case Study of a Distributed System with a Mobile Application and an API](https://link.springer.com/chapter/10.1007/978-3-319-59767-6_2)**. In Proceedings of the International Conference on Computer Networks, 2017.
 
 * W. Rząsa, and D. Rzońca. **[Event-Driven Approach to Modeling and Performance Estimation of a Distributed Control System](https://link.springer.com/chapter/10.1007/978-3-319-39207-3_15)**. In Proceedings of the International Conference on Computer Networks, 2016.
 
@@ -179,7 +179,7 @@ title: The Ruby Bibliography
 
 * A. Tapiador, D. Carrera, J. Salvachúa. **[Social Stream, a social network framework](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6476557)**. Proceedings of International Conference on Future Generation Communication Technology (FGCT), 2012.
 
-* A. Tapiador **[A framework for building distributed social network websites](http://oa.upm.es/21801/)**. PhD thesis, 2013.
+* A. Tapiador. **[A framework for building distributed social network websites](http://oa.upm.es/21801/)**. PhD thesis, 2013.
 
 #### Computer Vision
 
