@@ -16,7 +16,7 @@ title: The Ruby Bibliography
 * S. Xu, D. Bremner, D. Heidinga. **[Fusing Method Handle Graphs for Efficient Dynamic JVM Language Implementations](https://xushijie.github.io/papers/vmil17.pdf)**. In Proceedings of the 9th ACM SIGPLAN International Workshop on Virtual Machines and Intermediate Languages (VMIL), 2017.
 <span class="badge badge-info">JRuby</span>
 
-* T. Würthinger, C. Wimmer, C. Humer, A. Wöss, L. Stadler, C. Seaton, G. Duboscq, D. Simon, M. Grimmer. **[Practical Partial Evaluation for High-Performance Dynamic Language Runtimes](http://chrisseaton.com/rubytruffle/pldi17-truffle/pldi17-truffle.pdf)**. In Proceedings of the Conference on Programming Language Design and Implementation (PLDI), 2017.
+* T. Würthinger, C. Wimmer, C. Humer, A. Wöss, L. Stadler, C. Seaton, G. Duboscq, D. Simon, M. Grimmer. **[Practical Partial Evaluation for High-Performance Dynamic Language Runtimes](http://chrisseaton.com/rubytruffle/pldi17-truffle/pldi17-truffle.pdf)**. In Proceedings of the 38th Conference on Programming Language Design and Implementation (PLDI), 2017.
 <span class="badge badge-warning">TruffleRuby</span>
 
 * S. Marr, B. Daloze, H. Mössenböck. **[Cross-Language Compiler Benchmarking - Are We Fast Yet?](http://stefan-marr.de/downloads/dls16-marr-et-al-cross-language-compiler-benchmarking-are-we-fast-yet.pdf)**. In Proceedings of the 12th Dynamic Languages Symposium (DLS), 2016.
@@ -110,9 +110,9 @@ title: The Ruby Bibliography
 
 ### Type Systems
 
-* <a name="refinement-types-for-ruby">M. Kazerounian, N. Vazou, A. Bourgerie, J. S. Foster, and E. Torlak. **[Refinement Types for Ruby](https://arxiv.org/pdf/1711.09281.pdf)**. VMCAI, 2018.
+* <a name="refinement-types-for-ruby">M. Kazerounian, N. Vazou, A. Bourgerie, J. S. Foster, and E. Torlak. **[Refinement Types for Ruby](https://arxiv.org/pdf/1711.09281.pdf)**. In Proceedings of the 19th International Conference on Verification, Model Checking, and Abstract Interpretation (VMCAI), 2018.
 
-* B. M. Ren, and J. S. Foster. **[Just-in-Time Static Type Checking for Dynamic Languages](http://www.cs.umd.edu/~jfoster/papers/pldi16.pdf)**. PLDI, 2016.
+* B. M. Ren, and J. S. Foster. **[Just-in-Time Static Type Checking for Dynamic Languages](http://www.cs.umd.edu/~jfoster/papers/pldi16.pdf)**. In Proceedings of the 37th Conference on Programming Language Design and Implementation (PLDI), 2016.
 
 * B. M. Ren, J. Toman, T. S. Strickland, and J. S. Foster. **[The Ruby Type Checker](http://www.cs.umd.edu/~jfoster/papers/oops13.pdf)**. In Proceedings of the 28th Symposium on Applied Computing (SAC), 2013.
 
