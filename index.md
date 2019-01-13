@@ -55,10 +55,10 @@ title: The Ruby Bibliography
 * M. Grimmer, C. Seaton, T. Würthinger, H. Mössenböck. **[Dynamically Composing Languages in a Modular Way: Supporting C Extensions for Dynamic Languages](http://www.chrisseaton.com/rubytruffle/modularity15/rubyextensions.pdf)**. In proceedings of the 14th International Conference on Modularity, 2015.
 <span class="badge badge-warning">TruffleRuby</span>
 
-* A. Wöß, C. Wirth, D. Bonetta, C. Seaton, C. Humer, and H. Mössenböck. **[An Object Storage Model for the Truffle Language Implementation Framework](http://www.chrisseaton.com/rubytruffle/pppj14-om/pppj14-om.pdf)**. In proceedings of the International Conference on Principles and Practices of Programming on the Java Platform (PPPJ), 2014.
+* A. Wöß, C. Wirth, D. Bonetta, C. Seaton, C. Humer, H. Mössenböck. **[An Object Storage Model for the Truffle Language Implementation Framework](http://www.chrisseaton.com/rubytruffle/pppj14-om/pppj14-om.pdf)**. In proceedings of the International Conference on Principles and Practices of Programming on the Java Platform (PPPJ), 2014.
 <span class="badge badge-warning">TruffleRuby</span>
 
-* <a name="talk-talk">W. Hang Li, D. R. White, and J. Singer. **[JVM-Hosted Languages: They Talk the Talk, but do they Walk the Walk?](http://www.dcs.gla.ac.uk/~jsinger/pdfs/pppj13.pdf)**. In proceedings of the International Conference on Principles and Practices of Programming on the Java Platform (PPPJ), 2013.
+* <a name="talk-talk">W. Hang Li, D. R. White, J. Singer. **[JVM-Hosted Languages: They Talk the Talk, but do they Walk the Walk?](http://www.dcs.gla.ac.uk/~jsinger/pdfs/pppj13.pdf)**. In proceedings of the International Conference on Principles and Practices of Programming on the Java Platform (PPPJ), 2013.
 <span class="badge badge-info">JRuby</span>
 
 * M. Springer. **[Inter-language Collaboration in an Object-oriented Virtual Machine](http://www.matthiasspringer.de/downloads/BP2012H1_intra-language_collaboration.pdf)**. Bachelor's thesis, Hasso-Plattner-Institute, 2013.
@@ -70,7 +70,7 @@ title: The Ruby Bibliography
 * S. Shiba, K. Sasada, S. Urabe, Y. Matsumoto, M. Inaba, K. Hiraki. **[A Practical AOT Compiler for Ruby](http://id.nii.ac.jp/1001/00073661/)**. In Journal of Information Processing Society of Japan, Transactions on Programming, 2011. *In Japanese*.
 <span class="badge badge-danger">MRI</span>
 
-* M. Furr, J. An, J. S. Foster, and M. Hicks. **[The Ruby Intermediate Language](http://www.cs.umd.edu/projects/PL/druby/papers/druby-dls09.pdf)**. In proceedings of the Dynamic Language Symposium, 2009.
+* M. Furr, J. An, J. S. Foster, M. Hicks. **[The Ruby Intermediate Language](http://www.cs.umd.edu/projects/PL/druby/papers/druby-dls09.pdf)**. In proceedings of the Dynamic Language Symposium, 2009.
 
 * K. Sasada. **[YARV: Yet Another RubyVM: Innovating the Ruby Interpreter](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.482.9851&rep=rep1&type=pdf)**. In proceedings of the Companion to the 20th Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA), 2005.
 <span class="badge badge-danger">MRI</span>
@@ -80,67 +80,67 @@ title: The Ruby Bibliography
 * <a name="thread-safe-collections">B. Daloze, A. Tal, S. Marr, H. Mössenböck, E. Petrank. **[Parallelization of Dynamic Languages: Synchronizing Built-in Collections](http://ssw.jku.at/General/Staff/Daloze/thread-safe-collections.pdf)**. In proceedings of the Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA), 2018.
 <span class="badge badge-warning">TruffleRuby</span>
 
-* M. Springer, and H. Masuhara. **[Object Support in an Array-Based GPGPU Extension for Ruby](https://m-sp.org/downloads/array16.pdf)**. In proceedings of the 3rd International Workshop on Libraries, Languages, and Compilers for Array Programming (ARRAY), 2016.
+* M. Springer, H. Masuhara. **[Object Support in an Array-Based GPGPU Extension for Ruby](https://m-sp.org/downloads/array16.pdf)**. In proceedings of the 3rd International Workshop on Libraries, Languages, and Compilers for Array Programming (ARRAY), 2016.
 
 * <a name="thread-safe-objects">B. Daloze, S. Marr, D. Bonetta, H. Mössenböck. **[Efficient and Thread-Safe Objects for Dynamically-Typed Languages](http://ssw.jku.at/General/Staff/Daloze/thread-safe-objects.pdf)**. In proceedings of the Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA), 2016.
 <span class="badge badge-warning">TruffleRuby</span>
 
-* C. Ding, B. Gernhardt, P. Li, and M. Hertz. **[Safe Parallel Programming in an Interpreted Language](http://polaris.cs.uiuc.edu/hpsl/abstracts/a7-ding.pdf)**. In proceedings of the First Workshop on the High Performance Scripting Languages, 2015.
+* C. Ding, B. Gernhardt, P. Li, M. Hertz. **[Safe Parallel Programming in an Interpreted Language](http://polaris.cs.uiuc.edu/hpsl/abstracts/a7-ding.pdf)**. In proceedings of the First Workshop on the High Performance Scripting Languages, 2015.
 <span class="badge badge-danger">MRI</span>
 
-* L. Lu, W. Ji, and M. L. Scott. **[Dynamic Enforcement of Determinism in a Parallel Scripting Language](http://www.cs.rochester.edu/u/scott/papers/2014_PLDI_DPR.pdf)**. In proceedings of the 35th Conference on Programming Language Design and Implementation (PLDI), 2014. ([source code](https://github.com/RB-DPR/RB-DPR))
+* L. Lu, W. Ji, M. L. Scott. **[Dynamic Enforcement of Determinism in a Parallel Scripting Language](http://www.cs.rochester.edu/u/scott/papers/2014_PLDI_DPR.pdf)**. In proceedings of the 35th Conference on Programming Language Design and Implementation (PLDI), 2014. ([source code](https://github.com/RB-DPR/RB-DPR))
 <span class="badge badge-info">JRuby</span>
 
-* R. Odaira, J. G. Castanos, and H. Tomari. **[Eliminating Global Interpreter Locks in Ruby through Hardware Transactional Memory](http://researcher.watson.ibm.com/researcher/files/jp-ODAIRA/PPoPP2014_RubyGILHTM.pdf)**. In proceedings of the 19th Symposium on Principles and Practice of Parallel Programming (PPoPP), 2014.
+* R. Odaira, J. G. Castanos, H. Tomari. **[Eliminating Global Interpreter Locks in Ruby through Hardware Transactional Memory](http://researcher.watson.ibm.com/researcher/files/jp-ODAIRA/PPoPP2014_RubyGILHTM.pdf)**. In proceedings of the 19th Symposium on Principles and Practice of Parallel Programming (PPoPP), 2014.
 <span class="badge badge-danger">MRI</span>
 
-* W. Ji, L. Lu, and M. L. Scott. **[TARDIS: Task-level Access Race Detection by Intersecting Sets](http://wodet.cs.washington.edu/wp-content/uploads/2013/03/wodet2013-final9.pdf)**. In proceedings of the 4th Workshop on Determinism and Correctness in Parallel Programming (WoDet), 2013.
+* W. Ji, L. Lu, M. L. Scott. **[TARDIS: Task-level Access Race Detection by Intersecting Sets](http://wodet.cs.washington.edu/wp-content/uploads/2013/03/wodet2013-final9.pdf)**. In proceedings of the 4th Workshop on Determinism and Correctness in Parallel Programming (WoDet), 2013.
 <span class="badge badge-info">JRuby</span>
 
 ### Tooling
 
-* <a name="debugging-native-extensions">J. Kreindl, M. Rigger, and H. Mössenböck. **[Debugging Native Extensions of Dynamic Languages ](https://arxiv.org/pdf/1808.00823.pdf)**. In proceedings of 15th International Conference on Managed Languages & Runtimes (ManLang), 2018.
+* <a name="debugging-native-extensions">J. Kreindl, M. Rigger, H. Mössenböck. **[Debugging Native Extensions of Dynamic Languages ](https://arxiv.org/pdf/1808.00823.pdf)**. In proceedings of 15th International Conference on Managed Languages & Runtimes (ManLang), 2018.
 <span class="badge badge-warning">TruffleRuby</span>
 
-* M. Van De Vanter, C. Seaton, M. Haupt, C. Humer, and T. Würthinger. **[Fast, Flexible, Polyglot Instrumentation Support for Debuggers and other Tools](https://arxiv.org/pdf/1803.10201v1.pdf)**. In The Art, Science, and Engineering of Programming, Vol. 2, No. 3, 2018.
+* M. Van De Vanter, C. Seaton, M. Haupt, C. Humer, T. Würthinger. **[Fast, Flexible, Polyglot Instrumentation Support for Debuggers and other Tools](https://arxiv.org/pdf/1803.10201v1.pdf)**. In The Art, Science, and Engineering of Programming, Vol. 2, No. 3, 2018.
 <span class="badge badge-warning">TruffleRuby</span>
 
-* C. Seaton, M. L. Van De Vanter, and M. Haupt. **[Debugging at Full Speed](http://www.lifl.fr/dyla14/papers/dyla14-3-Debugging_at_Full_Speed.pdf)**. In proceedings of the 8th Workshop on Dynamic Languages and Applications (DYLA), 2014. ([source code](http://lafo.ssw.uni-linz.ac.at/truffle/debugging/dyla14-debugging-artifact-0557a4f756d4.tar.gz))
+* C. Seaton, M. L. Van De Vanter, M. Haupt. **[Debugging at Full Speed](http://www.lifl.fr/dyla14/papers/dyla14-3-Debugging_at_Full_Speed.pdf)**. In proceedings of the 8th Workshop on Dynamic Languages and Applications (DYLA), 2014. ([source code](http://lafo.ssw.uni-linz.ac.at/truffle/debugging/dyla14-debugging-artifact-0557a4f756d4.tar.gz))
 <span class="badge badge-warning">TruffleRuby</span>
 
 ### Type Systems
 
-* <a name="refinement-types-for-ruby">M. Kazerounian, N. Vazou, A. Bourgerie, J. S. Foster, and E. Torlak. **[Refinement Types for Ruby](https://arxiv.org/pdf/1711.09281.pdf)**. In proceedings of the 19th International Conference on Verification, Model Checking, and Abstract Interpretation (VMCAI), 2018.
+* <a name="refinement-types-for-ruby">M. Kazerounian, N. Vazou, A. Bourgerie, J. S. Foster, E. Torlak. **[Refinement Types for Ruby](https://arxiv.org/pdf/1711.09281.pdf)**. In proceedings of the 19th International Conference on Verification, Model Checking, and Abstract Interpretation (VMCAI), 2018.
 
-* B. M. Ren, and J. S. Foster. **[Just-in-Time Static Type Checking for Dynamic Languages](http://www.cs.umd.edu/~jfoster/papers/pldi16.pdf)**. In proceedings of the 37th Conference on Programming Language Design and Implementation (PLDI), 2016.
+* B. M. Ren, J. S. Foster. **[Just-in-Time Static Type Checking for Dynamic Languages](http://www.cs.umd.edu/~jfoster/papers/pldi16.pdf)**. In proceedings of the 37th Conference on Programming Language Design and Implementation (PLDI), 2016.
 
-* B. M. Ren, J. Toman, T. S. Strickland, and J. S. Foster. **[The Ruby Type Checker](http://www.cs.umd.edu/~jfoster/papers/oops13.pdf)**. In proceedings of the 28th Symposium on Applied Computing (SAC), 2013.
+* B. M. Ren, J. Toman, T. S. Strickland, J. S. Foster. **[The Ruby Type Checker](http://www.cs.umd.edu/~jfoster/papers/oops13.pdf)**. In proceedings of the 28th Symposium on Applied Computing (SAC), 2013.
 
-* J. An, A. Chaudhuri, J. S. Foster, and M. Hicks. **[Dynamic Inference of Static Types for Ruby](http://www.cs.umd.edu/~jfoster/papers/popl11.pdf)**. In proceedings of the 38th ACM Symposium on Principles of Programming Languages (POPL), 2011.
+* J. An, A. Chaudhuri, J. S. Foster, M. Hicks. **[Dynamic Inference of Static Types for Ruby](http://www.cs.umd.edu/~jfoster/papers/popl11.pdf)**. In proceedings of the 38th ACM Symposium on Principles of Programming Languages (POPL), 2011.
 
 * M. J. Edgar. **[Static Analysis for Ruby in the Presence of Gradual Typing](http://www.cs.dartmouth.edu/reports/TR2011-686.pdf)**. Bachelor's thesis, 2011.
 
-* M. Madsen, P. Sørensen, and K. Kristensen. **[Ecstatic - Type Inference for Ruby Using the Cartesian Product Algorithm](http://projekter.aau.dk/projekter/files/61071016/1181807983.pdf)**. Master's thesis, Aalborg University, 2007.
+* M. Madsen, P. Sørensen, K. Kristensen. **[Ecstatic - Type Inference for Ruby Using the Cartesian Product Algorithm](http://projekter.aau.dk/projekter/files/61071016/1181807983.pdf)**. Master's thesis, Aalborg University, 2007.
 
-* M. Furr, J. An, J. S. Foster, and M. Hicks. **[Static Typing for Ruby on Rails](http://www.cs.umd.edu/projects/PL/druby/papers/drails-ase09.pdf)**. In proceedings of the 24th Annual ACM Symposium on Applied Computing, 2009.
+* M. Furr, J. An, J. S. Foster, M. Hicks. **[Static Typing for Ruby on Rails](http://www.cs.umd.edu/projects/PL/druby/papers/drails-ase09.pdf)**. In proceedings of the 24th Annual ACM Symposium on Applied Computing, 2009.
 
-* M. Furr, J. An, and J. S. Foster. **[Work In Progress: an Empirical Study of Static Typing in Ruby](http://www.cs.umd.edu/projects/PL/druby/papers/druby-pilot-plateau09.pdf)**. In proceedings of the PLATEAU Workshop on Evaluation and Usability of Programming Languages and Tools, 2009.
+* M. Furr, J. An, J. S. Foster. **[Work In Progress: an Empirical Study of Static Typing in Ruby](http://www.cs.umd.edu/projects/PL/druby/papers/druby-pilot-plateau09.pdf)**. In proceedings of the PLATEAU Workshop on Evaluation and Usability of Programming Languages and Tools, 2009.
 
-* M. Daly, V. Sazawal, and J. S. Foster. **[Profile-Guided Static Typing for Dynamic Scripting Languages](http://www.cs.umd.edu/projects/PL/druby/papers/druby-oopsla09.pdf)**. In proceedings of the Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA), 2009.
+* M. Daly, V. Sazawal, J. S. Foster. **[Profile-Guided Static Typing for Dynamic Scripting Languages](http://www.cs.umd.edu/projects/PL/druby/papers/druby-oopsla09.pdf)**. In proceedings of the Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA), 2009.
 
-* J. An, A. Chaudhuri, and J. S. Foster. **[Static Type Inference for Ruby](http://www.cs.umd.edu/projects/PL/druby/papers/druby-oops09.pdf)**. In proceedings of the 24th IEEE/ACM International Conference on Automated Software Engineering, 2009.
+* J. An, A. Chaudhuri, J. S. Foster. **[Static Type Inference for Ruby](http://www.cs.umd.edu/projects/PL/druby/papers/druby-oops09.pdf)**. In proceedings of the 24th IEEE/ACM International Conference on Automated Software Engineering, 2009.
 
 ### Software Engineering
 
-* T. Poncelet, and L. Vigneron. **[The Phenomenal Gem - Putting Features as a Service on Rails](http://phenomenal-gem.com)**. Master's thesis, Université Catholique de Louvain, 2012.
+* T. Poncelet, L. Vigneron. **[The Phenomenal Gem - Putting Features as a Service on Rails](http://phenomenal-gem.com)**. Master's thesis, Université Catholique de Louvain, 2012.
 
-* S. Günther, and M. Fischer. **[Metaprogramming in Ruby - A Pattern Catalog](http://www.hillside.net/plop/2010/papers/ACMVersions/papers/gunther-1.pdf)**. In proceedings of the 17th Conference on Pattern Languages of Programs, 2010.
+* S. Günther, M. Fischer. **[Metaprogramming in Ruby - A Pattern Catalog](http://www.hillside.net/plop/2010/papers/ACMVersions/papers/gunther-1.pdf)**. In proceedings of the 17th Conference on Pattern Languages of Programs, 2010.
 
-* S. Günther, and T. Cleenewerck. **[Design Principles for Internal Domain-Specific Languages: A Pattern Catalog Illustrated by Ruby](http://www.hillside.net/plop/2010/papers/ACMVersions/papers/gunther-2.pdf)**. In proceedings of the 17th Conference on Pattern Languages of Programs, 2010.
+* S. Günther, T. Cleenewerck. **[Design Principles for Internal Domain-Specific Languages: A Pattern Catalog Illustrated by Ruby](http://www.hillside.net/plop/2010/papers/ACMVersions/papers/gunther-2.pdf)**. In proceedings of the 17th Conference on Pattern Languages of Programs, 2010.
 
 ### Security
 
-* J. P. Near, and D. Jackson. **[Finding Security Bugs in Web Applications using a Catalog of Access Control Patterns](http://dspace.mit.edu/openaccess-disseminate/1721.1/102281)**. 38th International Conference on Software Engineering, 2016.
+* J. P. Near, D. Jackson. **[Finding Security Bugs in Web Applications using a Catalog of Access Control Patterns](http://dspace.mit.edu/openaccess-disseminate/1721.1/102281)**. 38th International Conference on Software Engineering, 2016.
 
 ### Applications
 
@@ -150,9 +150,9 @@ title: The Ruby Bibliography
 
 #### Bioinformatics
 
-* R. Smith, R. Williamson, D. Ventura, and J. T. Prince. **[Rubabel: wrapping open Babel with Ruby](http://www.biomedcentral.com/content/pdf/1758-2946-5-35.pdf)**. Journal of Cheminformatics, 5(1), 35, 2013.
+* R. Smith, R. Williamson, D. Ventura, J. T. Prince. **[Rubabel: wrapping open Babel with Ruby](http://www.biomedcentral.com/content/pdf/1758-2946-5-35.pdf)**. Journal of Cheminformatics, 5(1), 35, 2013.
 
-* N. Goto, P. Prins, M. Nakao, R. Bonnal, J. Aerts, and T. Katayama. **[Bioruby: bioinformatics software for the Ruby programming language](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2951089/pdf/btq475.pdf)**. Bioinformatics, 26(20):2617–9, Oct 2010.
+* N. Goto, P. Prins, M. Nakao, R. Bonnal, J. Aerts, T. Katayama. **[Bioruby: bioinformatics software for the Ruby programming language](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2951089/pdf/btq475.pdf)**. Bioinformatics, 26(20):2617–9, Oct 2010.
 
 #### Content Management
 
@@ -166,13 +166,13 @@ title: The Ruby Bibliography
 
 * W. Rząsa. **[Predicting Performance in a PaaS Environment: a Case Study for a Web Application](https://journals.agh.edu.pl/csci/article/view/1794)**. In the Computer Science Journal, volume 18, number 1, 2017.
 
-* W. Rząsa, M. Jamro, and D. Rzonca. **[Improving Accuracy of a Network Model Basing on the Case Study of a Distributed System with a Mobile Application and an API](https://link.springer.com/chapter/10.1007/978-3-319-59767-6_2)**. In proceedings of the International Conference on Computer Networks, 2017.
+* W. Rząsa, M. Jamro, D. Rzonca. **[Improving Accuracy of a Network Model Basing on the Case Study of a Distributed System with a Mobile Application and an API](https://link.springer.com/chapter/10.1007/978-3-319-59767-6_2)**. In proceedings of the International Conference on Computer Networks, 2017.
 
-* W. Rząsa, and D. Rzońca. **[Event-Driven Approach to Modeling and Performance Estimation of a Distributed Control System](https://link.springer.com/chapter/10.1007/978-3-319-39207-3_15)**. In proceedings of the International Conference on Computer Networks, 2016.
+* W. Rząsa, D. Rzońca. **[Event-Driven Approach to Modeling and Performance Estimation of a Distributed Control System](https://link.springer.com/chapter/10.1007/978-3-319-39207-3_15)**. In proceedings of the International Conference on Computer Networks, 2016.
 
 * W. Rząsa. **[Simulation-Based Analysis of a Platform as a Service Infrastructure Performance from a User Perspective](https://link.springer.com/chapter/10.1007/978-3-319-19419-6_17)**. In proceedings of the International Conference on Computer Networks, 2015.
 
-* J. S. Cuadrado, J. G. Molina, and M. M. Tortosa. **[RubyTL: A Practical, Extensible Transformation Language](http://link.springer.com/chapter/10.1007/11787044_13)**. Model Driven Architecture - Foundations and Applications, 4066, 2006.
+* J. S. Cuadrado, J. G. Molina, M. M. Tortosa. **[RubyTL: A Practical, Extensible Transformation Language](http://link.springer.com/chapter/10.1007/11787044_13)**. Model Driven Architecture - Foundations and Applications, 4066, 2006.
 
 #### Robotics
 
@@ -186,9 +186,9 @@ title: The Ruby Bibliography
 
 #### Software Engineering
 
-* A. Loh, W. R. Cook, and T. van der Storm. **[Managed Data: Modular Strategies for Data Abstraction](http://www.cs.utexas.edu/~wcook/Drafts/2012/ensodata.pdf)**. In proceedings of *Onward!*, 2012.
+* A. Loh, W. R. Cook, T. van der Storm. **[Managed Data: Modular Strategies for Data Abstraction](http://www.cs.utexas.edu/~wcook/Drafts/2012/ensodata.pdf)**. In proceedings of *Onward!*, 2012.
 
-* T. van der Storm, A. Loh, and W. R. Cook. **[Object Grammars: Compositional & Bidirectional Mapping Between Text and Graphs](http://www.cs.utexas.edu/~wcook/Drafts/2012/ensogrammars.pdf)**. In proceedings of the 5th International Conference on Software Language Engineering, 2012.
+* T. van der Storm, A. Loh, W. R. Cook. **[Object Grammars: Compositional & Bidirectional Mapping Between Text and Graphs](http://www.cs.utexas.edu/~wcook/Drafts/2012/ensogrammars.pdf)**. In proceedings of the 5th International Conference on Software Language Engineering, 2012.
 
 #### Computer Vision
 
