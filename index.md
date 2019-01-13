@@ -184,6 +184,12 @@ title: The Ruby Bibliography
 
 * A. Tapiador. **[A framework for building distributed social network websites](http://oa.upm.es/21801/)**. PhD thesis, 2013.
 
+#### Software Engineering
+
+* A. Loh, W. R. Cook, and T. van der Storm. **[Managed Data: Modular Strategies for Data Abstraction](http://www.cs.utexas.edu/~wcook/Drafts/2012/ensodata.pdf)**. In proceedings of *Onward!*, 2012.
+
+* T. van der Storm, A. Loh, and W. R. Cook. **[Object Grammars: Compositional & Bidirectional Mapping Between Text and Graphs](http://www.cs.utexas.edu/~wcook/Drafts/2012/ensogrammars.pdf)**. In proceedings of the 5th International Conference on Software Language Engineering, 2012.
+
 #### Computer Vision
 
 * J. Wedekind. **[Efficient Implementations of Machine Vision Algorithms using a Dynamically Typed Programming Language](http://dx.doi.org/10.6084/m9.figshare.97244)**. PhD thesis, 2012.
