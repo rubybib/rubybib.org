@@ -8,7 +8,7 @@ title: The Ruby Bibliography
 * <a name="specializing-ropes-for-ruby">K. Menard, C. Seaton, B. Daloze. **[Specializing Ropes for Ruby](https://chrisseaton.com/truffleruby/ropes-manlang.pdf)**. In proceedings of 15th International Conference on Managed Languages & Runtimes (ManLang), 2018.
 <span class="badge badge-warning">TruffleRuby</span>
 
-* M. Grimmer, R. Schatz, C. Seaton, T. Würthinger, M. Luján. **[Cross-Language Interoperability in a Multi-Language Runtime](http://chrisseaton.com/truffleruby/cross-language-interop.pdf)**. In ACM Transactions on Programming Languages and Systems (TOPLAS), Vol. 40, No. 2, 2018.
+* M. Grimmer, R. Schatz, C. Seaton, T. Würthinger, M. Luján. **[Cross-Language Interoperability in a Multi-Language Runtime](https://chrisseaton.com/truffleruby/cross-language-interop.pdf)**. In ACM Transactions on Programming Languages and Systems (TOPLAS), Vol. 40, No. 2, 2018.
 <span class="badge badge-warning">TruffleRuby</span>
 
 * B. Yang, J. Kim, S. Moon. **[Exceptionalization: A Java VM Optimization for Non-Java Languages](https://dl.acm.org/citation.cfm?id=3046681)**. In ACM Transactions on Architecture and Code Optimization (TACO), volume 14, issue 1, 2017. <span class="badge badge-info">JRuby</span>
@@ -16,13 +16,13 @@ title: The Ruby Bibliography
 * S. Xu, D. Bremner, D. Heidinga. **[Fusing Method Handle Graphs for Efficient Dynamic JVM Language Implementations](https://xushijie.github.io/papers/vmil17.pdf)**. In proceedings of the 9th ACM SIGPLAN International Workshop on Virtual Machines and Intermediate Languages (VMIL), 2017.
 <span class="badge badge-info">JRuby</span>
 
-* T. Würthinger, C. Wimmer, C. Humer, A. Wöss, L. Stadler, C. Seaton, G. Duboscq, D. Simon, M. Grimmer. **[Practical Partial Evaluation for High-Performance Dynamic Language Runtimes](http://chrisseaton.com/rubytruffle/pldi17-truffle/pldi17-truffle.pdf)**. In proceedings of the 38th Conference on Programming Language Design and Implementation (PLDI), 2017.
+* T. Würthinger, C. Wimmer, C. Humer, A. Wöss, L. Stadler, C. Seaton, G. Duboscq, D. Simon, M. Grimmer. **[Practical Partial Evaluation for High-Performance Dynamic Language Runtimes](https://chrisseaton.com/rubytruffle/pldi17-truffle/pldi17-truffle.pdf)**. In proceedings of the 38th Conference on Programming Language Design and Implementation (PLDI), 2017.
 <span class="badge badge-warning">TruffleRuby</span>
 
 * S. Marr, B. Daloze, H. Mössenböck. **[Cross-Language Compiler Benchmarking - Are We Fast Yet?](http://stefan-marr.de/downloads/dls16-marr-et-al-cross-language-compiler-benchmarking-are-we-fast-yet.pdf)**. In proceedings of the 12th Dynamic Languages Symposium (DLS), 2016.
 <span class="badge badge-warning">TruffleRuby</span> <span class="badge badge-info">JRuby</span> <span class="badge badge-secondary">Rubinius</span> <span class="badge badge-danger">MRI</span>
 
-* C. Seaton. **[AST Specialisation and Partial Evaluation for Easy High-Performance Metaprogramming](http://chrisseaton.com/rubytruffle/meta16/meta16-ruby.pdf)**. In proceedings of the 1st Workshop on Meta-Programming Techniques and Reflection (META), 2016.
+* C. Seaton. **[AST Specialisation and Partial Evaluation for Easy High-Performance Metaprogramming](https://chrisseaton.com/rubytruffle/meta16/meta16-ruby.pdf)**. In proceedings of the 1st Workshop on Meta-Programming Techniques and Reflection (META), 2016.
 <span class="badge badge-warning">TruffleRuby</span>
 
 * S. Xu, D. Bremner, D. Heidinga. **[MHDeS: Deduplicating Method Handle Graphs for Efficient Dynamic JVM Language Implementations](https://xushijie.github.io/papers/deduplication.pdf)**. In proceedings of the 11th Workshop on Implementation, Compilation, Optimization of Object-Oriented Languages, Programs and Systems (ICOOOLPS), 2016.
@@ -37,25 +37,25 @@ title: The Ruby Bibliography
 * M. Viering. **[An Efficient Runtime System for Reactive Programming](http://mviering.de/reactiveruby.pdf)**. Master thesis, Technische Universität Darmstadt, 2015.
 <span class="badge badge-warning">TruffleRuby</span>
 
-* C. Seaton. **[Specialising Dynamic Techniques for Implementing the Ruby Programming Langauge](http://chrisseaton.com/phd/specialising-ruby.pdf)**. PhD thesis, University of Manchester, 2015.
+* C. Seaton. **[Specialising Dynamic Techniques for Implementing the Ruby Programming Langauge](https://chrisseaton.com/phd/specialising-ruby.pdf)**. PhD thesis, University of Manchester, 2015.
 <span class="badge badge-warning">TruffleRuby</span>
 
-* M. Grimmer, C. Seaton, R. Schatz, T. Würthinger, H. Mössenböck. **[High-Performance Cross-Language Interoperability in a Multi-Language Runtime](http://chrisseaton.com/rubytruffle/dls15-interop/dls15-interop.pdf)**. In proceedings of the 11th Dynamic Languages Symposium (DLS), 2015.
+* M. Grimmer, C. Seaton, R. Schatz, T. Würthinger, H. Mössenböck. **[High-Performance Cross-Language Interoperability in a Multi-Language Runtime](https://chrisseaton.com/rubytruffle/dls15-interop/dls15-interop.pdf)**. In proceedings of the 11th Dynamic Languages Symposium (DLS), 2015.
 <span class="badge badge-warning">TruffleRuby</span>
 
 * F. Niephaus, M. Springer, T. Felgentreff, T. Pape, R. Hirschfeld. **[Call-target-specific Method Arguments](https://github.com/HPI-SWA-Lab/TargetSpecific-ICOOOLPS/raw/gh-pages/call_target_specific_method_arguments.pdf)**. In proceedings of the 10th Implementation, Compilation, Optimization of Object-Oriented Languages, Programs and Systems Workshop (ICOOOLPS), 2015.
 <span class="badge badge-warning">TruffleRuby</span>
 
-* B. Daloze, C. Seaton, D. Bonetta, H. Mössenböck. **[Techniques and Applications for Guest-Language Safepoints](http://chrisseaton.com/rubytruffle/icooolps15-safepoints/safepoints.pdf)**. In proceedings of the 10th Implementation, Compilation, Optimization of Object-Oriented Languages, Programs and Systems Workshop (ICOOOLPS), 2015.
+* B. Daloze, C. Seaton, D. Bonetta, H. Mössenböck. **[Techniques and Applications for Guest-Language Safepoints](https://chrisseaton.com/rubytruffle/icooolps15-safepoints/safepoints.pdf)**. In proceedings of the 10th Implementation, Compilation, Optimization of Object-Oriented Languages, Programs and Systems Workshop (ICOOOLPS), 2015.
 <span class="badge badge-warning">TruffleRuby</span>
 
-* S. Marr, C. Seaton, S. Ducasse. **[Zero-Overhead Metaprogramming: Reflection and Metaobject Protocols Fast and without Compromises](http://chrisseaton.com/rubytruffle/pldi15-metaprogramming/pldi15-marr-et-al-zero-overhead-metaprogramming.pdf)**. In proceedings of the 36th Conference on Programming Language Design and Implementation (PLDI), 2015.
+* S. Marr, C. Seaton, S. Ducasse. **[Zero-Overhead Metaprogramming: Reflection and Metaobject Protocols Fast and without Compromises](https://chrisseaton.com/rubytruffle/pldi15-metaprogramming/pldi15-marr-et-al-zero-overhead-metaprogramming.pdf)**. In proceedings of the 36th Conference on Programming Language Design and Implementation (PLDI), 2015.
 <span class="badge badge-warning">TruffleRuby</span>
 
-* M. Grimmer, C. Seaton, T. Würthinger, H. Mössenböck. **[Dynamically Composing Languages in a Modular Way: Supporting C Extensions for Dynamic Languages](http://www.chrisseaton.com/rubytruffle/modularity15/rubyextensions.pdf)**. In proceedings of the 14th International Conference on Modularity, 2015.
+* M. Grimmer, C. Seaton, T. Würthinger, H. Mössenböck. **[Dynamically Composing Languages in a Modular Way: Supporting C Extensions for Dynamic Languages](https://chrisseaton.com/rubytruffle/modularity15/rubyextensions.pdf)**. In proceedings of the 14th International Conference on Modularity, 2015.
 <span class="badge badge-warning">TruffleRuby</span>
 
-* A. Wöß, C. Wirth, D. Bonetta, C. Seaton, C. Humer, H. Mössenböck. **[An Object Storage Model for the Truffle Language Implementation Framework](http://www.chrisseaton.com/rubytruffle/pppj14-om/pppj14-om.pdf)**. In proceedings of the International Conference on Principles and Practices of Programming on the Java Platform (PPPJ), 2014.
+* A. Wöß, C. Wirth, D. Bonetta, C. Seaton, C. Humer, H. Mössenböck. **[An Object Storage Model for the Truffle Language Implementation Framework](https://chrisseaton.com/rubytruffle/pppj14-om/pppj14-om.pdf)**. In proceedings of the International Conference on Principles and Practices of Programming on the Java Platform (PPPJ), 2014.
 <span class="badge badge-warning">TruffleRuby</span>
 
 * <a name="talk-talk">W. Hang Li, D. R. White, J. Singer. **[JVM-Hosted Languages: They Talk the Talk, but do they Walk the Walk?](http://www.dcs.gla.ac.uk/~jsinger/pdfs/pppj13.pdf)**. In proceedings of the International Conference on Principles and Practices of Programming on the Java Platform (PPPJ), 2013.
