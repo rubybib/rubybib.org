@@ -5,6 +5,9 @@ title: The Ruby Bibliography
 
 ### Virtual Machines
 
+* K. Sassada. **Gradual Write-barrier Insertion into a Ruby interpreter**. To appear in proceedings of the International Symposium on Memory Management (ISMM), 2019.
+<span class="badge badge-danger">MRI</span>
+
 * <a name="specializing-ropes-for-ruby">K. Menard, C. Seaton, B. Daloze. **[Specializing Ropes for Ruby](https://chrisseaton.com/truffleruby/ropes-manlang.pdf)**. In proceedings of 15th International Conference on Managed Languages & Runtimes (ManLang), 2018.
 <span class="badge badge-warning">TruffleRuby</span>
 
