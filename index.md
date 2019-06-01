@@ -102,7 +102,7 @@ title: The Ruby Bibliography
 
 ### Tooling
 
-* <a name="debugging-native-extensions">J. Kreindl, M. Rigger, H. Mössenböck. **[Debugging Native Extensions of Dynamic Languages ](https://arxiv.org/pdf/1808.00823.pdf)**. In proceedings of 15th International Conference on Managed Languages & Runtimes (ManLang), 2018.
+* <a name="debugging-native-extensions">J. Kreindl, M. Rigger, H. Mössenböck. **[Debugging Native Extensions of Dynamic Languages](https://arxiv.org/pdf/1808.00823.pdf)**. In proceedings of 15th International Conference on Managed Languages & Runtimes (ManLang), 2018.
 <span class="badge badge-warning">TruffleRuby</span>
 
 * M. Van De Vanter, C. Seaton, M. Haupt, C. Humer, T. Würthinger. **[Fast, Flexible, Polyglot Instrumentation Support for Debuggers and other Tools](https://arxiv.org/pdf/1803.10201v1.pdf)**. In The Art, Science, and Engineering of Programming, Vol. 2, No. 3, 2018.
