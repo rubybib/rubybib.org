@@ -75,6 +75,9 @@ title: The Ruby Bibliography
 
 <a class="paper" name="furr2009" href="#furr2009">#</a> M. Furr, J. An, J. S. Foster, M. Hicks. **[The Ruby Intermediate Language](http://www.cs.umd.edu/projects/PL/druby/papers/druby-dls09.pdf)**. In proceedings of the Dynamic Language Symposium, 2009.
 
+<a class="paper" name="sasada2009" href="#sasada2009">#</a> K. Sasada. **[Ricsin: A System for “C Mix-in to Ruby”](http://www.atdot.net/~ko1/activities/ricsin2009.pdf)**. In proceedings of the IPSJ Programming Workshop, 2009. *In Japanese*
+<span class="badge badge-danger">MRI</span>
+
 <a class="paper" name="sasada2005" href="#sasada2005">#</a> K. Sasada. **[YARV: Yet Another RubyVM: Innovating the Ruby Interpreter](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.482.9851&rep=rep1&type=pdf)**. In proceedings of the Companion to the 20th Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA), 2005.
 <span class="badge badge-danger">MRI</span>
 
@@ -99,6 +102,12 @@ title: The Ruby Bibliography
 
 <a class="paper" name="ji2013" href="#ji2013">#</a> W. Ji, L. Lu, M. L. Scott. **[TARDIS: Task-level Access Race Detection by Intersecting Sets](http://wodet.cs.washington.edu/wp-content/uploads/2013/03/wodet2013-final9.pdf)**. In proceedings of the 4th Workshop on Determinism and Correctness in Parallel Programming (WoDet), 2013.
 <span class="badge badge-info">JRuby</span>
+
+<a class="paper" name="sasada2012" href="#sasada2012">#</a> K. Sasada, S. Urabe, Y. Matsumoto, K Hiraki. **[Parallel Processing on Multiple Virtual Machine for Ruby](http://www.atdot.net/~ko1/activities/sasada_mvm_paper.pdf)**. In the IPSJ Journal of Programming (PRO), 2012. *In Japanese*
+<span class="badge badge-danger">MRI</span>
+
+<a class="paper" name="sasada2007" href="#sasada2007">#</a> K. Sasada, Y. Matsumoto, A. Maeda, M. Namiki. **[An Implementation of Parallel Threads for YARV: Yet Another RubyVM](http://www.atdot.net/~ko1/activities/yarv2007thread.pdf)**. In the IPSJ Journal of Programming (PRO), 2007. *In Japanese*
+<span class="badge badge-danger">MRI</span>
 
 ### Tooling
 
