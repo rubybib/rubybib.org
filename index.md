@@ -8,6 +8,9 @@ title: The Ruby Bibliography
 <a class="paper" name="sasada2019" href="#sasada2019">#</a> K. Sasada. **Gradual Write-barrier Insertion into a Ruby interpreter**. To appear in proceedings of the International Symposium on Memory Management (ISMM), 2019.
 <span class="badge badge-danger">MRI</span>
 
+<a class="paper" name="sugiyama2018" href="#sugiyama2018">#</a> K. Sugiyama, K. Sasada, M. J. Dürst. **[Dynamic Extension of the Ruby Virtual Machine Stack](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=191427&item_no=1)**. In the IPSJ Journal of Programming (PRO), 2018. *In Japanese*.
+<span class="badge badge-danger">MRI</span>
+
 <a class="paper" name="menard2018" href="#menard2018">#</a> K. Menard, C. Seaton, B. Daloze. **[Specializing Ropes for Ruby](https://chrisseaton.com/truffleruby/ropes-manlang.pdf)**. In proceedings of 15th International Conference on Managed Languages & Runtimes (ManLang), 2018.
 <span class="badge badge-warning">TruffleRuby</span>
 
@@ -78,6 +81,13 @@ title: The Ruby Bibliography
 <a class="paper" name="sasada2009" href="#sasada2009">#</a> K. Sasada. **[Ricsin: A System for “C Mix-in to Ruby”](http://www.atdot.net/~ko1/activities/ricsin2009.pdf)**. In proceedings of the IPSJ Programming Workshop, 2009. *In Japanese*.
 <span class="badge badge-danger">MRI</span>
 
+<a class="paper" name="sasada2008" href="#sasada2008">#</a> K. Sasada. **[A Lightweight Representation of Floting-Point Numbers on Ruby Interpreter](http://www.atdot.net/~ko1/activities/rubyfp2008.pdf)**. In proceedings of PPL, 2008. *In Japanese*.
+<span class="badge badge-danger">MRI</span>
+
+<a class="paper" name="sasada2005b" href="#sasada2005b">#</a> K. Sasada, Y. Matsumoto, A. Maeda, M. Namiki. **[YARV: Yet Another RubyVM The Implementation and Evaluation](http://www.atdot.net/~ko1/activities/yarv2005vm.pdf)**.
+In the IPSJ Journal of Programming (PRO), 2005. *In Japanese*.
+<span class="badge badge-danger">MRI</span>
+
 <a class="paper" name="sasada2005" href="#sasada2005">#</a> K. Sasada. **[YARV: Yet Another RubyVM: Innovating the Ruby Interpreter](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.482.9851&rep=rep1&type=pdf)**. In proceedings of the Companion to the 20th Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA), 2005.
 <span class="badge badge-danger">MRI</span>
 
@@ -103,7 +113,13 @@ title: The Ruby Bibliography
 <a class="paper" name="ji2013" href="#ji2013">#</a> W. Ji, L. Lu, M. L. Scott. **[TARDIS: Task-level Access Race Detection by Intersecting Sets](http://wodet.cs.washington.edu/wp-content/uploads/2013/03/wodet2013-final9.pdf)**. In proceedings of the 4th Workshop on Determinism and Correctness in Parallel Programming (WoDet), 2013.
 <span class="badge badge-info">JRuby</span>
 
+<a class="paper" name="nakagawa2012" href="#nakagawa2012">#</a> H. Nakagawa, K. Sasada. **[Design and Implementation of Efficient Interprocess Transfer and Sharing Mechanism for Ruby Objects](https://ipsj.ixsq.nii.ac.jp/ej/index.php?action=pages_view_main&active_action=repository_action_common_download&item_id=83710&item_no=1&attribute_id=1&file_no=1&page_id=13&block_id=8)**. In the IPSJ Journal of Programming (PRO), 2012. *In Japanese*.
+<span class="badge badge-danger">MRI</span>
+
 <a class="paper" name="sasada2012" href="#sasada2012">#</a> K. Sasada, S. Urabe, Y. Matsumoto, K Hiraki. **[Parallel Processing on Multiple Virtual Machine for Ruby](http://www.atdot.net/~ko1/activities/sasada_mvm_paper.pdf)**. In the IPSJ Journal of Programming (PRO), 2012. *In Japanese*.
+<span class="badge badge-danger">MRI</span>
+
+<a class="paper" name="sasada2011" href="#sasada2011">#</a> K. Sasada. **[The Improvement of Thread Implementation for Ruby Interpreter](http://www.atdot.net/~ko1/activities/prosym2011-thread_kaizen_paper.pdf)**. In the IPSJ Programming Symposium, 2011. *In Japanese*.
 <span class="badge badge-danger">MRI</span>
 
 <a class="paper" name="sasada2007" href="#sasada2007">#</a> K. Sasada, Y. Matsumoto, A. Maeda, M. Namiki. **[An Implementation of Parallel Threads for YARV: Yet Another RubyVM](http://www.atdot.net/~ko1/activities/yarv2007thread.pdf)**. In the IPSJ Journal of Programming (PRO), 2007. *In Japanese*.
@@ -119,6 +135,9 @@ title: The Ruby Bibliography
 
 <a class="paper" name="seaton2014" href="#seaton2014">#</a> C. Seaton, M. L. Van De Vanter, M. Haupt. **[Debugging at Full Speed](http://www.lifl.fr/dyla14/papers/dyla14-3-Debugging_at_Full_Speed.pdf)**. In proceedings of the 8th Workshop on Dynamic Languages and Applications (DYLA), 2014. ([source code](http://lafo.ssw.uni-linz.ac.at/truffle/debugging/dyla14-debugging-artifact-0557a4f756d4.tar.gz))
 <span class="badge badge-warning">TruffleRuby</span>
+
+<a class="paper" name="sunaga2012" href="#sunaga2012">#</a> T. Sunaga, K. Sasada. **[Design and Implementation of Real-time Profilers for scripting languages](https://www.jstage.jst.go.jp/article/jssst/29/4/29_4_95/_pdf)**. In the JSSST Computer Software (2012). *In Japanese*.
+<span class="badge badge-danger">MRI</span>
 
 ### Type Systems
 
