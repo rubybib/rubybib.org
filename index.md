@@ -37,7 +37,7 @@ title: The Ruby Bibliography
 <a class="paper" name="tanaka2015" href="#tanaka2015">#</a> K. Tanaka, A. D. Nagumanthri, Y. Matsumoto. **[mruby – Rapid Software Development for Embedded Systems](https://www.researchgate.net/profile/Aviansh_Nagumanthri/publication/282816987_mruby_-_Rapid_Software_Development_for_Embedded_Systems/links/561f03e308ae50795aff64d0/mruby-Rapid-Software-Development-for-Embedded-Systems.pdf)**. In proceedings of the 15th International Conference on Computational Science and its Applications (ICCSA), 2015.
 <span class="badge badge-success">mruby</span>
 
-<a class="paper" name="xu2015" href="#xu2015">#</a> S. Xu, D. Bremner, D. Heidinga. **[Mining Method Handle Graphs for Efficient Dynamic JVM Languages](https://xushijie.github.io/papers/mh_mining.pdf)**. In ACM proceedings 12th Conference on Principles and Practices of Programming on the Java Platform (PPPJ), 2015. 
+<a class="paper" name="xu2015" href="#xu2015">#</a> S. Xu, D. Bremner, D. Heidinga. **[Mining Method Handle Graphs for Efficient Dynamic JVM Languages](https://xushijie.github.io/papers/mh_mining.pdf)**. In ACM proceedings 12th Conference on Principles and Practices of Programming on the Java Platform (PPPJ), 2015.
 <span class="badge badge-info">JRuby</span>
 
 <a class="paper" name="viering2015" href="#viering2015">#</a> M. Viering. **[An Efficient Runtime System for Reactive Programming](http://mviering.de/reactiveruby.pdf)**. Master thesis, Technische Universität Darmstadt, 2015.
@@ -176,6 +176,8 @@ In the IPSJ Journal of Programming (PRO), 2005. *In Japanese*.
 ### Applications
 
 #### Artificial Intelligence
+
+<a class="paper" name="cuccu2019" href="#cuccu2019">#</a> G. Cuccu, J. Togelius, Ph. Cudré-Mauroux. **[Playing Atari with Six Neurons](https://exascale.info/assets/pdf/cuccu2019aamas.pdf)**. Proceedings of the AAMAS International Conference on Autonomous Agents and Multiagent Systems, 2019.
 
 <a class="paper" name="adam2006" href="#adam2006">#</a> J. Adam. **[Designing Emergence: automatic extraction of stigmergic algorithms from lattice structures](http://assets.lazyatom.com/thesis.pdf)**. PhD Thesis, 2006.
 
