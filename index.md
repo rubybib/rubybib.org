@@ -177,9 +177,9 @@ In the IPSJ Journal of Programming (PRO), 2005. *In Japanese*.
 
 #### Artificial Intelligence
 
-<a class="paper" name="cuccu2019" href="#cuccu2019">#</a> G. Cuccu, J. Togelius, Ph. Cudré-Mauroux. **[Playing Atari with Six Neurons](https://exascale.info/assets/pdf/cuccu2019aamas.pdf)**. In proceedings of the International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2019.
+<a class="paper" name="cuccu2019" href="#cuccu2019">#</a> G. Cuccu, J. Togelius, Ph. Cudré-Mauroux. **[Playing Atari with Six Neurons](https://exascale.info/assets/pdf/cuccu2019aamas.pdf)**. In proceedings of the International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2019. *Implementation in Ruby.*
 
-<a class="paper" name="cuccu2018" href="#cuccu2018">#</a> G. Cuccu. **[Extending the Applicability of Neuroevolution](https://exascale.info/assets/pdf/cuccu2018phd.pdf)**. PhD thesis, University of Fribourg, 2018.
+<a class="paper" name="cuccu2018" href="#cuccu2018">#</a> G. Cuccu. **[Extending the Applicability of Neuroevolution](https://exascale.info/assets/pdf/cuccu2018phd.pdf)**. PhD thesis, University of Fribourg, 2018. *Implementation in Ruby.*
 
 <a class="paper" name="adam2006" href="#adam2006">#</a> J. Adam. **[Designing Emergence: automatic extraction of stigmergic algorithms from lattice structures](http://assets.lazyatom.com/thesis.pdf)**. PhD thesis, University of Essex, 2006.
 
