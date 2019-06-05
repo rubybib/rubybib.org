@@ -179,6 +179,8 @@ In the IPSJ Journal of Programming (PRO), 2005. *In Japanese*.
 
 <a class="paper" name="adam2006" href="#adam2006">#</a> J. Adam. **[Designing Emergence: automatic extraction of stigmergic algorithms from lattice structures](http://assets.lazyatom.com/thesis.pdf)**. PhD Thesis, 2006.
 
+<a class="paper" name="cuccu2018" href="#cuccu2018">#</a> G. Cuccu. **[Extending the Applicability of Neuroevolution](https://exascale.info/assets/pdf/cuccu2018phd.pdf)**. PhD Thesis, 2018.
+
 #### Bioinformatics
 
 <a class="paper" name="smith2013" href="#smith2013">#</a> R. Smith, R. Williamson, D. Ventura, J. T. Prince. **[Rubabel: wrapping open Babel with Ruby](http://www.biomedcentral.com/content/pdf/1758-2946-5-35.pdf)**. Journal of Cheminformatics, 5(1), 35, 2013.
