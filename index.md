@@ -130,7 +130,7 @@ In the IPSJ Journal of Programming (PRO), 2005. *In Japanese*.
 <a class="paper" name="kreindl2018" href="#kreindl2018">#</a> J. Kreindl, M. Rigger, H. Mössenböck. **[Debugging Native Extensions of Dynamic Languages](https://arxiv.org/pdf/1808.00823.pdf)**. In proceedings of 15th International Conference on Managed Languages & Runtimes (ManLang), 2018.
 <span class="badge badge-warning">TruffleRuby</span>
 
-<a class="paper" name="vandevanter2018" href="#vandevanter2018">#</a> M. Van De Vanter, C. Seaton, M. Haupt, C. Humer, T. Würthinger. **[Fast, Flexible, Polyglot Instrumentation Support for Debuggers and other Tools](https://arxiv.org/pdf/1803.10201v1.pdf)**. In The Art, Science, and Engineering of Programming, Vol. 2, No. 3, 2018.
+<a class="paper" name="vandevanter2018" href="#vandevanter2018">#</a> M. Van De Vanter, C. Seaton, M. Haupt, C. Humer, T. Würthinger. **[Fast, Flexible, Polyglot Instrumentation Support for Debuggers and other Tools](https://arxiv.org/pdf/1803.10201v1.pdf)**. In The Art, Science, and Engineering of Programming, Vol. 2, No. 3, 2018.
 <span class="badge badge-warning">TruffleRuby</span>
 
 <a class="paper" name="seaton2014" href="#seaton2014">#</a> C. Seaton, M. L. Van De Vanter, M. Haupt. **[Debugging at Full Speed](http://www.lifl.fr/dyla14/papers/dyla14-3-Debugging_at_Full_Speed.pdf)**. In proceedings of the 8th Workshop on Dynamic Languages and Applications (DYLA), 2014. ([source code](http://lafo.ssw.uni-linz.ac.at/truffle/debugging/dyla14-debugging-artifact-0557a4f756d4.tar.gz))
@@ -177,11 +177,11 @@ In the IPSJ Journal of Programming (PRO), 2005. *In Japanese*.
 
 #### Artificial Intelligence
 
-<a class="paper" name="cuccu2019" href="#cuccu2019">#</a> G. Cuccu, J. Togelius, Ph. Cudré-Mauroux. **[Playing Atari with Six Neurons](https://exascale.info/assets/pdf/cuccu2019aamas.pdf)**. Proceedings of the AAMAS International Conference on Autonomous Agents and Multiagent Systems, 2019.
+<a class="paper" name="cuccu2019" href="#cuccu2019">#</a> G. Cuccu, J. Togelius, Ph. Cudré-Mauroux. **[Playing Atari with Six Neurons](https://exascale.info/assets/pdf/cuccu2019aamas.pdf)**. In proceedings of the International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2019.
 
-<a class="paper" name="adam2006" href="#adam2006">#</a> J. Adam. **[Designing Emergence: automatic extraction of stigmergic algorithms from lattice structures](http://assets.lazyatom.com/thesis.pdf)**. PhD Thesis, 2006.
+<a class="paper" name="cuccu2018" href="#cuccu2018">#</a> G. Cuccu. **[Extending the Applicability of Neuroevolution](https://exascale.info/assets/pdf/cuccu2018phd.pdf)**. PhD thesis, University of Fribourg, 2018.
 
-<a class="paper" name="cuccu2018" href="#cuccu2018">#</a> G. Cuccu. **[Extending the Applicability of Neuroevolution](https://exascale.info/assets/pdf/cuccu2018phd.pdf)**. PhD Thesis, 2018.
+<a class="paper" name="adam2006" href="#adam2006">#</a> J. Adam. **[Designing Emergence: automatic extraction of stigmergic algorithms from lattice structures](http://assets.lazyatom.com/thesis.pdf)**. PhD thesis, University of Essex, 2006.
 
 #### Bioinformatics
 
