@@ -5,7 +5,7 @@ title: The Ruby Bibliography
 
 ### Virtual Machines
 
-<a class="paper" name="sasada2019" href="#sasada2019">#</a> K. Sasada. **[Gradual Write-barrier Insertion into a Ruby interpreter](https://dl.acm.org/citation.cfm?id=3329986)**. In proceedings of the International Symposium on Memory Management (ISMM), 2019.
+<a class="paper" name="sasada2019" href="#sasada2019">#</a> K. Sasada. **[Gradual Write-barrier Insertion into a Ruby interpreter](https://www.atdot.net/~ko1/activities/rgengc_ismm.pdf)**. In proceedings of the International Symposium on Memory Management (ISMM), 2019.
 <span class="badge badge-danger">MRI</span>
 
 <a class="paper" name="sugiyama2018" href="#sugiyama2018">#</a> K. Sugiyama, K. Sasada, M. J. Dürst. **[Dynamic Extension of the Ruby Virtual Machine Stack](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=191427&item_no=1)**. In the IPSJ Journal of Programming (PRO), 2018. *In Japanese*.
