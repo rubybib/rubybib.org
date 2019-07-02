@@ -141,6 +141,8 @@ In the IPSJ Journal of Programming (PRO), 2005. *In Japanese*.
 
 ### Type Systems
 
+<a class="paper" name="kazerounian2019" href="#kazerounian2019">#</a> M. Kazerounian, S. N. Guria, N. Vazou, J. S. Foster, D. Van Horn. **[Type-level computations for Ruby libraries](https://arxiv.org/pdf/1904.03521.pdf)**. In proceedings of the 40th ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI), 2019.
+
 <a class="paper" name="kazerounian2018" href="#kazerounian2018">#</a> M. Kazerounian, N. Vazou, A. Bourgerie, J. S. Foster, E. Torlak. **[Refinement Types for Ruby](https://arxiv.org/pdf/1711.09281.pdf)**. In proceedings of the 19th International Conference on Verification, Model Checking, and Abstract Interpretation (VMCAI), 2018.
 
 <a class="paper" name="ren2016" href="#ren2016">#</a> B. M. Ren, J. S. Foster. **[Just-in-Time Static Type Checking for Dynamic Languages](http://www.cs.umd.edu/~jfoster/papers/pldi16.pdf)**. In proceedings of the 37th Conference on Programming Language Design and Implementation (PLDI), 2016.
