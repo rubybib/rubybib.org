@@ -25,7 +25,7 @@ title: The Ruby Bibliography
 <a class="paper" name="wuerthinger2017" href="#wuerthinger2017">#</a> T. Würthinger, C. Wimmer, C. Humer, A. Wöss, L. Stadler, C. Seaton, G. Duboscq, D. Simon, M. Grimmer. **[Practical Partial Evaluation for High-Performance Dynamic Language Runtimes](https://chrisseaton.com/rubytruffle/pldi17-truffle/pldi17-truffle.pdf)**. In proceedings of the 38th Conference on Programming Language Design and Implementation (PLDI), 2017.
 <span class="badge badge-warning">TruffleRuby</span>
 
-<a class="paper" name="marr2016" href="#marr2016">#</a> S. Marr, B. Daloze, H. Mössenböck. **[Cross-Language Compiler Benchmarking - Are We Fast Yet?](http://stefan-marr.de/downloads/dls16-marr-et-al-cross-language-compiler-benchmarking-are-we-fast-yet.pdf)**. In proceedings of the 12th Dynamic Languages Symposium (DLS), 2016.
+<a class="paper" name="marr2016" href="#marr2016">#</a> S. Marr, B. Daloze, H. Mössenböck. **[Cross-Language Compiler Benchmarking - Are We Fast Yet?](http://stefan-marr.de/downloads/dls16-marr-et-al-cross-language-compiler-benchmarking-are-we-fast-yet.pdf)** In proceedings of the 12th Dynamic Languages Symposium (DLS), 2016.
 <span class="badge badge-warning">TruffleRuby</span> <span class="badge badge-info">JRuby</span> <span class="badge badge-secondary">Rubinius</span> <span class="badge badge-danger">MRI</span>
 
 <a class="paper" name="seaton2016" href="#seaton2016">#</a> C. Seaton. **[AST Specialisation and Partial Evaluation for Easy High-Performance Metaprogramming](https://chrisseaton.com/rubytruffle/meta16/meta16-ruby.pdf)**. In proceedings of the 1st Workshop on Meta-Programming Techniques and Reflection (META), 2016.
