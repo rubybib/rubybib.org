@@ -136,7 +136,7 @@ In the IPSJ Journal of Programming (PRO), 2005. *In Japanese*.
 <a class="paper" name="seaton2014" href="#seaton2014">#</a> C. Seaton, M. L. Van De Vanter, M. Haupt. **[Debugging at Full Speed](http://www.lifl.fr/dyla14/papers/dyla14-3-Debugging_at_Full_Speed.pdf)**. In proceedings of the 8th Workshop on Dynamic Languages and Applications (DYLA), 2014. ([source code](http://lafo.ssw.uni-linz.ac.at/truffle/debugging/dyla14-debugging-artifact-0557a4f756d4.tar.gz))
 <span class="badge badge-warning">TruffleRuby</span>
 
-<a class="paper" name="sunaga2012" href="#sunaga2012">#</a> T. Sunaga, K. Sasada. **[Design and Implementation of Real-time Profilers for scripting languages](https://www.jstage.jst.go.jp/article/jssst/29/4/29_4_95/_pdf)**. In the JSSST Computer Software (2012). *In Japanese*.
+<a class="paper" name="sunaga2012" href="#sunaga2012">#</a> T. Sunaga, K. Sasada. **[Design and Implementation of Real-time Profilers for Scripting Languages](https://www.jstage.jst.go.jp/article/jssst/29/4/29_4_95/_pdf)**. In the JSSST Computer Software (2012). *In Japanese*.
 <span class="badge badge-danger">MRI</span>
 
 ### Type Systems
