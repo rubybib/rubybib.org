@@ -107,7 +107,7 @@ In the IPSJ Journal of Programming (PRO), 2005. *In Japanese*.
 <a class="paper" name="lu2014" href="#lu2014">#</a> L. Lu, W. Ji, M. L. Scott. **[Dynamic Enforcement of Determinism in a Parallel Scripting Language](http://www.cs.rochester.edu/u/scott/papers/2014_PLDI_DPR.pdf)**. In proceedings of the 35th Conference on Programming Language Design and Implementation (PLDI), 2014. ([source code](https://github.com/RB-DPR/RB-DPR))
 <span class="badge badge-info">JRuby</span>
 
-<a class="paper" name="odaira2014" href="#odaira2014">#</a> R. Odaira, J. G. Castanos, H. Tomari. **[Eliminating Global Interpreter Locks in Ruby through Hardware Transactional Memory](http://researcher.watson.ibm.com/researcher/files/jp-ODAIRA/PPoPP2014_RubyGILHTM.pdf)**. In proceedings of the 19th Symposium on Principles and Practice of Parallel Programming (PPoPP), 2014.
+<a class="paper" name="odaira2014" href="#odaira2014">#</a> R. Odaira, J. G. Castanos, H. Tomari. **[Eliminating Global Interpreter Locks in Ruby Through Hardware Transactional Memory](http://researcher.watson.ibm.com/researcher/files/jp-ODAIRA/PPoPP2014_RubyGILHTM.pdf)**. In proceedings of the 19th Symposium on Principles and Practice of Parallel Programming (PPoPP), 2014.
 <span class="badge badge-danger">MRI</span>
 
 <a class="paper" name="ji2013" href="#ji2013">#</a> W. Ji, L. Lu, M. L. Scott. **[TARDIS: Task-level Access Race Detection by Intersecting Sets](http://wodet.cs.washington.edu/wp-content/uploads/2013/03/wodet2013-final9.pdf)**. In proceedings of the 4th Workshop on Determinism and Correctness in Parallel Programming (WoDet), 2013.
