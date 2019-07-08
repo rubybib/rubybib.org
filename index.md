@@ -64,7 +64,7 @@ title: The Ruby Bibliography
 <a class="paper" name="woess2014" href="#woess2014">#</a> A. Wöß, C. Wirth, D. Bonetta, C. Seaton, C. Humer, H. Mössenböck. **[An Object Storage Model for the Truffle Language Implementation Framework](https://chrisseaton.com/rubytruffle/pppj14-om/pppj14-om.pdf)**. In proceedings of the International Conference on Principles and Practices of Programming on the Java Platform (PPPJ), 2014.
 <span class="badge badge-warning">TruffleRuby</span>
 
-<a class="paper" name="hang2013" href="#hang2013">#</a> <a name="talk-talk">W. Hang Li, D. R. White, J. Singer. **[JVM-Hosted Languages: They Talk the Talk, but do they Walk the Walk?](http://www.dcs.gla.ac.uk/~jsinger/pdfs/pppj13.pdf)**. In proceedings of the International Conference on Principles and Practices of Programming on the Java Platform (PPPJ), 2013.
+<a class="paper" name="hang2013" href="#hang2013">#</a> <a name="talk-talk">W. Hang Li, D. R. White, J. Singer. **[JVM-Hosted Languages: They Talk the Talk, but do they Walk the Walk?](http://www.dcs.gla.ac.uk/~jsinger/pdfs/pppj13.pdf)** In proceedings of the International Conference on Principles and Practices of Programming on the Java Platform (PPPJ), 2013.
 <span class="badge badge-info">JRuby</span>
 
 <a class="paper" name="springer2013" href="#springer2013">#</a> M. Springer. **[Inter-language Collaboration in an Object-oriented Virtual Machine](http://www.matthiasspringer.de/downloads/BP2012H1_intra-language_collaboration.pdf)**. Bachelor's thesis, Hasso-Plattner-Institute, 2013.
