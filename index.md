@@ -128,6 +128,10 @@ In the IPSJ Journal of Programming (PRO), 2005. *In Japanese*.
 <a class="paper" name="sasada2007" href="#sasada2007">#</a> K. Sasada, Y. Matsumoto, A. Maeda, M. Namiki. **[An Implementation of Parallel Threads for YARV: Yet Another RubyVM](http://www.atdot.net/~ko1/activities/yarv2007thread.pdf)**. In the IPSJ Journal of Programming (PRO), 2007. *In Japanese*.
 <span class="badge badge-danger">MRI</span>
 
+### Garbage Collection
+
+<a class="paper" name="powers2019" href="#powers2019">#</a> B. Powers, D. Tench, E. D. Berger, A. McGregor. **[Mesh: Compacting Memory Management for C/C++ Applications](https://arxiv.org/pdf/1902.04738.pdf)**. In proceedings of the 40th ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI), 2019.
+
 ### Tooling
 
 <a class="paper" name="kreindl2018" href="#kreindl2018">#</a> J. Kreindl, M. Rigger, H. Mössenböck. **[Debugging Native Extensions of Dynamic Languages](https://arxiv.org/pdf/1808.00823.pdf)**. In proceedings of 15th International Conference on Managed Languages & Runtimes (ManLang), 2018.
