@@ -5,7 +5,7 @@ title: The Ruby Bibliography
 
 ### Virtual Machines
 
-<a class="paper" name="sasada2019" href="#sasada2019">#</a> K. Sasada. **[Gradual Write-barrier Insertion into a Ruby interpreter](https://www.atdot.net/~ko1/activities/rgengc_ismm.pdf)**. In proceedings of the International Symposium on Memory Management (ISMM), 2019.
+<a class="paper" name="sasada2019" href="#sasada2019">#</a> K. Sasada. **[Gradual Write-Barrier Insertion into a Ruby interpreter](https://www.atdot.net/~ko1/activities/rgengc_ismm.pdf)**. In proceedings of the International Symposium on Memory Management (ISMM), 2019.
 <span class="badge badge-danger">MRI</span>
 
 <a class="paper" name="sugiyama2018" href="#sugiyama2018">#</a> K. Sugiyama, K. Sasada, M. J. Dürst. **[Dynamic Extension of the Ruby Virtual Machine Stack](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=191427&item_no=1)**. In the IPSJ Journal of Programming (PRO), 2018. *In Japanese*.
@@ -84,11 +84,14 @@ title: The Ruby Bibliography
 <a class="paper" name="sasada2008" href="#sasada2008">#</a> K. Sasada. **[A Lightweight Representation of Floting-Point Numbers on Ruby Interpreter](http://www.atdot.net/~ko1/activities/rubyfp2008.pdf)**. In proceedings of PPL, 2008. *In Japanese*.
 <span class="badge badge-danger">MRI</span>
 
+<a class="paper" name="prokopski2008" href="#prokopski2008">#</a> G. B. Prokopski, C. Verbrugge. **[Analyzing the Performance of Code-Copying Virtual Machines](https://dl.acm.org/citation.cfm?doid=1449764.1449796)**. In proceedings of the 23rd Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA), 2008.
+<span class="badge badge-danger">MRI</span>
+
 <a class="paper" name="sasada2005b" href="#sasada2005b">#</a> K. Sasada, Y. Matsumoto, A. Maeda, M. Namiki. **[YARV: Yet Another RubyVM The Implementation and Evaluation](http://www.atdot.net/~ko1/activities/yarv2005vm.pdf)**.
 In the IPSJ Journal of Programming (PRO), 2005. *In Japanese*.
 <span class="badge badge-danger">MRI</span>
 
-<a class="paper" name="sasada2005" href="#sasada2005">#</a> K. Sasada. **[YARV: Yet Another RubyVM: Innovating the Ruby Interpreter](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.482.9851&rep=rep1&type=pdf)**. In proceedings of the Companion to the 20th Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA), 2005.
+<a class="paper" name="sasada2005" href="#sasada2005">#</a> K. Sasada. **[YARV: Yet Another RubyVM: Innovating the Ruby Interpreter](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.482.9851&rep=rep1&type=pdf)**. In proceedings of the 20th Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA), 2005.
 <span class="badge badge-danger">MRI</span>
 
 ### Parallelism and Concurrency
