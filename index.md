@@ -5,6 +5,9 @@ title: The Ruby Bibliography
 
 ### Virtual Machines
 
+<a class="paper" name="mosaner2019" href="#mosaner2019">#</a> R. Mosaner, D. Leopoldseder, M. Rigger, R. Schatz, H. Mössenböck. **[Supporting On-Stack Replacement in Unstructured Languages by Loop Reconstruction and Extraction](https://arxiv.org/pdf/1909.08815.pdf)**. In proceedings of the 16th International Conference on Managed Programming Languages and Runtimes (MPLR), 2019.
+<span class="badge badge-warning">TruffleRuby</span>
+
 <a class="paper" name="sasada2019" href="#sasada2019">#</a> K. Sasada. **[Gradual Write-Barrier Insertion into a Ruby interpreter](https://www.atdot.net/~ko1/activities/rgengc_ismm.pdf)**. In proceedings of the International Symposium on Memory Management (ISMM), 2019.
 <span class="badge badge-danger">MRI</span>
 
