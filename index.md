@@ -5,6 +5,9 @@ title: The Ruby Bibliography
 
 ### Virtual Machines
 
+<a class="paper" name="daloze2019" href="#daloze2019">#</a> B. Daloze. **[Thread-Safe and Efficient Data Representations in Dynamically-Typed Languages](https://eregon.me/blog/assets/research/thesis-thread-safe-data-representations-in-dynamic-languages.pdf)**. PhD thesis, Johannes Kepler University Linz, 2019.
+<span class="badge badge-warning">TruffleRuby</span>
+
 <a class="paper" name="mosaner2019" href="#mosaner2019">#</a> R. Mosaner, D. Leopoldseder, M. Rigger, R. Schatz, H. Mössenböck. **[Supporting On-Stack Replacement in Unstructured Languages by Loop Reconstruction and Extraction](https://arxiv.org/pdf/1909.08815.pdf)**. In proceedings of the 16th International Conference on Managed Programming Languages and Runtimes (MPLR), 2019.
 <span class="badge badge-warning">TruffleRuby</span>
 
