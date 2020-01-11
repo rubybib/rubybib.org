@@ -40,6 +40,12 @@ title: The Ruby Bibliography
 <a class="paper" name="xu2016" href="#xu2016">#</a> S. Xu, D. Bremner, D. Heidinga. **[MHDeS: Deduplicating Method Handle Graphs for Efficient Dynamic JVM Language Implementations](https://xushijie.github.io/papers/deduplication.pdf)**. In proceedings of the 11th Workshop on Implementation, Compilation, Optimization of Object-Oriented Languages, Programs and Systems (ICOOOLPS), 2016.
 <span class="badge badge-info">JRuby</span>
 
+<a class="paper" name="ide2015a" href="#ide2015a">#</a> M. Ide. **[Study on Method-based and Trace-based Just-in-time Compilation for Scripting Languages](https://ynu.repo.nii.ac.jp/?action=repository_action_common_download&item_id=4714&item_no=1&attribute_id=20&file_no=1)**. PhD thesis, Yokohama National University, 2015.
+<span class="badge badge-danger">MRI</span>
+
+<a class="paper" name="ide2015b" href="#ide2015b">#</a> M. Ide, K. Kuramitsu. **[A Trace-based Just-in-time Compiler for Ruby](http://kuramitsulab.github.io/paper/rujit.pdf/)**. In Journal of Information Processing Society of Japan, Transactions on Programming, 2015. *In Japanese*.
+<span class="badge badge-danger">MRI</span>
+
 <a class="paper" name="tanaka2015" href="#tanaka2015">#</a> K. Tanaka, A. D. Nagumanthri, Y. Matsumoto. **[mruby – Rapid Software Development for Embedded Systems](https://www.researchgate.net/profile/Aviansh_Nagumanthri/publication/282816987_mruby_-_Rapid_Software_Development_for_Embedded_Systems/links/561f03e308ae50795aff64d0/mruby-Rapid-Software-Development-for-Embedded-Systems.pdf)**. In proceedings of the 15th International Conference on Computational Science and its Applications (ICCSA), 2015.
 <span class="badge badge-success">mruby</span>
 
@@ -49,7 +55,7 @@ title: The Ruby Bibliography
 <a class="paper" name="viering2015" href="#viering2015">#</a> M. Viering. **[An Efficient Runtime System for Reactive Programming](http://mviering.de/reactiveruby.pdf)**. Master thesis, Technische Universität Darmstadt, 2015.
 <span class="badge badge-warning">TruffleRuby</span>
 
-<a class="paper" name="season2015" href="#season2015">#</a> C. Seaton. **[Specialising Dynamic Techniques for Implementing the Ruby Programming Language](https://chrisseaton.com/phd/specialising-ruby.pdf)**. PhD thesis, University of Manchester, 2015.
+<a class="paper" name="seaton2015" href="#seaton2015">#</a> C. Seaton. **[Specialising Dynamic Techniques for Implementing the Ruby Programming Language](https://chrisseaton.com/phd/specialising-ruby.pdf)**. PhD thesis, University of Manchester, 2015.
 <span class="badge badge-warning">TruffleRuby</span>
 
 <a class="paper" name="grimmer2015b" href="#grimmer2015b">#</a> M. Grimmer, C. Seaton, R. Schatz, T. Würthinger, H. Mössenböck. **[High-Performance Cross-Language Interoperability in a Multi-Language Runtime](https://chrisseaton.com/rubytruffle/dls15-interop/dls15-interop.pdf)**. In proceedings of the 11th Dynamic Languages Symposium (DLS), 2015.
