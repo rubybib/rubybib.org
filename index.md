@@ -82,6 +82,9 @@ title: The Ruby Bibliography
 <a class="paper" name="shiba2011" href="#shiba2011">#</a> S. Shiba, K. Sasada, S. Urabe, Y. Matsumoto, M. Inaba, K. Hiraki. **[A Practical AOT Compiler for Ruby](http://id.nii.ac.jp/1001/00073661/)**. In Journal of Information Processing Society of Japan, Transactions on Programming, 2011. *In Japanese*.
 <span class="badge badge-danger">MRI</span>
 
+<a class="paper" name="zakirov2010" href="#zakirov2010">#</a> S. Zakirov, S. Chiba, E. Shibayama. **[How to Select Superinstructions for Ruby](https://www.researchgate.net/publication/239436707_How_to_Select_Superinstructions_for_Ruby)**. In Journal of Information Processing Society of Japan, Transactions on Programming, 2010.
+<span class="badge badge-danger">MRI</span>
+
 <a class="paper" name="furr2009" href="#furr2009">#</a> M. Furr, J. An, J. S. Foster, M. Hicks. **[The Ruby Intermediate Language](http://www.cs.umd.edu/projects/PL/druby/papers/druby-dls09.pdf)**. In proceedings of the Dynamic Language Symposium, 2009.
 
 <a class="paper" name="sasada2009" href="#sasada2009">#</a> K. Sasada. **[Ricsin: A System for “C Mix-in to Ruby”](http://www.atdot.net/~ko1/activities/ricsin2009.pdf)**. In proceedings of the IPSJ Programming Workshop, 2009. *In Japanese*.
