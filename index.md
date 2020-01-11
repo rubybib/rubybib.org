@@ -55,7 +55,7 @@ title: The Ruby Bibliography
 <a class="paper" name="viering2015" href="#viering2015">#</a> M. Viering. **[An Efficient Runtime System for Reactive Programming](http://mviering.de/reactiveruby.pdf)**. Master thesis, Technische Universität Darmstadt, 2015.
 <span class="badge badge-warning">TruffleRuby</span>
 
-<a class="paper" name="season2015" href="#season2015">#</a> C. Seaton. **[Specialising Dynamic Techniques for Implementing the Ruby Programming Language](https://chrisseaton.com/phd/specialising-ruby.pdf)**. PhD thesis, University of Manchester, 2015.
+<a class="paper" name="seaton2015" href="#seaton2015">#</a> C. Seaton. **[Specialising Dynamic Techniques for Implementing the Ruby Programming Language](https://chrisseaton.com/phd/specialising-ruby.pdf)**. PhD thesis, University of Manchester, 2015.
 <span class="badge badge-warning">TruffleRuby</span>
 
 <a class="paper" name="grimmer2015b" href="#grimmer2015b">#</a> M. Grimmer, C. Seaton, R. Schatz, T. Würthinger, H. Mössenböck. **[High-Performance Cross-Language Interoperability in a Multi-Language Runtime](https://chrisseaton.com/rubytruffle/dls15-interop/dls15-interop.pdf)**. In proceedings of the 11th Dynamic Languages Symposium (DLS), 2015.
