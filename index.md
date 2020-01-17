@@ -145,24 +145,6 @@ In the IPSJ Journal of Programming (PRO), 2005. *In Japanese*.
 <a class="paper" name="sasada2007" href="#sasada2007">#</a> K. Sasada, Y. Matsumoto, A. Maeda, M. Namiki. **[An Implementation of Parallel Threads for YARV: Yet Another RubyVM](http://www.atdot.net/~ko1/activities/yarv2007thread.pdf)**. In the IPSJ Journal of Programming (PRO), 2007. *In Japanese*.
 <span class="badge badge-danger">MRI</span>
 
-### Garbage Collection
-
-<a class="paper" name="powers2019" href="#powers2019">#</a> B. Powers, D. Tench, E. D. Berger, A. McGregor. **[Mesh: Compacting Memory Management for C/C++ Applications](https://arxiv.org/pdf/1902.04738.pdf)**. In proceedings of the 40th ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI), 2019.
-
-### Tooling
-
-<a class="paper" name="kreindl2018" href="#kreindl2018">#</a> J. Kreindl, M. Rigger, H. Mössenböck. **[Debugging Native Extensions of Dynamic Languages](https://arxiv.org/pdf/1808.00823.pdf)**. In proceedings of 15th International Conference on Managed Languages & Runtimes (ManLang), 2018.
-<span class="badge badge-warning">TruffleRuby</span>
-
-<a class="paper" name="vandevanter2018" href="#vandevanter2018">#</a> M. Van De Vanter, C. Seaton, M. Haupt, C. Humer, T. Würthinger. **[Fast, Flexible, Polyglot Instrumentation Support for Debuggers and other Tools](https://arxiv.org/pdf/1803.10201v1.pdf)**. In The Art, Science, and Engineering of Programming, Vol. 2, No. 3, 2018.
-<span class="badge badge-warning">TruffleRuby</span>
-
-<a class="paper" name="seaton2014" href="#seaton2014">#</a> C. Seaton, M. L. Van De Vanter, M. Haupt. **[Debugging at Full Speed](http://www.lifl.fr/dyla14/papers/dyla14-3-Debugging_at_Full_Speed.pdf)**. In proceedings of the 8th Workshop on Dynamic Languages and Applications (DYLA), 2014. ([source code](http://lafo.ssw.uni-linz.ac.at/truffle/debugging/dyla14-debugging-artifact-0557a4f756d4.tar.gz))
-<span class="badge badge-warning">TruffleRuby</span>
-
-<a class="paper" name="sunaga2012" href="#sunaga2012">#</a> T. Sunaga, K. Sasada. **[Design and Implementation of Real-time Profilers for Scripting Languages](https://www.jstage.jst.go.jp/article/jssst/29/4/29_4_95/_pdf)**. In the JSSST Computer Software (2012). *In Japanese*.
-<span class="badge badge-danger">MRI</span>
-
 ### Type Systems
 
 <a class="paper" name="kazerounian2019" href="#kazerounian2019">#</a> M. Kazerounian, S. N. Guria, N. Vazou, J. S. Foster, D. Van Horn. **[Type-level Computations for Ruby Libraries](https://arxiv.org/pdf/1904.03521.pdf)**. In proceedings of the 40th ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI), 2019.
@@ -186,6 +168,24 @@ In the IPSJ Journal of Programming (PRO), 2005. *In Japanese*.
 <a class="paper" name="daly2009" href="#daly2009">#</a> M. Daly, V. Sazawal, J. S. Foster. **[Profile-Guided Static Typing for Dynamic Scripting Languages](http://www.cs.umd.edu/projects/PL/druby/papers/druby-oopsla09.pdf)**. In proceedings of the Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA), 2009.
 
 <a class="paper" name="an2009" href="#an2009">#</a> J. An, A. Chaudhuri, J. S. Foster. **[Static Type Inference for Ruby](http://www.cs.umd.edu/projects/PL/druby/papers/druby-oops09.pdf)**. In proceedings of the 24th IEEE/ACM International Conference on Automated Software Engineering, 2009.
+
+### Garbage Collection
+
+<a class="paper" name="powers2019" href="#powers2019">#</a> B. Powers, D. Tench, E. D. Berger, A. McGregor. **[Mesh: Compacting Memory Management for C/C++ Applications](https://arxiv.org/pdf/1902.04738.pdf)**. In proceedings of the 40th ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI), 2019.
+
+### Tooling
+
+<a class="paper" name="kreindl2018" href="#kreindl2018">#</a> J. Kreindl, M. Rigger, H. Mössenböck. **[Debugging Native Extensions of Dynamic Languages](https://arxiv.org/pdf/1808.00823.pdf)**. In proceedings of 15th International Conference on Managed Languages & Runtimes (ManLang), 2018.
+<span class="badge badge-warning">TruffleRuby</span>
+
+<a class="paper" name="vandevanter2018" href="#vandevanter2018">#</a> M. Van De Vanter, C. Seaton, M. Haupt, C. Humer, T. Würthinger. **[Fast, Flexible, Polyglot Instrumentation Support for Debuggers and other Tools](https://arxiv.org/pdf/1803.10201v1.pdf)**. In The Art, Science, and Engineering of Programming, Vol. 2, No. 3, 2018.
+<span class="badge badge-warning">TruffleRuby</span>
+
+<a class="paper" name="seaton2014" href="#seaton2014">#</a> C. Seaton, M. L. Van De Vanter, M. Haupt. **[Debugging at Full Speed](http://www.lifl.fr/dyla14/papers/dyla14-3-Debugging_at_Full_Speed.pdf)**. In proceedings of the 8th Workshop on Dynamic Languages and Applications (DYLA), 2014. ([source code](http://lafo.ssw.uni-linz.ac.at/truffle/debugging/dyla14-debugging-artifact-0557a4f756d4.tar.gz))
+<span class="badge badge-warning">TruffleRuby</span>
+
+<a class="paper" name="sunaga2012" href="#sunaga2012">#</a> T. Sunaga, K. Sasada. **[Design and Implementation of Real-time Profilers for Scripting Languages](https://www.jstage.jst.go.jp/article/jssst/29/4/29_4_95/_pdf)**. In the JSSST Computer Software (2012). *In Japanese*.
+<span class="badge badge-danger">MRI</span>
 
 ### Software Engineering
 
