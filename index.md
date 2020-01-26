@@ -43,7 +43,7 @@ title: The Ruby Bibliography
 <a class="paper" name="ide2015a" href="#ide2015a">#</a> M. Ide. **[Study on Method-based and Trace-based Just-in-time Compilation for Scripting Languages](https://ynu.repo.nii.ac.jp/?action=repository_action_common_download&item_id=4714&item_no=1&attribute_id=20&file_no=1)**. PhD thesis, Yokohama National University, 2015.
 <span class="badge badge-danger">MRI</span>
 
-<a class="paper" name="ide2015b" href="#ide2015b">#</a> M. Ide, K. Kuramitsu. **[A Trace-based Just-in-time Compiler for Ruby](http://kuramitsulab.github.io/paper/rujit.pdf/)**. In Journal of Information Processing Society of Japan, Transactions on Programming, 2015. *In Japanese*.
+<a class="paper" name="ide2015b" href="#ide2015b">#</a> M. Ide, K. Kuramitsu. **[A Trace-based Just-in-time Compiler for Ruby](http://kuramitsulab.github.io/paper/rujit.pdf)**. In Journal of Information Processing Society of Japan, Transactions on Programming, 2015. *In Japanese*.
 <span class="badge badge-danger">MRI</span>
 
 <a class="paper" name="tanaka2015" href="#tanaka2015">#</a> K. Tanaka, A. D. Nagumanthri, Y. Matsumoto. **[mruby – Rapid Software Development for Embedded Systems](https://www.researchgate.net/profile/Aviansh_Nagumanthri/publication/282816987_mruby_-_Rapid_Software_Development_for_Embedded_Systems/links/561f03e308ae50795aff64d0/mruby-Rapid-Software-Development-for-Embedded-Systems.pdf)**. In proceedings of the 15th International Conference on Computational Science and its Applications (ICCSA), 2015.
@@ -181,7 +181,7 @@ In the IPSJ Journal of Programming (PRO), 2005. *In Japanese*.
 <a class="paper" name="vandevanter2018" href="#vandevanter2018">#</a> M. Van De Vanter, C. Seaton, M. Haupt, C. Humer, T. Würthinger. **[Fast, Flexible, Polyglot Instrumentation Support for Debuggers and other Tools](https://arxiv.org/pdf/1803.10201v1.pdf)**. In The Art, Science, and Engineering of Programming, Vol. 2, No. 3, 2018.
 <span class="badge badge-warning">TruffleRuby</span>
 
-<a class="paper" name="seaton2014" href="#seaton2014">#</a> C. Seaton, M. L. Van De Vanter, M. Haupt. **[Debugging at Full Speed](http://www.lifl.fr/dyla14/papers/dyla14-3-Debugging_at_Full_Speed.pdf)**. In proceedings of the 8th Workshop on Dynamic Languages and Applications (DYLA), 2014. ([source code](http://lafo.ssw.uni-linz.ac.at/truffle/debugging/dyla14-debugging-artifact-0557a4f756d4.tar.gz))
+<a class="paper" name="seaton2014" href="#seaton2014">#</a> C. Seaton, M. L. Van De Vanter, M. Haupt. **[Debugging at Full Speed](http://www.lifl.fr/dyla14/papers/dyla14-3-Debugging_at_Full_Speed.pdf)**. In proceedings of the 8th Workshop on Dynamic Languages and Applications (DYLA), 2014. ([source code](https://web.archive.org/web/20150117042919/http://lafo.ssw.uni-linz.ac.at/truffle/debugging/dyla14-debugging-artifact-0557a4f756d4.tar.gz))
 <span class="badge badge-warning">TruffleRuby</span>
 
 <a class="paper" name="sunaga2012" href="#sunaga2012">#</a> T. Sunaga, K. Sasada. **[Design and Implementation of Real-time Profilers for Scripting Languages](https://www.jstage.jst.go.jp/article/jssst/29/4/29_4_95/_pdf)**. In the JSSST Computer Software (2012). *In Japanese*.
@@ -257,4 +257,4 @@ In the IPSJ Journal of Programming (PRO), 2005. *In Japanese*.
 
 ## Standards
 
-<a class="paper" name="iso" href="#iso">#</a> IPA Ruby Standardization WG. **[Programming Languages — Ruby (Draft)](https://www.ipa.go.jp/osc/english/ruby/)**. Final draft of the Ruby ISO standard, 2010.
+<a class="paper" name="iso" href="#iso">#</a> IPA Ruby Standardization WG. **[Programming Languages — Ruby (Draft)](https://web.archive.org/web/20190401051050/https://www.ipa.go.jp/osc/english/ruby/)**. Final draft of the Ruby ISO standard, 2010.
