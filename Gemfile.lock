@@ -9,6 +9,8 @@ GEM
       zeitwerk (~> 2.2)
     addressable (2.7.0)
       public_suffix (>= 2.0.2, < 5.0)
+    awesome_bot (1.19.1)
+      parallel (= 1.17.0)
     coffee-script (2.4.1)
       coffee-script-source
       execjs
@@ -209,6 +211,7 @@ GEM
     octokit (4.16.0)
       faraday (>= 0.9)
       sawyer (~> 0.8.0, >= 0.5.3)
+    parallel (1.17.0)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (3.1.1)
@@ -242,7 +245,8 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  awesome_bot
   github-pages
 
 BUNDLED WITH
-   2.1.2
+   2.1.4
