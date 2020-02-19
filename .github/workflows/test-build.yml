@@ -7,11 +7,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
-      uses: actions/checkout@v2
+      uses: actions/checkout@f90c7b395dac7c5a277c1a6d93d5057c1cddb74e
     - name: Install Ruby
-      uses: eregon/use-ruby-action@master
+      uses: eregon/use-ruby-action@06ab568b6a2427d46e8b64c2006cb36531af3de9
       with:
-        ruby-version: 2.7
+        ruby-version: 2.7.0
     - name: Install
       run: bundle install
     - name: Test build
