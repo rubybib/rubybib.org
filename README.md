@@ -16,7 +16,14 @@ at our discretion.
 
 Copy the existing entries.
 
+Badges:
 
+* `badge-warning` TruffleRuby
+* `badge-danger` MRI
+* `badge-info` JRuby
+* `badge-secondary` Rubinius
+* `badge-success` mruby
+* `badge-dark` Paywall
 
 Links should return HTTP `200`. Please resolve redirects when adding new links,
 and fix existing broken or redirected links as you find them. `dl.acm.org` and

@@ -259,3 +259,4 @@ In the IPSJ Journal of Programming (PRO), 2005. *In Japanese*.
 ## Standards
 
 <a class="paper" name="iso" href="#iso">#</a> IPA Ruby Standardization WG. **[ISO/IEC 30170:2012 Information technology — Programming languages — Ruby](https://www.iso.org/standard/59579.html)**. Final (paid) version of the Ruby ISO standard, 2012.
+<span class="badge badge-dark">Paywall</span>
