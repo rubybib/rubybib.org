@@ -16,16 +16,12 @@ at our discretion.
 
 Copy the existing entries.
 
-### Testing for link consistency
 
-Existing links on the Web tend to get broken over time. We strive to maintain a consistent
-bibliographic resource.
 
-Try to use `awesome_bot` at every push to ensure link correctness with the following invocation:
+Links should return HTTP `200`. Please resolve redirects when adding new links,
+and fix existing broken or redirected links as you find them. `dl.acm.org` and
+`journals.sagepub.com` are whitelisted because they redirect to set a cookie.
 
-``` shellsession
-$ # Being in the project root:
-$ bundle exec awesome_bot index.md --allow-dupe
 ```
-
-All HTTP requests returning 4xx codes are good candidates for a correction.
+% bundle exec awesome_bot index.md _layouts/default.html --allow-dupe --white-list https://dl.acm.org,https://journals.sagepub.com
+```
