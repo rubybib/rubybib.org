@@ -182,6 +182,9 @@ In the IPSJ Journal of Programming (PRO), 2005. *In Japanese*.
 <a class="paper" name="vandevanter2018" href="#vandevanter2018">#</a> M. Van De Vanter, C. Seaton, M. Haupt, C. Humer, T. Würthinger. **[Fast, Flexible, Polyglot Instrumentation Support for Debuggers and other Tools](https://arxiv.org/pdf/1803.10201v1.pdf)**. In The Art, Science, and Engineering of Programming, Vol. 2, No. 3, 2018.
 <span class="badge badge-warning">TruffleRuby</span>
 
+<a class="paper" name="miranda2016" href="#miranda2016">#</a> S. Miranda, E. Rodrigues Jr, M. T. Valente, R. Terra. **[Architecture Conformance Checking in Dynamically Typed Languages](http://www.sergiohenriquemiranda.com.br/publications/2016_jot.pdf)**. In the Journal of Object Technology (JOT), 2016.
+<!-- there's two regional conference papers in 2015 from the same authors, but I don't know the conference - I'm assuming the same content went into this journal paper and I'm including only this one -->
+
 <a class="paper" name="seaton2014" href="#seaton2014">#</a> C. Seaton, M. L. Van De Vanter, M. Haupt. **[Debugging at Full Speed](https://www.lifl.fr/dyla14/papers/dyla14-3-Debugging_at_Full_Speed.pdf)**. In proceedings of the 8th Workshop on Dynamic Languages and Applications (DYLA), 2014. ([source code](https://web.archive.org/web/20150117042919/https://lafo.ssw.uni-linz.ac.at/truffle/debugging/dyla14-debugging-artifact-0557a4f756d4.tar.gz))
 <span class="badge badge-warning">TruffleRuby</span>
 
