@@ -16,6 +16,7 @@ title: The Ruby Bibliography
 
 <a class="paper" name="sugiyama2018" href="#sugiyama2018">#</a> K. Sugiyama, K. Sasada, M. J. Dürst. **[Dynamic Extension of the Ruby Virtual Machine Stack](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=191427&item_no=1)**. In the IPSJ Journal of Programming (PRO), 2018. *In Japanese*.
 <span class="badge badge-danger">MRI</span>
+<!-- link is flaky -->
 
 <a class="paper" name="menard2018" href="#menard2018">#</a> K. Menard, C. Seaton, B. Daloze. **[Specializing Ropes for Ruby](https://chrisseaton.com/truffleruby/ropes-manlang.pdf)**. In proceedings of 15th International Conference on Managed Languages & Runtimes (ManLang), 2018.
 <span class="badge badge-warning">TruffleRuby</span>
@@ -25,6 +26,7 @@ title: The Ruby Bibliography
 
 <a class="paper" name="yang2017" href="#yang2017">#</a> B. Yang, J. Kim, S. Moon. **[Exceptionalization: A Java VM Optimization for Non-Java Languages](https://dl.acm.org/doi/10.1145/3046681)**. In ACM Transactions on Architecture and Code Optimization (TACO), volume 14, issue 1, 2017.
 <span class="badge badge-info">JRuby</span>
+<span class="badge badge-dark">Paywall</span>
 
 <a class="paper" name="xu2017" href="#xu2017">#</a> S. Xu, D. Bremner, D. Heidinga. **[Fusing Method Handle Graphs for Efficient Dynamic JVM Language Implementations](https://xushijie.github.io/papers/vmil17.pdf)**. In proceedings of the 9th ACM SIGPLAN International Workshop on Virtual Machines and Intermediate Languages (VMIL), 2017.
 <span class="badge badge-info">JRuby</span>
@@ -85,14 +87,17 @@ title: The Ruby Bibliography
 
 <a class="paper" name="shiba2012" href="#shiba2012">#</a> S. Shiba, K. Sasada, K. Hiraki. **[CastOff: A Compiler for Ruby Implemented as a Library](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=83510&item_no=1&page_id=13&block_id=8)**. In Journal of Information Processing Society of Japan, Transactions on Programming, 2012. *In Japanese*.
 <span class="badge badge-danger">MRI</span>
+<!-- link is flaky -->
 
 <a class="paper" name="shiba2011" href="#shiba2011">#</a> S. Shiba, K. Sasada, S. Urabe, Y. Matsumoto, M. Inaba, K. Hiraki. **[A Practical AOT Compiler for Ruby](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=73661&item_no=1&page_id=13&block_id=8)**. In Journal of Information Processing Society of Japan, Transactions on Programming, 2011. *In Japanese*.
 <span class="badge badge-danger">MRI</span>
+<!-- link is flaky -->
 
 <a class="paper" name="zakirov2010" href="#zakirov2010">#</a> S. Zakirov, S. Chiba, E. Shibayama. **[How to Select Superinstructions for Ruby](https://www.researchgate.net/publication/239436707_How_to_Select_Superinstructions_for_Ruby)**. In Journal of Information Processing Society of Japan, Transactions on Programming, 2010.
 <span class="badge badge-danger">MRI</span>
 
 <a class="paper" name="zakirov2010b" href="#zakirov2010b">#</a> S. Zakirov, S. Chiba, E. Shibayama. **[Optimizing Dynamic Dispatch with Fine-grained State Tracking](https://dl.acm.org/doi/10.1145/1869631.1869634)**. In proceedings of the Dynamic Language Symposium, 2010.
+<span class="badge badge-dark">Paywall</span>
 
 <a class="paper" name="furr2009" href="#furr2009">#</a> M. Furr, J. An, J. S. Foster, M. Hicks. **[The Ruby Intermediate Language](http://www.cs.umd.edu/projects/PL/druby/papers/druby-dls09.pdf)**. In proceedings of the Dynamic Language Symposium, 2009.
 
@@ -104,6 +109,7 @@ title: The Ruby Bibliography
 
 <a class="paper" name="prokopski2008" href="#prokopski2008">#</a> G. B. Prokopski, C. Verbrugge. **[Analyzing the Performance of Code-Copying Virtual Machines](https://dl.acm.org/doi/10.1145/1449764.1449796)**. In proceedings of the 23rd Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA), 2008.
 <span class="badge badge-danger">MRI</span>
+<span class="badge badge-dark">Paywall</span>
 
 <a class="paper" name="sasada2005b" href="#sasada2005b">#</a> K. Sasada, Y. Matsumoto, A. Maeda, M. Namiki. **[YARV: Yet Another RubyVM The Implementation and Evaluation](https://www.atdot.net/~ko1/activities/yarv2005vm.pdf)**.
 In the IPSJ Journal of Programming (PRO), 2005. *In Japanese*.
@@ -136,6 +142,7 @@ In the IPSJ Journal of Programming (PRO), 2005. *In Japanese*.
 
 <a class="paper" name="nakagawa2012" href="#nakagawa2012">#</a> H. Nakagawa, K. Sasada. **[Design and Implementation of Efficient Interprocess Transfer and Sharing Mechanism for Ruby Objects](https://ipsj.ixsq.nii.ac.jp/ej/index.php?action=pages_view_main&active_action=repository_action_common_download&item_id=83710&item_no=1&attribute_id=1&file_no=1&page_id=13&block_id=8)**. In the IPSJ Journal of Programming (PRO), 2012. *In Japanese*.
 <span class="badge badge-danger">MRI</span>
+<!-- link is flaky -->
 
 <a class="paper" name="sasada2012" href="#sasada2012">#</a> K. Sasada, S. Urabe, Y. Matsumoto, K Hiraki. **[Parallel Processing on Multiple Virtual Machine for Ruby](https://www.atdot.net/~ko1/activities/sasada_mvm_paper.pdf)**. In the IPSJ Journal of Programming (PRO), 2012. *In Japanese*.
 <span class="badge badge-danger">MRI</span>
@@ -193,7 +200,7 @@ In the IPSJ Journal of Programming (PRO), 2005. *In Japanese*.
 
 ### Software Engineering
 
-<a class="paper" name="pancelet2012" href="#pancelet2012">#</a> T. Poncelet, L. Vigneron. **[The Phenomenal Gem - Putting Features as a Service on Rails](https://github.com/phenomenal/rphenomenal/blob/master/public/The_Phenomenal_Gem_Poncelet_Vigneron_2012.pdf)**. Master's thesis, Université Catholique de Louvain, 2012.
+<a class="paper" name="pancelet2012" href="#pancelet2012">#</a> T. Poncelet, L. Vigneron. **[The Phenomenal Gem - Putting Features as a Service on Rails](https://raw.githubusercontent.com/phenomenal/rphenomenal/master/public/The_Phenomenal_Gem_Poncelet_Vigneron_2012.pdf)**. Master's thesis, Université Catholique de Louvain, 2012.
 
 <a class="paper" name="guenther2010b" href="#guenther2010b">#</a> S. Günther, M. Fischer. **[Metaprogramming in Ruby - A Pattern Catalog](https://www.hillside.net/plop/2010/papers/ACMVersions/papers/gunther-1.pdf)**. In proceedings of the 17th Conference on Pattern Languages of Programs, 2010.
 
@@ -201,7 +208,7 @@ In the IPSJ Journal of Programming (PRO), 2005. *In Japanese*.
 
 ### Security
 
-<a class="paper" name="near2016" href="#near2016">#</a> J. P. Near, D. Jackson. **[Finding Security Bugs in Web Applications using a Catalog of Access Control Patterns](https://dspace.mit.edu/handle/1721.1/102281)**. 38th International Conference on Software Engineering, 2016.
+<a class="paper" name="near2016" href="#near2016">#</a> J. P. Near, D. Jackson. **[Finding Security Bugs in Web Applications using a Catalog of Access Control Patterns](https://dspace.mit.edu/bitstream/handle/1721.1/102281/jnear-icse16.pdf)**. 38th International Conference on Software Engineering, 2016.
 
 ### Applications
 
@@ -225,19 +232,23 @@ In the IPSJ Journal of Programming (PRO), 2005. *In Japanese*.
 
 #### Distributed Computing
 
-<a class="paper" name="collins2014" href="#collins2014">#</a> J. Collins. **[Communication Paradigms for Mobile Ad Hoc Networks](https://escholarship.org/uc/item/8md1h50q)**. PhD thesis, 2014.
+<a class="paper" name="collins2014" href="#collins2014">#</a> J. Collins. **[Communication Paradigms for Mobile Ad Hoc Networks](https://escholarship.org/content/qt8md1h50q/qt8md1h50q.pdf)**. PhD thesis, 2014.
 
 #### Modeling and Simulation
 
-<a class="paper" name="rzasa2017b" href="#rzasa2017b">#</a> W. Rząsa. **[Predicting Performance in a PaaS Environment: a Case Study for a Web Application](https://journals.agh.edu.pl/csci/article/view/1794)**. In the Computer Science Journal, volume 18, number 1, 2017.
+<a class="paper" name="rzasa2017b" href="#rzasa2017b">#</a> W. Rząsa. **[Predicting Performance in a PaaS Environment: a Case Study for a Web Application](https://journals.agh.edu.pl/csci/article/download/1794/1660)**. In the Computer Science Journal, volume 18, number 1, 2017.
 
 <a class="paper" name="rzasa2017a" href="#rzasa2017a">#</a> W. Rząsa, M. Jamro, D. Rzonca. **[Improving Accuracy of a Network Model Basing on the Case Study of a Distributed System with a Mobile Application and an API](https://link.springer.com/chapter/10.1007/978-3-319-59767-6_2)**. In proceedings of the International Conference on Computer Networks, 2017.
+<span class="badge badge-dark">Paywall</span>
 
 <a class="paper" name="rzasa2016" href="#rzasa2016">#</a> W. Rząsa, D. Rzońca. **[Event-Driven Approach to Modeling and Performance Estimation of a Distributed Control System](https://link.springer.com/chapter/10.1007/978-3-319-39207-3_15)**. In proceedings of the International Conference on Computer Networks, 2016.
+<span class="badge badge-dark">Paywall</span>
 
 <a class="paper" name="rzasa2015" href="#rzasa2015">#</a> W. Rząsa. **[Simulation-Based Analysis of a Platform as a Service Infrastructure Performance from a User Perspective](https://link.springer.com/chapter/10.1007/978-3-319-19419-6_17)**. In proceedings of the International Conference on Computer Networks, 2015.
+<span class="badge badge-dark">Paywall</span>
 
-<a class="paper" name="cuadrado2006" href="#cuadrado2006">#</a> J. S. Cuadrado, J. G. Molina, M. M. Tortosa. **[RubyTL: A Practical, Extensible Transformation Language](https://link.springer.com/chapter/10.1007/11787044_13)**. Model Driven Architecture - Foundations and Applications, 4066, 2006.
+<a class="paper" name="cuadrado2006" href="#cuadrado2006">#</a> J. S. Cuadrado, J. G. Molina, M. M. Tortosa. **[RubyTL: A Practical, Extensible Transformation Language](https://link.springer.com/chapter/10.1007/11787044_13)**. Model Driven Architecture - Foundations and Applications, 2006.
+<span class="badge badge-dark">Paywall</span>
 
 #### Robotics
 
@@ -246,8 +257,9 @@ In the IPSJ Journal of Programming (PRO), 2005. *In Japanese*.
 #### Social Networks
 
 <a class="paper" name="tapiador2012" href="#tapiador2012">#</a> A. Tapiador, D. Carrera, J. Salvachúa. **[Social Stream, a social network framework](https://ieeexplore.ieee.org/document/6476557/?tp=&arnumber=6476557)**. Proceedings of International Conference on Future Generation Communication Technology (FGCT), 2012.
+<span class="badge badge-dark">Paywall</span>
 
-<a class="paper" name="tapiador2013" href="#tapiador2013">#</a> A. Tapiador. **[A framework for building distributed social network websites](http://oa.upm.es/21801/)**. PhD thesis, 2013.
+<a class="paper" name="tapiador2013" href="#tapiador2013">#</a> A. Tapiador. **[A framework for building distributed social network websites](http://oa.upm.es/21801/1/Antonio_Tapiador_del_Dujo.pdf)**. PhD thesis, 2013.
 
 #### Software Engineering
 
@@ -257,9 +269,9 @@ In the IPSJ Journal of Programming (PRO), 2005. *In Japanese*.
 
 #### Computer Vision
 
-<a class="paper" name="wedekind2012" href="#wedekind2012">#</a> J. Wedekind. **[Efficient Implementations of Machine Vision Algorithms using a Dynamically Typed Programming Language](https://figshare.com/articles/Efficient_Implementations_of_Machine_Vision_Algorithms_using_a_Dynamically_Typed_Programming_Language/97244)**. PhD thesis, 2012.
+<a class="paper" name="wedekind2012" href="#wedekind2012">#</a> J. Wedekind. **[Efficient Implementations of Machine Vision Algorithms using a Dynamically Typed Programming Language](https://s3-eu-west-1.amazonaws.com/pfigshare-u-files/143003/thesis_wedekind.pdf)**. PhD thesis, 2012.
 
 ## Standards
 
-<a class="paper" name="iso" href="#iso">#</a> IPA Ruby Standardization WG. **[ISO/IEC 30170:2012 Information technology — Programming languages — Ruby](https://www.iso.org/standard/59579.html)**. Final (paid) version of the Ruby ISO standard, 2012.
+<a class="paper" name="iso" href="#iso">#</a> IPA Ruby Standardization WG. **[ISO/IEC 30170:2012 Information technology — Programming languages — Ruby](https://www.iso.org/standard/59579.html)**. The Ruby ISO standard, 2012.
 <span class="badge badge-dark">Paywall</span>

@@ -15,6 +15,6 @@ jobs:
     - name: Install
       run: bundle install
     - name: Test links
-      run: bundle exec awesome_bot index.md _layouts/default.html --allow-dupe --white-list https://dl.acm.org,https://journals.sagepub.com
+      run: bundle exec awesome_bot index.md _layouts/default.html --allow-dupe --white-list https://dl.acm.org,https://journals.sagepub.com,https://ipsj.ixsq.nii.ac.jp
     - name: Test build
       run: bundle exec jekyll build
