@@ -30,5 +30,6 @@ and fix existing broken or redirected links as you find them. `dl.acm.org` and
 `journals.sagepub.com` are whitelisted because they redirect to set a cookie.
 
 ```
-% bundle exec awesome_bot index.md _layouts/default.html --allow-dupe --white-list https://dl.acm.org,https://journals.sagepub.com,https://ipsj.ixsq.nii.ac.jp
+% rake check
+% rake build
 ```
