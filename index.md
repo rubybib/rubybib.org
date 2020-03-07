@@ -7,7 +7,8 @@ title: The Ruby Bibliography
 
 <a class="paper" name="daloze2019" href="#daloze2019">#</a>
 B. Daloze.
-**[Thread-Safe and Efficient Data Representations in Dynamically-Typed Languages](https://eregon.me/blog/assets/research/thesis-thread-safe-data-representations-in-dynamic-languages.pdf)**.PhD thesis, Johannes Kepler University Linz, 2019.
+**[Thread-Safe and Efficient Data Representations in Dynamically-Typed Languages](https://eregon.me/blog/assets/research/thesis-thread-safe-data-representations-in-dynamic-languages.pdf)**.
+PhD thesis, Johannes Kepler University Linz, 2019.
 <span class="badge badge-warning">TruffleRuby</span>
 
 <a class="paper" name="mosaner2019" href="#mosaner2019">#</a>
