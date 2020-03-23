@@ -409,7 +409,7 @@ In proceedings of the 17th Conference on Pattern Languages of Programs, 2010.
 <a class="paper" name="near2016" href="#near2016">#</a>
 J. P. Near, D. Jackson.
 **[Finding Security Bugs in Web Applications using a Catalog of Access Control Patterns](https://dspace.mit.edu/bitstream/handle/1721.1/102281/jnear-icse16.pdf)**.
-38th International Conference on Software Engineering, 2016.
+In Proceedings of the 38th International Conference on Software Engineering, 2016.
 
 ### Applications
 
