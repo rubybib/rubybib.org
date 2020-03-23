@@ -3,7 +3,7 @@ layout: default
 title: The Ruby Bibliography
 ---
 
-### Virtual Machines
+### Virtual Machines and Compilers
 
 <a class="paper" name="daloze2019" href="#daloze2019">#</a>
 B. Daloze.
