@@ -61,6 +61,11 @@ T. Würthinger, C. Wimmer, C. Humer, A. Wöss, L. Stadler, C. Seaton, G. Duboscq
 In proceedings of the 38th Conference on Programming Language Design and Implementation (PLDI), 2017.
 <span class="badge badge-warning">TruffleRuby</span>
 
+<a class="paper" name="georgiou2017" href="#georgiou2017">#</a>
+S. Georgiou, M. Kechagia, D. Spinellis.
+**[Analyzing Programming Languages' Energy Consumption: An Empirical Study](https://stefanos1316.github.io/my_curriculum_vitae/GKS17.pdf)**.
+In Proceedings of the 21st Pan-Hellenic Conference on Informatics (PCI), 2017.
+
 <a class="paper" name="marr2016" href="#marr2016">#</a>
 S. Marr, B. Daloze, H. Mössenböck.
 **[Cross-Language Compiler Benchmarking - Are We Fast Yet?](https://stefan-marr.de/downloads/dls16-marr-et-al-cross-language-compiler-benchmarking-are-we-fast-yet.pdf)** In proceedings of the 12th Dynamic Languages Symposium (DLS), 2016.
@@ -150,6 +155,12 @@ A. Wöß, C. Wirth, D. Bonetta, C. Seaton, C. Humer, H. Mössenböck.
 In proceedings of the International Conference on Principles and Practices of Programming on the Java Platform (PPPJ), 2014.
 <span class="badge badge-warning">TruffleRuby</span>
 
+<a class="paper" name="sarimbekov2013" href="#sarimbekov2013">#</a>
+A. Sarimbekov, A. Podzimek, L. Bulej, Y. Zheng, N. Ricci, W. Binder.
+**[Characteristics of Dynamic JVM Languages](http://design.cs.iastate.edu/vmil/2013/papers/p05-Sarimbekov.pdf)**.
+In Proceedings of the 7th Workshop on Virtual Machines and Intermediate Languages (VMIL), 2013.
+<span class="badge badge-info">JRuby</span>
+
 <a class="paper" name="hang2013" href="#hang2013">#</a>
 <a name="talk-talk">W. Hang Li, D. R. White, J. Singer.
 **[JVM-Hosted Languages: They Talk the Talk, but do they Walk the Walk?](http://www.dcs.gla.ac.uk/~jsinger/pdfs/pppj13.pdf)** In proceedings of the International Conference on Principles and Practices of Programming on the Java Platform (PPPJ), 2013.
@@ -211,6 +222,11 @@ In proceedings of the 23rd Conference on Object-Oriented Programming, Systems, L
 <span class="badge badge-danger">MRI</span>
 <span class="badge badge-dark">Paywall</span>
 
+<a class="paper" name="kelly2008" href="#kelly2008">#</a>
+W. Kelly, J. Gough.
+**[Ruby.NET: a Ruby Compiler for the Common Language Infrastructure](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.294.2678)**.
+In Proceedings of the 31st Australasian Conference on Computer Science, 2008.
+
 <a class="paper" name="sasada2005b" href="#sasada2005b">#</a>
 K. Sasada, Y. Matsumoto, A. Maeda, M. Namiki.
 **[YARV: Yet Another RubyVM The Implementation and Evaluation](https://www.atdot.net/~ko1/activities/yarv2005vm.pdf)**.
@@ -225,11 +241,27 @@ In proceedings of the 20th Conference on Object-Oriented Programming, Systems, L
 
 ### Parallelism and Concurrency
 
+<a class="paper" name="springer2019" href="#springer2019">#</a>
+M. Springer.
+**[Memory-Efficient Object-Oriented Programming on GPUs](https://m-sp.org/downloads/phd_thesis.pdf)**.
+PhD thesis, Tokyo Institute of Technology, 2019.
+
+<a class="paper" name="ohiwa2019" href="#ohiwa2019">#</a>
+A. Ohiwa, H. Haga.
+**[Design and Implementation of Multi Agent Simulation Library MasCUDA for Parallel Processing with GPU](https://dl.acm.org/doi/abs/10.1145/3362752.3362770)**.
+In Proceedings of the 2nd International Conference on Electronics and Electrical Engineering Technology (EEET), 2019.
+<span class="badge badge-dark">Paywall</span>
+
 <a class="paper" name="daloze2018" href="#daloze2018">#</a>
 B. Daloze, A. Tal, S. Marr, H. Mössenböck, E. Petrank.
 **[Parallelization of Dynamic Languages: Synchronizing Built-in Collections](http://ssw.jku.at/General/Staff/Daloze/thread-safe-collections.pdf)**.
 In proceedings of the Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA), 2018.
 <span class="badge badge-warning">TruffleRuby</span>
+
+<a class="paper" name="springer2017" href="#springer2017">#</a>
+M. Sprinter, P. Wauligmann, H. Masuhara.
+**[Modular Array-Based GPU Computing in a Dynamically-Typed Language](https://m-sp.org/downloads/array2017.pdf)**.
+In Proceedings of the 4th International Workshop on Libraries, Languages, and Compilers for Array Programming (ARRAY), 2017.
 
 <a class="paper" name="springer2016" href="#springer2016">#</a>
 M. Springer, H. Masuhara.
@@ -241,6 +273,12 @@ B. Daloze, S. Marr, D. Bonetta, H. Mössenböck.
 **[Efficient and Thread-Safe Objects for Dynamically-Typed Languages](http://ssw.jku.at/General/Staff/Daloze/thread-safe-objects.pdf)**.
 In proceedings of the Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA), 2016.
 <span class="badge badge-warning">TruffleRuby</span>
+
+<a class="paper" name="alcazarzapien2015" href="#alcazarzapien2015">#</a>
+J. Alcázar Zapién.
+**[Debugging Parallel Programs Using Fork Handlers](https://dl.acm.org/doi/abs/10.1145/2712386.2712390)**.
+In Proceedings of the Sixth International Workshop on Programming Models and Applications for Multicores and Manycores (PMAM), 2015.
+<span class="badge badge-dark">Paywall</span>
 
 <a class="paper" name="ding2015" href="#ding2015">#</a>
 C. Ding, B. Gernhardt, P. Li, M. Hertz.
@@ -266,6 +304,12 @@ W. Ji, L. Lu, M. L. Scott.
 In proceedings of the 4th Workshop on Determinism and Correctness in Parallel Programming (WoDet), 2013.
 <span class="badge badge-info">JRuby</span>
 
+<a class="paper" name="masuhara2012" href="#masuhara2012">#</a>
+H. Masuhara, Y. Nishiguchi.
+**[A Data-Parallel Extension to Ruby for GPGPU - Toward a Framework for Implementing Domain-Specific Optimizations](https://dl.acm.org/doi/abs/10.1145/2237887.2237888)**.
+In Proceedings of the 9th ECOOP Workshop on Reflection, AOP, and Meta-Data for Software Evolution, 2012.
+<span class="badge badge-dark">Paywall</span>
+
 <a class="paper" name="nakagawa2012" href="#nakagawa2012">#</a>
 H. Nakagawa, K. Sasada.
 **[Design and Implementation of Efficient Interprocess Transfer and Sharing Mechanism for Ruby Objects](https://ipsj.ixsq.nii.ac.jp/ej/index.php?action=pages_view_main&active_action=repository_action_common_download&item_id=83710&item_no=1&attribute_id=1&file_no=1&page_id=13&block_id=8)**.
@@ -284,6 +328,12 @@ K. Sasada.
 **[The Improvement of Thread Implementation for Ruby Interpreter](https://www.atdot.net/~ko1/activities/prosym2011-thread_kaizen_paper.pdf)**.
 In the IPSJ Programming Symposium, 2011. *In Japanese*.
 <span class="badge badge-danger">MRI</span>
+
+<a class="paper" name="sillito2008" href="#sillito2008">#</a>
+J. Sillito.
+**[Stage: Exploring Erlang Style Concurrency in Ruby](https://dl.acm.org/doi/abs/10.1145/1370082.1370092)**.
+In Proceedings of the 1st International Workshop on Multicore Software Engineering, 2008.
+<span class="badge badge-dark">Paywall</span>
 
 <a class="paper" name="sasada2007" href="#sasada2007">#</a>
 K. Sasada, Y. Matsumoto, A. Maeda, M. Namiki.
@@ -357,6 +407,13 @@ In proceedings of the 40th ACM SIGPLAN Conference on Programming Language Design
 
 ### Tooling
 
+<a class="paper" name="gaikwad2018" href="#gaikwad2018">#</a>
+S. Gaikwad, A. Nisbet, M. Luján.
+**[Performance Analysis for Languages Hosted on the Truffle Framework](https://dl.acm.org/doi/10.1145/3237009.3237019)**.
+In Proceedings of the 15th International Conference on Managed Languages and Runtimes (MANLANG), 2018.
+<span class="badge badge-warning">TruffleRuby</span>
+<span class="badge badge-dark">Paywall</span>
+
 <a class="paper" name="kreindl2018" href="#kreindl2018">#</a>
 J. Kreindl, M. Rigger, H. Mössenböck.
 **[Debugging Native Extensions of Dynamic Languages](https://arxiv.org/pdf/1808.00823.pdf)**.
@@ -375,6 +432,13 @@ S. Miranda, E. Rodrigues Jr, M. T. Valente, R. Terra.
 In the Journal of Object Technology (JOT), 2016.
 <!-- there's two regional conference papers in 2015 from the same authors, but I don't know the conference - I'm assuming the same content went into this journal paper and I'm including only this one -->
 
+<a class="paper" name="savrunyeniceri2015" href="#savrunyeniceri2015">#</a>
+G. Savrun-Yeniçeri, M. L. Van de Vanter, P. Larsen, S. Brunthaler.
+**[An Efficient and Generic Event-based Profiler Framework for Dynamic Languages](https://dl.acm.org/doi/abs/10.1145/2807426.2807435)**.
+In Proceedings of the Principles and Practices of Programming on the Java Platform (PPPJ), 2015.
+<span class="badge badge-warning">TruffleRuby</span>
+<span class="badge badge-dark">Paywall</span>
+
 <a class="paper" name="seaton2014" href="#seaton2014">#</a>
 C. Seaton, M. L. Van De Vanter, M. Haupt.
 **[Debugging at Full Speed](https://www.lifl.fr/dyla14/papers/dyla14-3-Debugging_at_Full_Speed.pdf)**.
@@ -387,12 +451,49 @@ T. Sunaga, K. Sasada.
 In the JSSST Computer Software (2012). *In Japanese*.
 <span class="badge badge-danger">MRI</span>
 
+<a class="paper" name="nijjar2011" href="#nijjar2011">#</a>
+J. Nijjar, T. Bultan.
+**[Bounded Verification of Ruby on Rails Data Models](https://sites.cs.ucsb.edu/~bultan/publications/issta11.pdf)**.
+In Proceedings of the 2011 International Symposium on Software Testing and Analysis, 2011.
+
 ### Software Engineering
+
+<a class="paper" name="rodrigues2018" href="#rodrigues2018">#</a>
+E. Rodrigues, R. S. Durelli, R. W. de Bettio, L. Montecchi, R. Terra.
+**[Refactorings for Replacing Dynamic Instructions with Static Ones: the Case of Ruby](https://dl.acm.org/doi/abs/10.1145/3264637.3264645)**.
+In Proceedings of the XXII Brazilian Symposium on Programming Languages (SBLP), 2018. *In Portuguese.**
+<span class="badge badge-dark">Paywall</span>
+
+<a class="paper" name="kikvas2017" href="#kikvas2017">#</a>
+R. Kikvas, G. Gousious, M. Dumas, D. Pfahl.
+**[Structure and Evolution of Package Dependency Networks](https://github.com/amilajack/reading/blob/master/Computer_Science/Structure%20and%20Evolution%20of%20Package%20Dependency%20Networks.pdf)**.
+In Proceedings of the 14th International Conference on Mining Software Repositories, 2017.
+
+<a class="paper" name="salem2016" href="#salem2016">#</a>
+P. Salem.
+**[Practical Programming, Validation and Verification with Finite-State Machines: a Library and its Industrial Application](https://dl.acm.org/doi/abs/10.1145/2889160.2889226)**.
+In Proceedings of the 38th International Conference on Software Engineering Companion (ICSE), 2016.
+<span class="badge badge-dark">Paywall</span>
+
+<a class="paper" name="strickland2014" href="#strickland2014">#</a>
+T. S. Strickland, B. M. Ren, J. S. Foster.
+**[Contracts for Domain-Specific Languages in Ruby](http://www.cs.tufts.edu/~jfoster/papers/dls12.pdf)**.
+In Proceedings of the 10th Symposium on Dynamic Languages (DLS), 2014.
+
+<a class="paper" name="pasquier2014" href="#pasquier2014">#</a>
+T. F. J.-M. Pasquier, J. Bacon, B. Shand.
+**[FlowR: Aspect Oriented Programming for Information Flow Control in Ruby](https://scholar.harvard.edu/files/tfjmp/files/2014modularity.pdf)**.
+In Proceedings of the 13th International Conference on Modularity (MODULARITY), 2014.
 
 <a class="paper" name="pancelet2012" href="#pancelet2012">#</a>
 T. Poncelet, L. Vigneron.
 **[The Phenomenal Gem - Putting Features as a Service on Rails](https://raw.githubusercontent.com/phenomenal/rphenomenal/master/public/The_Phenomenal_Gem_Poncelet_Vigneron_2012.pdf)**.
 Master's thesis, Université Catholique de Louvain, 2012.
+
+<a class="paper" name="mairhofer2011" href="#mairhofer2011">#</a>
+S. Mairhofer, R. Feldt, R. Torkar, S. Poulding.
+**[Search-Based Software Testing and Test Data Generation for a Dynamic Programming Language](https://arxiv.org/pdf/1804.09232.pdf)**.
+In Proceedings of the 13th Annual Conference on Genetic and Evolutionary Computation, 2011.
 
 <a class="paper" name="guenther2010b" href="#guenther2010b">#</a>
 S. Günther, M. Fischer.
@@ -404,12 +505,50 @@ S. Günther, T. Cleenewerck.
 **[Design Principles for Internal Domain-Specific Languages: A Pattern Catalog Illustrated by Ruby](https://www.hillside.net/plop/2010/papers/ACMVersions/papers/gunther-2.pdf)**.
 In proceedings of the 17th Conference on Pattern Languages of Programs, 2010.
 
+<a class="paper" name="guenther2010c" href="#guenther2010c">#</a>
+S. Günther, S. Sunkle.
+**[Dynamically Adaptable Software Product Lines using Ruby Metaprogramming](https://www.infosun.fim.uni-passau.de/spl/apel/FOSD2010/80-guenther.pdf)**.
+In Proceedings of the 2nd International Workshop on Feature-Oriented Software Development, 2010.
+
+<a class="paper" name="guenther2009" href="#guenther2009">#</a>
+S. Günther, S. Sunkle.
+**[Feature-Oriented Programming with Ruby](https://dl.acm.org/doi/abs/10.1145/1629716.1629721)**.
+Technical report, 2009.
+
+<a class="paper" name="guenther2009b" href="#guenther2009b">#</a>
+S. Günther, S. Sunkle.
+**[Enabling Feature-Oriented Programming in Ruby](http://www.inf.ovgu.de/inf_media/-p-2226.pdf)**.
+In Proceedings of the 1st International Workshop on Feature-Oriented Software Development, 2009.
+<span class="badge badge-dark">Paywall</span>
+
+<a class="paper" name="oritz08" href="#oritz08">#</a>
+A. Oritz.
+**[Language Design and Implementation Using Ruby and the Interpreter Pattern](http://34.212.143.74/publicaciones/sif.pdf)**.
+In Proceedings of the 39th SIGCSE Technical Symposium on Computer Science Education, 2008.
+
+<a class="paper" name="geebelen2008" href="#geebelen2008">#</a>
+K. Geebelen, S. Michiels, W. Joosen.
+**[Dynamic Reconfiguration Using Template Based Web Service Composition](https://dl.acm.org/doi/abs/10.1145/1462802.1462811)**.
+In Proceedings of the 3rd Workshop on Middleware for Service Oriented Computing, 2008.
+<span class="badge badge-dark">Paywall</span>
+
+<a class="paper" name="sheehan07" href="#sheehan07">#</a>
+R. J. Scheehan.
+**[Teaching Operating Systems With Ruby](https://dl.acm.org/doi/10.1145/1268784.1268798)**.
+In Proceedings of the 12th Annual SIGCSE Conference on Innovation and Technology in Computer Science Education, 2007.
+<span class="badge badge-dark">Paywall</span>
+
 ### Security
 
 <a class="paper" name="near2016" href="#near2016">#</a>
 J. P. Near, D. Jackson.
 **[Finding Security Bugs in Web Applications using a Catalog of Access Control Patterns](https://dspace.mit.edu/bitstream/handle/1721.1/102281/jnear-icse16.pdf)**.
 In Proceedings of the 38th International Conference on Software Engineering, 2016.
+
+<a class="paper" name="chaudhuri2010" href="#chaudhuri2010">#</a>
+A. Chaudhuri, J. Foster.
+**[Symbolic Security Analysis of Ruby-on-Rails Web Applications](https://cseweb.ucsd.edu/~dstefan/cse291-winter18/papers/rubyx.pdf)**.
+In Proceedings of the 17th Conference on Computer and Communications Security, 2010.
 
 ### Applications
 
@@ -479,6 +618,12 @@ In proceedings of the International Conference on Computer Networks, 2016.
 W. Rząsa.
 **[Simulation-Based Analysis of a Platform as a Service Infrastructure Performance from a User Perspective](https://link.springer.com/chapter/10.1007/978-3-319-19419-6_17)**.
 In proceedings of the International Conference on Computer Networks, 2015.
+<span class="badge badge-dark">Paywall</span>
+
+<a class="paper" name="franceschini2014" href="#franceschini2014">#</a>
+R. Franceschini, P. Bisgambiglia, P. Bisgambiglia, D. Hill.
+**[DEVS-Ruby: A Domain Specific Language for DEVS Modeling and Simulation](https://dl.acm.org/doi/abs/10.5555/2665008.2665023)**.
+In Proceedings of the Symposium on Theory of Modeling and Simulation - DEVS Integrative, 2014.
 <span class="badge badge-dark">Paywall</span>
 
 <a class="paper" name="cuadrado2006" href="#cuadrado2006">#</a>
