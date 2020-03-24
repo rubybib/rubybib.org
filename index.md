@@ -517,7 +517,7 @@ Technical report, 2009.
 
 <a class="paper" name="guenther2009b" href="#guenther2009b">#</a>
 S. Günther, S. Sunkle.
-**[Enabling Feature-Oriented Programming in Ruby](http://www.inf.ovgu.de/inf_media/-p-2226.pdf)**.
+**[Enabling Feature-Oriented Programming in Ruby](http://www.inf.ovgu.de/inf_media/downloads/forschung/technical_reports_und_preprints/2009/2009_internet/TechReport16-p-2226.pdf)**.
 In Proceedings of the 1st International Workshop on Feature-Oriented Software Development, 2009.
 <span class="badge badge-dark">Paywall</span>
 
@@ -643,13 +643,13 @@ JALA - Journal of the Association for Laboratory Automation, 12(1), 56-61, 2007.
 
 <a class="paper" name="tapiador2012" href="#tapiador2012">#</a>
 A. Tapiador, D. Carrera, J. Salvachúa.
-**[Social Stream, a social network framework](https://ieeexplore.ieee.org/document/6476557/?tp=&arnumber=6476557)**.
+**[Social Stream, a Aocial Network Framework](https://ieeexplore.ieee.org/document/6476557/?tp=&arnumber=6476557)**.
 Proceedings of International Conference on Future Generation Communication Technology (FGCT), 2012.
 <span class="badge badge-dark">Paywall</span>
 
 <a class="paper" name="tapiador2013" href="#tapiador2013">#</a>
 A. Tapiador.
-**[A framework for building distributed social network websites](http://oa.upm.es/21801/1/Antonio_Tapiador_del_Dujo.pdf)**.
+**[A Framework for Building Distributed Social Network Websites](http://oa.upm.es/21801/1/Antonio_Tapiador_del_Dujo.pdf)**.
 PhD thesis, 2013.
 
 #### Software Engineering
