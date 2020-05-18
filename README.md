@@ -8,7 +8,12 @@ books for Ruby users, for example.
 
 Theses and papers should normally be more substantial than an abstract, should
 state a research contribution, and should have been reputably peer reviewed or
-viva'd to be included, but we will make exceptions at our discretion.
+viva'd to be included. A general test is that if Ruby was replaced with another
+language would that have any significant impact on the research. If not then
+Ruby is probably being used as a tool rather than being researched, and we
+wouldn't include that.
+
+We will make exceptions at our discretion.
 
 ## Contributing
 

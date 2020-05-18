@@ -490,6 +490,16 @@ T. Poncelet, L. Vigneron.
 **[The Phenomenal Gem - Putting Features as a Service on Rails](https://raw.githubusercontent.com/phenomenal/rphenomenal/master/public/The_Phenomenal_Gem_Poncelet_Vigneron_2012.pdf)**.
 Master's thesis, Université Catholique de Louvain, 2012.
 
+<a class="paper" name="loh2012" href="#loh2012">#</a>
+A. Loh, W. R. Cook, T. van der Storm.
+**[Managed Data: Modular Strategies for Data Abstraction](https://www.cs.utexas.edu/~wcook/Drafts/2012/ensodata.pdf)**.
+In Proceedings of *Onward!*, 2012.
+
+<a class="paper" name="vanderstorm2012" href="#vanderstorm2012">#</a>
+T. van der Storm, A. Loh, W. R. Cook.
+**[Object Grammars: Compositional & Bidirectional Mapping Between Text and Graphs](https://www.cs.utexas.edu/~wcook/Drafts/2012/ensogrammars.pdf)**.
+In Proceedings of the 5th International Conference on Software Language Engineering, 2012.
+
 <a class="paper" name="mairhofer2011" href="#mairhofer2011">#</a>
 S. Mairhofer, R. Feldt, R. Torkar, S. Poulding.
 **[Search-Based Software Testing and Test Data Generation for a Dynamic Programming Language](https://arxiv.org/pdf/1804.09232.pdf)**.
@@ -550,26 +560,14 @@ A. Chaudhuri, J. Foster.
 **[Symbolic Security Analysis of Ruby-on-Rails Web Applications](https://cseweb.ucsd.edu/~dstefan/cse291-winter18/papers/rubyx.pdf)**.
 In Proceedings of the 17th Conference on Computer and Communications Security, 2010.
 
-### Applications
+### Computer Vision
 
-#### Artificial Intelligence
+<a class="paper" name="wedekind2012" href="#wedekind2012">#</a>
+J. Wedekind.
+**[Efficient Implementations of Machine Vision Algorithms using a Dynamically Typed Programming Language](https://s3-eu-west-1.amazonaws.com/pfigshare-u-files/143003/thesis_wedekind.pdf)**.
+PhD thesis, 2012.
 
-<a class="paper" name="cuccu2019" href="#cuccu2019">#</a>
-G. Cuccu, J. Togelius, Ph. Cudré-Mauroux.
-**[Playing Atari with Six Neurons](https://exascale.info/assets/pdf/cuccu2019aamas.pdf)**.
-In Proceedings of the International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2019. *Implementation in Ruby.*
-
-<a class="paper" name="cuccu2018" href="#cuccu2018">#</a>
-G. Cuccu.
-**[Extending the Applicability of Neuroevolution](https://exascale.info/assets/pdf/cuccu2018phd.pdf)**.
-PhD thesis, University of Fribourg, 2018. *Implementation in Ruby.*
-
-<a class="paper" name="adam2006" href="#adam2006">#</a>
-J. Adam.
-**[Designing Emergence: automatic extraction of stigmergic algorithms from lattice structures](http://assets.lazyatom.com/thesis.pdf)**.
-PhD thesis, University of Essex, 2006.
-
-#### Bioinformatics
+### Bioinformatics
 
 <a class="paper" name="smith2013" href="#smith2013">#</a>
 R. Smith, R. Williamson, D. Ventura, J. T. Prince.
@@ -581,95 +579,20 @@ N. Goto, P. Prins, M. Nakao, R. Bonnal, J. Aerts, T. Katayama.
 **[Bioruby: bioinformatics software for the Ruby programming language](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2951089/pdf/btq475.pdf)**.
 Bioinformatics, 26(20):2617–9, Oct 2010.
 
-#### Content Management
-
-<a class="paper" name="tapiador2011" href="#tapiador2011">#</a>
-A. Tapiador, J. Salvachúa.
-**[Content Management in Ruby on Rails](http://singularities.org/atd/docs/Content_management_in_Ruby_on_Rails.pdf)**.
-Proceedings of the IADIS International Conference on Collaborative Technologies, 2011.
-
-#### Distributed Computing
-
-<a class="paper" name="collins2014" href="#collins2014">#</a>
-J. Collins.
-**[Communication Paradigms for Mobile Ad Hoc Networks](https://escholarship.org/content/qt8md1h50q/qt8md1h50q.pdf)**.
-PhD thesis, 2014.
-
-#### Modeling and Simulation
-
-<a class="paper" name="rzasa2017b" href="#rzasa2017b">#</a>
-W. Rząsa.
-**[Predicting Performance in a PaaS Environment: a Case Study for a Web Application](https://journals.agh.edu.pl/csci/article/download/1794/1660)**.
-In the Computer Science Journal, volume 18, number 1, 2017.
-
-<a class="paper" name="rzasa2017a" href="#rzasa2017a">#</a>
-W. Rząsa, M. Jamro, D. Rzonca.
-**[Improving Accuracy of a Network Model Basing on the Case Study of a Distributed System with a Mobile Application and an API](https://link.springer.com/chapter/10.1007/978-3-319-59767-6_2)**.
-In Proceedings of the International Conference on Computer Networks, 2017.
-<span class="badge badge-dark">Paywall</span>
-
-<a class="paper" name="rzasa2016" href="#rzasa2016">#</a>
-W. Rząsa, D. Rzońca.
-**[Event-Driven Approach to Modeling and Performance Estimation of a Distributed Control System](https://link.springer.com/chapter/10.1007/978-3-319-39207-3_15)**.
-In Proceedings of the International Conference on Computer Networks, 2016.
-<span class="badge badge-dark">Paywall</span>
-
-<a class="paper" name="rzasa2015" href="#rzasa2015">#</a>
-W. Rząsa.
-**[Simulation-Based Analysis of a Platform as a Service Infrastructure Performance from a User Perspective](https://link.springer.com/chapter/10.1007/978-3-319-19419-6_17)**.
-In Proceedings of the International Conference on Computer Networks, 2015.
-<span class="badge badge-dark">Paywall</span>
-
-<a class="paper" name="franceschini2014" href="#franceschini2014">#</a>
-R. Franceschini, P. Bisgambiglia, P. Bisgambiglia, D. Hill.
-**[DEVS-Ruby: A Domain Specific Language for DEVS Modeling and Simulation](https://dl.acm.org/doi/abs/10.5555/2665008.2665023)**.
-In Proceedings of the Symposium on Theory of Modeling and Simulation - DEVS Integrative, 2014.
-<span class="badge badge-dark">Paywall</span>
-
-<a class="paper" name="cuadrado2006" href="#cuadrado2006">#</a>
-J. S. Cuadrado, J. G. Molina, M. M. Tortosa.
-**[RubyTL: A Practical, Extensible Transformation Language](https://link.springer.com/chapter/10.1007/11787044_13)**.
-Model Driven Architecture - Foundations and Applications, 2006.
-<span class="badge badge-dark">Paywall</span>
-
-#### Robotics
+### Robotics
 
 <a class="paper" name="roman2007" href="#roman2007">#</a>
 B. Roman, C. Scholin, S. Jensen, E. Massion, R. Marin III, C. Preston, D. Greenfield, W. Jones, K. Wheeler.
 **[Controlling a Robotic Marine Environmental Sampler with the Ruby Scripting Language](https://journals.sagepub.com/doi/pdf/10.1016/j.jala.2006.07.013)**.
 JALA - Journal of the Association for Laboratory Automation, 12(1), 56-61, 2007.
 
-#### Social Networks
+### Modeling and Simulation
 
-<a class="paper" name="tapiador2012" href="#tapiador2012">#</a>
-A. Tapiador, D. Carrera, J. Salvachúa.
-**[Social Stream, a Aocial Network Framework](https://ieeexplore.ieee.org/document/6476557/?tp=&arnumber=6476557)**.
-Proceedings of International Conference on Future Generation Communication Technology (FGCT), 2012.
+<a class="paper" name="cuadrado2006" href="#cuadrado2006">#</a>
+J. S. Cuadrado, J. G. Molina, M. M. Tortosa.
+**[RubyTL: A Practical, Extensible Transformation Language](https://link.springer.com/chapter/10.1007/11787044_13)**.
+Model Driven Architecture - Foundations and Applications, 2006.
 <span class="badge badge-dark">Paywall</span>
-
-<a class="paper" name="tapiador2013" href="#tapiador2013">#</a>
-A. Tapiador.
-**[A Framework for Building Distributed Social Network Websites](http://oa.upm.es/21801/1/Antonio_Tapiador_del_Dujo.pdf)**.
-PhD thesis, 2013.
-
-#### Software Engineering
-
-<a class="paper" name="loh2012" href="#loh2012">#</a>
-A. Loh, W. R. Cook, T. van der Storm.
-**[Managed Data: Modular Strategies for Data Abstraction](https://www.cs.utexas.edu/~wcook/Drafts/2012/ensodata.pdf)**.
-In Proceedings of *Onward!*, 2012.
-
-<a class="paper" name="vanderstorm2012" href="#vanderstorm2012">#</a>
-T. van der Storm, A. Loh, W. R. Cook.
-**[Object Grammars: Compositional & Bidirectional Mapping Between Text and Graphs](https://www.cs.utexas.edu/~wcook/Drafts/2012/ensogrammars.pdf)**.
-In Proceedings of the 5th International Conference on Software Language Engineering, 2012.
-
-#### Computer Vision
-
-<a class="paper" name="wedekind2012" href="#wedekind2012">#</a>
-J. Wedekind.
-**[Efficient Implementations of Machine Vision Algorithms using a Dynamically Typed Programming Language](https://s3-eu-west-1.amazonaws.com/pfigshare-u-files/143003/thesis_wedekind.pdf)**.
-PhD thesis, 2012.
 
 ## Standards
 
