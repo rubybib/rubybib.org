@@ -7,14 +7,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
-      uses: actions/checkout@f90c7b395dac7c5a277c1a6d93d5057c1cddb74e
+      uses: actions/checkout@2036a08e25fa78bbd946711a407b529a0a1204bf
     - name: Install Ruby
-      uses: eregon/use-ruby-action@06ab568b6a2427d46e8b64c2006cb36531af3de9
-      with:
-        ruby-version: 2.7.0
+      uses: eregon/use-ruby-action@108b3a2c8a79ce6a8b5402c2f7d242009737bdf0
     - name: Install
       run: bundle install
-    - name: Check
-      run: rake check
     - name: Build
-      run: rake build
+      run: bundle exec jekyll build
