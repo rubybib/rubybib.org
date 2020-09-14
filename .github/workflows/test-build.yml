@@ -12,5 +12,7 @@ jobs:
       uses: eregon/use-ruby-action@108b3a2c8a79ce6a8b5402c2f7d242009737bdf0
     - name: Install
       run: bundle install
+    - name: Check
+      run: bundle exec checklinks --config .checklinks.yaml **/*.md
     - name: Build
       run: bundle exec jekyll build

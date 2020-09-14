@@ -1,0 +1,6 @@
+ignore:
+  redirect:
+    exact:
+    - https://journals.sagepub.com/doi/pdf/10.1016/j.jala.2006.07.013
+    prefixes:
+    - https://dl.acm.org/doi/
