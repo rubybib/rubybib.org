@@ -9,7 +9,7 @@ jobs:
     - name: Checkout
       uses: actions/checkout@2036a08e25fa78bbd946711a407b529a0a1204bf
     - name: Install Ruby
-      uses: eregon/use-ruby-action@108b3a2c8a79ce6a8b5402c2f7d242009737bdf0
+      uses: eregon/use-ruby-action@f117ca04d86e4ea2ddb6c33076de6028df76da23
     - name: Install
       run: bundle install
     - name: Check
