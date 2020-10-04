@@ -527,7 +527,7 @@ Technical report, 2009.
 
 <a class="paper" name="guenther2009b" href="#guenther2009b">#</a>
 S. Günther, S. Sunkle.
-**[Enabling Feature-Oriented Programming in Ruby](http://www.inf.ovgu.de/inf_media/downloads/forschung/technical_reports_und_preprints/2009/2009_internet/TechReport16-p-2226.pdf)**.
+**[Enabling Feature-Oriented Programming in Ruby](https://www.inf.ovgu.de/inf_media/downloads/forschung/technical_reports_und_preprints/2009/2009_internet/TechReport16-p-2226.pdf)**.
 In Proceedings of the 1st International Workshop on Feature-Oriented Software Development, 2009.
 <span class="badge badge-dark">Paywall</span>
 
