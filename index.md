@@ -373,11 +373,6 @@ M. J. Edgar.
 **[Static Analysis for Ruby in the Presence of Gradual Typing](https://www.cs.dartmouth.edu/~trdata/reports/TR2011-686.pdf)**.
 Bachelor's thesis, 2011.
 
-<a class="paper" name="madsen2007" href="#madsen2007">#</a>
-M. Madsen, P. Sørensen, K. Kristensen.
-**[Ecstatic - Type Inference for Ruby Using the Cartesian Product Algorithm](https://projekter.aau.dk/projekter/files/61071016/1181807983.pdf)**.
-Master's thesis, Aalborg University, 2007.
-
 <a class="paper" name="furr2009b" href="#furr2009b">#</a>
 M. Furr, J. An, J. S. Foster, M. Hicks.
 **[Static Typing for Ruby on Rails](http://www.cs.umd.edu/projects/PL/druby/papers/drails-ase09.pdf)**.
@@ -397,6 +392,11 @@ In Proceedings of the Conference on Object-Oriented Programming, Systems, Langua
 J. An, A. Chaudhuri, J. S. Foster.
 **[Static Type Inference for Ruby](http://www.cs.umd.edu/projects/PL/druby/papers/druby-oops09.pdf)**.
 In Proceedings of the 24th IEEE/ACM International Conference on Automated Software Engineering, 2009.
+
+<a class="paper" name="madsen2007" href="#madsen2007">#</a>
+M. Madsen, P. Sørensen, K. Kristensen.
+**[Ecstatic - Type Inference for Ruby Using the Cartesian Product Algorithm](https://projekter.aau.dk/projekter/files/61071016/1181807983.pdf)**.
+Master's thesis, Aalborg University, 2007.
 
 ### Garbage Collection
 
