@@ -176,7 +176,7 @@ Bachelor's thesis, Hasso-Plattner-Institute, 2013.
 J. Castanos, D. Edelsohn, K. Ishizaki, P. Nagpurkar, T. Nakatani, T. Ogasawara, P. Wu.
 **[On the Benefits and Pitfalls of Extending a Statically Typed Language JIT Compiler for Dynamic Scripting Languages](https://researcher.watson.ibm.com/researcher/files/us-pengwu/oopsla12-final-dsl.pdf)**.
 In Proceedings of the 20th Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA), 2012.
-<span class="badge badge-info">JRuby</span>
+<span class="badge badge-info">JRuby</span> <span class="badge badge-secondary">Rubinius</span>
 
 <a class="paper" name="shiba2012" href="#shiba2012">#</a>
 S. Shiba, K. Sasada, K. Hiraki.
