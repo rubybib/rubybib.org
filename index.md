@@ -172,6 +172,12 @@ M. Springer.
 Bachelor's thesis, Hasso-Plattner-Institute, 2013.
 <span class="badge badge-primary">MagLev</span>
 
+<a class="paper" name="castanos2012" href="#castanos2012">#</a>
+J. Castanos, D. Edelsohn, K. Ishizaki, P. Nagpurkar, T. Nakatani, T. Ogasawara, P. Wu.
+**[On the Benefits and Pitfalls of Extending a Statically Typed Language JIT Compiler for Dynamic Scripting Languages](https://researcher.watson.ibm.com/researcher/files/us-pengwu/oopsla12-final-dsl.pdf)**.
+In Proceedings of the 20th Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA), 2012.
+<span class="badge badge-info">JRuby</span>
+
 <a class="paper" name="shiba2012" href="#shiba2012">#</a>
 S. Shiba, K. Sasada, K. Hiraki.
 **[CastOff: A Compiler for Ruby Implemented as a Library](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=83510&item_no=1&page_id=13&block_id=8)**.
