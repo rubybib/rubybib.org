@@ -467,7 +467,7 @@ In Proceedings of the 2011 International Symposium on Software Testing and Analy
 <a class="paper" name="rodrigues2018" href="#rodrigues2018">#</a>
 E. Rodrigues, R. S. Durelli, R. W. de Bettio, L. Montecchi, R. Terra.
 **[Refactorings for Replacing Dynamic Instructions with Static Ones: the Case of Ruby](https://dl.acm.org/doi/abs/10.1145/3264637.3264645)**.
-In Proceedings of the XXII Brazilian Symposium on Programming Languages (SBLP), 2018. *In Portuguese.**
+In Proceedings of the XXII Brazilian Symposium on Programming Languages (SBLP), 2018. *In Portuguese.*
 <span class="badge badge-dark">Paywall</span>
 
 <a class="paper" name="kikvas2017" href="#kikvas2017">#</a>
