@@ -349,6 +349,11 @@ In the IPSJ Journal of Programming (PRO), 2007. *In Japanese*.
 
 ### Type Systems
 
+<a class="paper" name="guria2021" href="#guria2021">#</a>
+S. N. Guria, J. S. Foster, D. Van Horn.
+**[RbSyn: Type- and Effect-Guided Program Synthesis](https://arxiv.org/pdf/2102.13183.pdf)**.
+In Proceedings of the 42nd ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI), 2021.
+
 <a class="paper" name="kazerounian2019" href="#kazerounian2019">#</a>
 M. Kazerounian, S. N. Guria, N. Vazou, J. S. Foster, D. Van Horn.
 **[Type-level Computations for Ruby Libraries](https://arxiv.org/pdf/1904.03521.pdf)**.
