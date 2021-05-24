@@ -282,9 +282,9 @@ In Proceedings of the Conference on Object-Oriented Programming, Systems, Langua
 
 <a class="paper" name="alcazarzapien2015" href="#alcazarzapien2015">#</a>
 J. Alcázar Zapién.
-**[Debugging Parallel Programs Using Fork Handlers](https://dl.acm.org/doi/abs/10.1145/2712386.2712390)**.
+**[Debugging Parallel Programs Using Fork Handlers](https://modprobe.files.wordpress.com/2015/09/jalcazar_pmam20151.pdf)**.
 In Proceedings of the Sixth International Workshop on Programming Models and Applications for Multicores and Manycores (PMAM), 2015.
-<span class="badge badge-dark">Paywall</span>
+<span class="badge badge-danger">MRI</span>
 
 <a class="paper" name="ding2015" href="#ding2015">#</a>
 C. Ding, B. Gernhardt, P. Li, M. Hertz.
