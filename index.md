@@ -97,7 +97,7 @@ In Journal of Information Processing Society of Japan, Transactions on Programmi
 
 <a class="paper" name="tanaka2015" href="#tanaka2015">#</a>
 K. Tanaka, A. D. Nagumanthri, Y. Matsumoto.
-**[mruby – Rapid Software Development for Embedded Systems](https://www.researchgate.net/profile/Aviansh_Nagumanthri/publication/282816987_mruby_-_Rapid_Software_Development_for_Embedded_Systems/links/561f03e308ae50795aff64d0/mruby-Rapid-Software-Development-for-Embedded-Systems.pdf)**.
+**[mruby – Rapid Software Development for Embedded Systems](https://www.researchgate.net/profile/Aviansh-Nagumanthri/publication/282816987_mruby_-_Rapid_Software_Development_for_Embedded_Systems/links/561f03e308ae50795aff64d0/mruby-Rapid-Software-Development-for-Embedded-Systems.pdf)**.
 In Proceedings of the 15th International Conference on Computational Science and its Applications (ICCSA), 2015.
 <span class="badge badge-success">mruby</span>
 
@@ -260,7 +260,7 @@ In Proceedings of the 2nd International Conference on Electronics and Electrical
 
 <a class="paper" name="daloze2018" href="#daloze2018">#</a>
 B. Daloze, A. Tal, S. Marr, H. Mössenböck, E. Petrank.
-**[Parallelization of Dynamic Languages: Synchronizing Built-in Collections](http://ssw.jku.at/General/Staff/Daloze/thread-safe-collections.pdf)**.
+**[Parallelization of Dynamic Languages: Synchronizing Built-in Collections](https://ssw.jku.at/General/Staff/Daloze/thread-safe-collections.pdf)**.
 In Proceedings of the Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA), 2018.
 <span class="badge badge-warning">TruffleRuby</span>
 
@@ -276,7 +276,7 @@ In Proceedings of the 3rd International Workshop on Libraries, Languages, and Co
 
 <a class="paper" name="daloze2016" href="#daloze2016">#</a>
 B. Daloze, S. Marr, D. Bonetta, H. Mössenböck.
-**[Efficient and Thread-Safe Objects for Dynamically-Typed Languages](http://ssw.jku.at/General/Staff/Daloze/thread-safe-objects.pdf)**.
+**[Efficient and Thread-Safe Objects for Dynamically-Typed Languages](https://ssw.jku.at/General/Staff/Daloze/thread-safe-objects.pdf)**.
 In Proceedings of the Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA), 2016.
 <span class="badge badge-warning">TruffleRuby</span>
 
@@ -376,7 +376,7 @@ In Proceedings of the 38th ACM Symposium on Principles of Programming Languages 
 
 <a class="paper" name="edgar2011" href="#edgar2011">#</a>
 M. J. Edgar.
-**[Static Analysis for Ruby in the Presence of Gradual Typing](https://www.cs.dartmouth.edu/~trdata/reports/TR2011-686.pdf)**.
+**[Static Analysis for Ruby in the Presence of Gradual Typing](https://digitalcommons.dartmouth.edu/cgi/viewcontent.cgi?article=1071&context=senior_theses)**.
 Bachelor's thesis, 2011.
 
 <a class="paper" name="furr2009b" href="#furr2009b">#</a>
@@ -523,7 +523,7 @@ In Proceedings of the 17th Conference on Pattern Languages of Programs, 2010.
 
 <a class="paper" name="guenther2010c" href="#guenther2010c">#</a>
 S. Günther, S. Sunkle.
-**[Dynamically Adaptable Software Product Lines using Ruby Metaprogramming](https://www.infosun.fim.uni-passau.de/spl/apel/FOSD2010/80-guenther.pdf)**.
+**[Dynamically Adaptable Software Product Lines using Ruby Metaprogramming](https://www.se.cs.uni-saarland.de/apel/FOSD2010/80-guenther.pdf)**.
 In Proceedings of the 2nd International Workshop on Feature-Oriented Software Development, 2010.
 
 <a class="paper" name="guenther2009" href="#guenther2009">#</a>
@@ -577,7 +577,7 @@ PhD thesis, 2012.
 
 <a class="paper" name="smith2013" href="#smith2013">#</a>
 R. Smith, R. Williamson, D. Ventura, J. T. Prince.
-**[Rubabel: wrapping open Babel with Ruby](https://jcheminf.biomedcentral.com/track/pdf/10.1186/1758-2946-5-35)**.
+**[Rubabel: wrapping open Babel with Ruby](https://jcheminf.biomedcentral.com/track/pdf/10.1186/1758-2946-5-35.pdf)**.
 Journal of Cheminformatics, 5(1), 35, 2013.
 
 <a class="paper" name="goto2010" href="#goto2010">#</a>
