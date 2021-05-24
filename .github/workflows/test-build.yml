@@ -9,10 +9,10 @@ jobs:
     - name: Checkout
       uses: actions/checkout@2036a08e25fa78bbd946711a407b529a0a1204bf
     - name: Install Ruby
-      uses: eregon/use-ruby-action@f117ca04d86e4ea2ddb6c33076de6028df76da23
+      uses: ruby/setup-ruby@b161cb92f0e2f28d992f04f38fff204d84132c47
     - name: Install
       run: bundle install
     - name: Check
-      run: bundle exec checklinks --config .checklinks.yaml **.md
+      run: rake check
     - name: Build
-      run: bundle exec jekyll build
+      run: rake build
