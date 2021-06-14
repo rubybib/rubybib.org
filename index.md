@@ -125,7 +125,7 @@ M. Grimmer, C. Seaton, R. Schatz, T. Würthinger, H. Mössenböck.
 In Proceedings of the 11th Dynamic Languages Symposium (DLS), 2015.
 <span class="badge badge-warning">TruffleRuby</span>
 
-<a class="paper" name="daloze2015" href="#daloze2015">#</a>
+<a class="paper" name="niephaus2015" href="#niephaus2015">#</a>
 F. Niephaus, M. Springer, T. Felgentreff, T. Pape, R. Hirschfeld.
 **[Call-target-specific Method Arguments](https://raw.githubusercontent.com/HPI-SWA-Lab/TargetSpecific-ICOOOLPS/gh-pages/call_target_specific_method_arguments.pdf)**.
 In Proceedings of the 10th Implementation, Compilation, Optimization of Object-Oriented Languages, Programs and Systems Workshop (ICOOOLPS), 2015.
