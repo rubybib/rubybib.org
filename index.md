@@ -597,6 +597,10 @@ B. Roman, C. Scholin, S. Jensen, E. Massion, R. Marin III, C. Preston, D. Greenf
 **[Controlling a Robotic Marine Environmental Sampler with the Ruby Scripting Language](https://journals.sagepub.com/doi/pdf/10.1016/j.jala.2006.07.013)**.
 JALA - Journal of the Association for Laboratory Automation, 12(1), 56-61, 2007.
 
+### Electronic Design Automation
+<a class="paper" name="lelann2020" href="#lelann">#</a>
+J-C. Le Lann, H. Badier, F. Kermarrec. **[Towards a Hardware DSL Ecosystem : RubyRTL and friends](https://arxiv.org/abs/2004.09858)**. OSDA - Open Source Design Automation workshop, collocated with DATE Conference, Design Automation and Test in Europe, 2020.
+
 ### Modeling and Simulation
 
 <a class="paper" name="cuadrado2006" href="#cuadrado2006">#</a>
