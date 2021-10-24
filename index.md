@@ -245,6 +245,12 @@ K. Sasada.
 In Proceedings of the 20th Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA), 2005.
 <span class="badge badge-danger">MRI</span>
 
+<a class="paper" name="alexandersson2004" href="#alexandersson2004">#</a>
+A. Alexandersson.
+**[RubyComp: A Ruby-to-LLVM Compiler Prototype](https://llvm.org/pubs/2004-Spring-AlexanderssonMSThesis.pdf)**.
+MSc thesis, University of Trollhättan/Uddevalla, 2004.
+<span class="badge badge-danger">MRI</span>
+
 ### Parallelism and Concurrency
 
 <a class="paper" name="springer2019" href="#springer2019">#</a>
