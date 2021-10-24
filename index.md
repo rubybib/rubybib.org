@@ -239,6 +239,11 @@ K. Sasada, Y. Matsumoto, A. Maeda, M. Namiki.
 In the IPSJ Journal of Programming (PRO), 2005. *In Japanese*.
 <span class="badge badge-danger">MRI</span>
 
+<a class="paper" name="keep2008" href="#keep2008">#</a>
+A. Keep and A. Chauhan.
+**[Concrete partial evaluation in Ruby](http://andykeep.com/pubs/escience-08-poster.pdf)**.
+In Proceedings of the 4th IEEE International Conference on eScience, ESCIENCE, 2008.
+
 <a class="paper" name="sasada2005" href="#sasada2005">#</a>
 K. Sasada.
 **[YARV: Yet Another RubyVM: Innovating the Ruby Interpreter](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.482.9851&rep=rep1&type=pdf)**.
