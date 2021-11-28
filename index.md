@@ -5,6 +5,12 @@ title: The Ruby Bibliography
 
 ### Virtual Machines and Compilers
 
+<a class="paper" name="chevalier-boisvert2021" href="#chevalier-boisvert2021">#</a>
+M. Chevalier-Boisvert, N. Gibbs, J. Boussier, S. Wu, A. Patterson, K. Newton, J. Hawthorn.
+**[YJIT: a basic block versioning JIT compiler for CRuby](https://dl.acm.org/doi/10.1145/3486606.3486781)**.
+In Proceedings of the 13th ACM SIGPLAN International Workshop on Virtual Machines and Intermediate Languages (VMIL), 2021.
+<span class="badge badge-danger">MRI</span>
+
 <a class="paper" name="daloze2019" href="#daloze2019">#</a>
 B. Daloze.
 **[Thread-Safe and Efficient Data Representations in Dynamically-Typed Languages](https://eregon.me/blog/assets/research/thesis-thread-safe-data-representations-in-dynamic-languages.pdf)**.
