@@ -7,7 +7,7 @@ title: The Ruby Bibliography
 
 <a class="paper" name="chevalier-boisvert2021" href="#chevalier-boisvert2021">#</a>
 M. Chevalier-Boisvert, N. Gibbs, J. Boussier, S. Wu, A. Patterson, K. Newton, J. Hawthorn.
-**[YJIT: a basic block versioning JIT compiler for CRuby](https://dl.acm.org/doi/10.1145/3486606.3486781)**.
+**[YJIT: a basic block versioning JIT compiler for CRuby](https://dl.acm.org/doi/pdf/10.1145/3486606.3486781)**.
 In Proceedings of the 13th ACM SIGPLAN International Workshop on Virtual Machines and Intermediate Languages (VMIL), 2021.
 <span class="badge badge-danger">MRI</span>
 
