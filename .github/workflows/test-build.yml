@@ -12,7 +12,16 @@ jobs:
       uses: ruby/setup-ruby@b161cb92f0e2f28d992f04f38fff204d84132c47
     - name: Install
       run: bundle install
-    - name: Check
-      run: rake check
     - name: Build
       run: rake build
+  check:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@2036a08e25fa78bbd946711a407b529a0a1204bf
+    - name: Install Ruby
+      uses: ruby/setup-ruby@b161cb92f0e2f28d992f04f38fff204d84132c47
+    - name: Install
+      run: bundle install
+    - name: Check
+      run: rake check
