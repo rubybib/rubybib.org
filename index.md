@@ -163,7 +163,7 @@ In Proceedings of the International Conference on Principles and Practices of Pr
 
 <a class="paper" name="sarimbekov2013" href="#sarimbekov2013">#</a>
 A. Sarimbekov, A. Podzimek, L. Bulej, Y. Zheng, N. Ricci, W. Binder.
-**[Characteristics of Dynamic JVM Languages](http://design.cs.iastate.edu/vmil/2013/papers/p05-Sarimbekov.pdf)**.
+**[Characteristics of Dynamic JVM Languages](https://design.cs.iastate.edu/vmil/2013/papers/p05-Sarimbekov.pdf)**.
 In Proceedings of the 7th Workshop on Virtual Machines and Intermediate Languages (VMIL), 2013.
 <span class="badge badge-info">JRuby</span>
 
@@ -469,7 +469,7 @@ In Proceedings of the Principles and Practices of Programming on the Java Platfo
 
 <a class="paper" name="seaton2014" href="#seaton2014">#</a>
 C. Seaton, M. L. Van De Vanter, M. Haupt.
-**[Debugging at Full Speed](https://www.lifl.fr/dyla14/papers/dyla14-3-Debugging_at_Full_Speed.pdf)**.
+**[Debugging at Full Speed](https://www.cristal.univ-lille.fr/dyla14/papers/dyla14-3-Debugging_at_Full_Speed.pdf))**.
 In Proceedings of the 8th Workshop on Dynamic Languages and Applications (DYLA), 2014. ([source code](https://web.archive.org/web/20150117042919/https://lafo.ssw.uni-linz.ac.at/truffle/debugging/dyla14-debugging-artifact-0557a4f756d4.tar.gz))
 <span class="badge badge-warning">TruffleRuby</span>
 
