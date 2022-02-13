@@ -48,6 +48,13 @@ M. Grimmer, R. Schatz, C. Seaton, T. Würthinger, M. Luján.
 In ACM Transactions on Programming Languages and Systems (TOPLAS), Vol. 40, No. 2, 2018.
 <span class="badge badge-warning">TruffleRuby</span>
 
+<a class="paper" name="pereira" href="#pereira">#</a>
+R. Pereira, M. Couto, F. Ribeiro, R. Rua, J. Cunha, J. P. Fernandes, J. Saraiva.
+**[Energy efficiency across programming languages: how do energy, time, and memory relate?](https://greenlab.di.uminho.pt/wp-content/uploads/2017/10/sleFinal.pdf)**
+In Proceedings of the 10th ACM SIGPLAN International Conference on Software Language Engineering, 2017.
+<span class="badge badge-danger">MRI</span>
+<span class="badge badge-info">JRuby</span>
+
 <a class="paper" name="yang2017" href="#yang2017">#</a>
 B. Yang, J. Kim, S. Moon.
 **[Exceptionalization: A Java VM Optimization for Non-Java Languages](https://dl.acm.org/doi/pdf/10.1145/3046681)**.
