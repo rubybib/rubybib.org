@@ -8,7 +8,7 @@ title: The Ruby Bibliography
 <a class="paper" name="kaleba2022" href="#kaleba2022">#</a>
 S. Kaleba, O. Larose, R. Jones, S. Marr.
 **[Who You Gonna Call: Analyzing the Run-time Call-Site Behavior of Ruby Applications](https://stefan-marr.de/downloads/dls22-kaleba-et-al-analyzing-the-run-time-call-site-behavior-of-ruby-applications.pdf)**.
-In Proceedings of the 18th Symposium on Dynamic Languages, 2022.
+In Proceedings of the 18th Symposium on Dynamic Languages (DLS), 2022.
 <span class="badge badge-warning">TruffleRuby</span>
 
 <a class="paper" name="chevalier-boisvert2021" href="#chevalier-boisvert2021">#</a>
