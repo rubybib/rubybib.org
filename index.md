@@ -448,11 +448,6 @@ In Proceedings of the 40th ACM SIGPLAN Conference on Programming Language Design
 
 ### Tooling
 
-<a class="paper" name="schwager2024" href="#schwager2024">#</a>
-M. Schwager, D. Klemba, and J. Dykstra.
-**[Design and Implementation of a Coverage-Guided Ruby Fuzzer](https://dl.acm.org/doi/10.1145/3675741.3675749)**.
-In Workshop on Cyber Security Experimentation and Test (CSET), 2024.
-
 <a class="paper" name="gaikwad2018" href="#gaikwad2018">#</a>
 S. Gaikwad, A. Nisbet, M. Luján.
 **[Performance Analysis for Languages Hosted on the Truffle Framework](https://dl.acm.org/doi/10.1145/3237009.3237019)**.
@@ -595,6 +590,11 @@ In Proceedings of the 12th Annual SIGCSE Conference on Innovation and Technology
 <span class="badge badge-dark">Paywall</span>
 
 ### Security
+
+<a class="paper" name="schwager2024" href="#schwager2024">#</a>
+M. Schwager, D. Klemba, and J. Dykstra.
+**[Design and Implementation of a Coverage-Guided Ruby Fuzzer](https://dl.acm.org/doi/10.1145/3675741.3675749)**.
+In Workshop on Cyber Security Experimentation and Test (CSET), 2024.
 
 <a class="paper" name="near2016" href="#near2016">#</a>
 J. P. Near, D. Jackson.
