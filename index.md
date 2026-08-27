@@ -457,6 +457,12 @@ Master's thesis, Aalborg University, 2007.
 
 ### Garbage Collection
 
+<a class="paper" name="wang2025" href="#wang2025">#</a>
+K. Wang, S. M. Blackburn, P. Zhu, M. Valentine-House.
+**[Reworking Memory Management in CRuby](https://dl.acm.org/doi/pdf/10.1145/3735950.3735960)**.
+In Proceedings of the International Symposium on Memory Management (ISMM), 2025.
+<span class="badge badge-danger">MRI</span>
+
 <a class="paper" name="yamazaki2023" href="#yamazaki2023">#</a>
 T. Yamazaki, T. Nakamaru, R. Shioya, T. Ugawa, S. Chiba.
 **[Collecting Cyclic Garbage across Foreign Function Interfaces: Who Takes the Last Piece of Cake?](https://dl.acm.org/doi/pdf/10.1145/3591244)**.
