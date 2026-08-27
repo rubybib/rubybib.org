@@ -5,6 +5,12 @@ title: The Ruby Bibliography
 
 ### Virtual Machines and Compilers
 
+<a class="paper" name="liu2026" href="#liu2026">#</a>
+H. Liu, T. Yamazaki, T. Ugawa.
+**[Pitfalls in VM Implementation on CHERI: Lessons from Porting CRuby](https://programming-journal.org/2026/11/2/)**.
+In The Art, Science, and Engineering of Programming, Vol. 11, Issue 2, 2026.
+<span class="badge badge-danger">MRI</span>
+
 <a class="paper" name="chevalier-boisvert2023" href="#chevalier-boisvert2023">#</a>
 M. Chevalier-Boisvert, T. Kokubun, N. Gibbs, S. Wu, A. Patterson, J. Issroff.
 **[Evaluating YJIT’s Performance in a Production Context: A Pragmatic Approach](https://dl.acm.org/doi/pdf/10.1145/3617651.3622982)**.
