@@ -457,6 +457,12 @@ Master's thesis, Aalborg University, 2007.
 
 ### Garbage Collection
 
+<a class="paper" name="yamazaki2023" href="#yamazaki2023">#</a>
+T. Yamazaki, T. Nakamaru, R. Shioya, T. Ugawa, S. Chiba.
+**[Collecting Cyclic Garbage across Foreign Function Interfaces: Who Takes the Last Piece of Cake?](https://dl.acm.org/doi/pdf/10.1145/3591244)**.
+In Proceedings of the 44th ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI), 2023.
+<span class="badge badge-danger">MRI</span>
+
 <a class="paper" name="powers2019" href="#powers2019">#</a>
 B. Powers, D. Tench, E. D. Berger, A. McGregor.
 **[Mesh: Compacting Memory Management for C/C++ Applications](https://arxiv.org/pdf/1902.04738.pdf)**.
