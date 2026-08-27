@@ -5,6 +5,12 @@ title: The Ruby Bibliography
 
 ### Virtual Machines and Compilers
 
+<a class="paper" name="chevalier-boisvert2023" href="#chevalier-boisvert2023">#</a>
+M. Chevalier-Boisvert, T. Kokubun, N. Gibbs, S. Wu, A. Patterson, J. Issroff.
+**[Evaluating YJIT’s Performance in a Production Context: A Pragmatic Approach](https://dl.acm.org/doi/pdf/10.1145/3617651.3622982)**.
+In Proceedings of the 20th ACM SIGPLAN International Conference on Managed Programming Languages and Runtimes (MPLR), 2023.
+<span class="badge badge-danger">MRI</span>
+
 <a class="paper" name="kaleba2022" href="#kaleba2022">#</a>
 S. Kaleba, O. Larose, R. Jones, S. Marr.
 **[Who You Gonna Call: Analyzing the Run-time Call-Site Behavior of Ruby Applications](https://stefan-marr.de/downloads/dls22-kaleba-et-al-analyzing-the-run-time-call-site-behavior-of-ruby-applications.pdf)**.
