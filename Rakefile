@@ -1,7 +1,9 @@
+require "shellwords"
 task default: %w[check build]
 
 task :check do
-  sh "bundle exec checklinks --config .checklinks.yaml **.md"
+  command = ["bundle", "exec", "ruby", "script/checklinks", "--config", ".checklinks.yaml", *Dir["**/*.md"]]
+  sh Shellwords.join(command)
 end
 
 task :build do
