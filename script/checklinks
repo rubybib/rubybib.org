@@ -1,0 +1,364 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+
+# This file contains code adapted from checklinks 1.1.0 by Chris Seaton.
+# Source: https://github.com/chrisseaton/checklinks
+## Copyright (c) 2020 Chris Seaton
+##
+## The MIT License (MIT)
+##
+## Permission is hereby granted, free of charge, to any person obtaining a copy
+## of this software and associated documentation files (the "Software"), to deal
+## in the Software without restriction, including without limitation the rights
+## to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+## copies of the Software, and to permit persons to whom the Software is
+## furnished to do so, subject to the following conditions:
+##
+## The above copyright notice and this permission notice shall be included in
+## all copies or substantial portions of the Software.
+##
+## THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+## IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+## FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+## AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+## LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+## OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+## THE SOFTWARE.
+##
+## The link filtering code is adapted from awesome_bot by dkhamsing.
+## Source: https://github.com/dkhamsing/awesome_bot
+## Copyright (c) 2015
+##
+## The MIT License (MIT)
+##
+## Permission is hereby granted, free of charge, to any person obtaining a copy
+## of this software and associated documentation files (the "Software"), to deal
+## in the Software without restriction, including without limitation the rights
+## to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+## copies of the Software, and to permit persons to whom the Software is
+## furnished to do so, subject to the following conditions:
+##
+## The above copyright notice and this permission notice shall be included in all
+## copies or substantial portions of the Software.
+##
+## THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+## IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+## FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+## AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+## LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+## OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+## SOFTWARE.
+##
+## End of upstream license notices.
+##
+## The implementation below is adapted from both projects.
+
+require "net/http"
+require "openssl"
+require "set"
+require "thread"
+require "uri"
+require "yaml"
+
+module Checklinks
+  module Awesome
+    def self.links_filter(list)
+      list.reject { |url| url.length < 9 }
+        .map do |url|
+          url.gsub(",", "%2c").gsub(/'.*/, "").gsub(/,.*/, "")
+        end
+        .map do |url|
+          if url.include?(")]")
+            url.gsub(/\)\].*/, "")
+          elsif url.count(")") == 1 && url.count("(") == 1
+            url
+          elsif url.count(")") == 2 && url.count("(") == 1
+            url.gsub(/\)\).*/, ")")
+          elsif url.count(")").positive?
+            if url.include?("wikipedia")
+              if url.count(")").positive? && url.count("(").zero?
+                url.gsub(/\).*/, "")
+              else
+                url
+              end
+            else
+              url.gsub(/\).*/, "")
+            end
+          elsif url.include?("[")
+            url.gsub(/\[.*/, "")
+          elsif url.end_with?(".", ":")
+            url[0...-1]
+          elsif url.end_with?(".")
+            url[0...-1]
+          elsif url.end_with?("%2c")
+            url[0...-3]
+          else
+            url
+          end
+        end
+    end
+
+    def self.net_status(url, head = true, timeout: 30)
+      uri = URI.parse(url)
+      http = Net::HTTP.new(uri.host, uri.port)
+      http.use_ssl = uri.scheme == "https"
+      http.open_timeout = timeout
+      http.read_timeout = timeout
+      http.write_timeout = timeout if http.respond_to?(:write_timeout=)
+
+      request_class = head ? Net::HTTP::Head : Net::HTTP::Get
+      request = request_class.new(uri.request_uri, "User-Agent" => "checklinks")
+      if uri.userinfo
+        auth_user, auth_pass = uri.userinfo.split(":", 2)
+        request.basic_auth(auth_user, auth_pass)
+      end
+
+      response = http.start { |client| client.request(request) }
+      code = response.code.nil? ? 200 : response.code.to_i
+      headers = {}
+      response.each_header do |key, value|
+        headers[key] = value.dup.force_encoding(Encoding::UTF_8)
+      end
+
+      location = headers["location"]
+      if location
+        location_uri = URI.parse(location)
+        headers["location"] = URI.join(uri.to_s, location).to_s if location_uri.scheme.nil?
+      end
+
+      [code, headers]
+    end
+  end
+
+  class Worklist
+    def initialize(*jobs)
+      @state = nil
+      @queue = Queue.new
+      @active = Queue.new
+      @threads = nil
+      push(*jobs)
+    end
+
+    def push(*jobs)
+      jobs.each do |job|
+        raise ArgumentError, "worklist jobs cannot be nil" if job.nil?
+
+        @queue.push(job)
+      end
+    end
+
+    def process(state = nil)
+      @state = state
+      process_concurrently(1) do |job|
+        yield job, @state
+      end
+    end
+
+    def process_concurrently(thread_count)
+      raise RuntimeError, "worklist is already processing" if @threads
+
+      @threads = thread_count.times.map do
+        Thread.new do
+          loop do
+            job = @queue.pop
+            break if job.nil?
+
+            @active.push(:active)
+            begin
+              yield job
+            ensure
+              @active.pop
+            end
+          end
+        end
+      end
+    end
+
+    def size
+      @queue.size + @active.size
+    end
+
+    def close
+      @threads.each { @queue.push(nil) }
+      @queue.close
+      @threads.each(&:join)
+      @state
+    end
+
+    def self.close(*worklists)
+      worklists.map(&:close)
+    end
+
+    def self.collector
+      worklist = Worklist.new
+      worklist.process([]) do |value, collected|
+        collected.push(value)
+      end
+      worklist
+    end
+  end
+end
+
+def load_config(filename)
+  YAML.safe_load(File.read(filename), aliases: false) || {}
+end
+
+def parse_arguments(arguments)
+  files = []
+  config = {}
+  args = arguments.dup
+
+  until args.empty?
+    argument = args.shift
+    case argument
+    when "--config"
+      config_file = args.shift
+      raise ArgumentError, "missing file after --config" unless config_file
+
+      config = load_config(config_file)
+    when "--help"
+      puts "  checklinks [--config config.yaml] *.md"
+      exit 0
+    else
+      if argument.start_with?("-")
+        warn "unknown argument #{argument}"
+        exit 1
+      elsif File.directory?(argument)
+        files.concat(Dir.glob(File.join(argument, "**", "*.md")))
+      else
+        files << argument
+      end
+    end
+  end
+
+  [config, files]
+end
+
+def config_matches?(config, path, url)
+  Array(config.dig("ignore", *path)).any? { |candidate| yield candidate, url }
+end
+
+config, files = parse_arguments(ARGV)
+
+file_worklist = Checklinks::Worklist.new(*files.shuffle)
+url_worklist = Checklinks::Worklist.new
+link_collector = Checklinks::Worklist.collector
+status_worklist = Checklinks::Worklist.new
+error_collector = Checklinks::Worklist.collector
+
+file_worklist.process(Set.new) do |filename, found_urls|
+  File.foreach(filename, encoding: Encoding::UTF_8).with_index(1) do |line, line_number|
+    urls = URI.extract(line, %r{https?})
+    Checklinks::Awesome.links_filter(urls).each do |url|
+      next unless found_urls.add?(url)
+
+      url_worklist.push(url)
+      link_collector.push([url, filename, line_number])
+    end
+  end
+rescue StandardError => error
+  status_worklist.push([:error])
+  error_collector.push([:file, filename, error])
+end
+
+url_worklist.process_concurrently(16) do |url|
+  status_worklist.push([:try, url])
+  if config_matches?(config, ["exact"], url) { |candidate, value| value.start_with?(candidate) } ||
+      config_matches?(config, ["prefixes"], url) { |candidate, value| value.start_with?(candidate) } ||
+      config_matches?(config, ["suffixes"], url) { |candidate, value| value.end_with?(candidate) }
+    status_worklist.push([:ignored])
+    next
+  end
+
+  begin
+    code, headers = Checklinks::Awesome.net_status(url, true)
+  rescue Errno::ECONNREFUSED
+    code = :refused
+  rescue Errno::ETIMEDOUT, Net::OpenTimeout, Net::ReadTimeout
+    code = :timeout
+  rescue OpenSSL::SSL::SSLError
+    code = :https
+  rescue StandardError => error
+    code = error.class.name
+  end
+
+  if code == 200
+    status_worklist.push([:ok])
+  elsif (301..302).include?(code) &&
+        (config_matches?(config, ["redirect", "exact"], url) { |candidate, value| value.start_with?(candidate) } ||
+         config_matches?(config, ["redirect", "prefixes"], url) { |candidate, value| value.start_with?(candidate) } ||
+         config_matches?(config, ["redirect", "suffixes"], url) { |candidate, value| value.end_with?(candidate) })
+    status_worklist.push([:ignored])
+  elsif code == 403 &&
+        (config_matches?(config, ["forbidden", "exact"], url) { |candidate, value| value.start_with?(candidate) } ||
+         config_matches?(config, ["forbidden", "prefixes"], url) { |candidate, value| value.start_with?(candidate) } ||
+         config_matches?(config, ["forbidden", "suffixes"], url) { |candidate, value| value.end_with?(candidate) })
+    status_worklist.push([:ignored])
+  else
+    status_worklist.push([:error])
+    error_collector.push([:url, url, code, headers])
+  end
+end
+
+status_worklist.process({ ok: 0, error: 0, ignored: 0, clear: 0 }) do |message, state|
+  print "\r#{" " * state[:clear]}\r" if $stdout.tty?
+  case message.first
+  when :try
+    puts message.last
+  when :ok
+    state[:ok] += 1
+  when :ignored
+    state[:ignored] += 1
+  when :error
+    state[:error] += 1
+  end
+  line = "[#{state[:ok].to_s.rjust(5)} ok, #{state[:ignored].to_s.rjust(5)} ignored, #{state[:error].to_s.rjust(5)} errors, #{file_worklist.size.to_s.rjust(5)} files left, #{url_worklist.size.to_s.rjust(5)} URLs left]"
+  print line if $stdout.tty?
+  state[:clear] = line.length
+end
+
+Checklinks::Worklist.close(file_worklist, url_worklist)
+status_state = status_worklist.close
+links = link_collector.close
+errors = error_collector.close
+
+if $stdout.tty?
+  puts "\r#{" " * status_state[:clear]}\r"
+else
+  puts
+end
+
+if errors.empty?
+  puts "Ok!"
+else
+  puts "Errors:"
+  urls = errors.select { |error| error.first == :url }.map { |error| error[1] }.to_set
+  url_links = {}
+  links.each do |url, filename, line_number|
+    next unless urls.include?(url)
+
+    url_links[url] ||= []
+    url_links[url].push([filename, line_number])
+  end
+
+  errors.each do |token, *args|
+    case token
+    when :file
+      filename, error = args
+      puts "  #{filename}: #{error}"
+    when :url
+      url, code, headers = args
+      message = if (301..302).include?(code)
+                  "#{code} -> #{headers["location"]}"
+                else
+                  code
+                end
+      puts "  #{url} (#{message})"
+      url_links.fetch(url, []).each do |filename, line_number|
+        puts "    #{filename}:#{line_number}"
+      end
+    end
+  end
+end
+
+exit(errors.empty?)
