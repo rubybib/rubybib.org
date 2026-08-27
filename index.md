@@ -661,6 +661,12 @@ B. Roman, C. Scholin, S. Jensen, E. Massion, R. Marin III, C. Preston, D. Greenf
 JALA - Journal of the Association for Laboratory Automation, 12(1), 56-61, 2007.
 
 ### Electronic Design Automation
+
+<a class="paper" name="gauthier2024" href="#gauthier2024">#</a>
+L. Gauthier, Y. Ishikawa.
+**[HDLRuby: A Ruby Extension for Hardware Description and Its Translation to Synthesizable Verilog HDL](https://dl.acm.org/doi/pdf/10.1145/3581757)**.
+In ACM Transactions on Embedded Computing Systems (TECS), Vol. 23, No. 5, 2024.
+
 <a class="paper" name="lelann2020" href="#lelann">#</a>
 J-C. Le Lann, H. Badier, F. Kermarrec. **[Towards a Hardware DSL Ecosystem : RubyRTL and friends](https://arxiv.org/abs/2004.09858)**. OSDA - Open Source Design Automation workshop, collocated with DATE Conference, Design Automation and Test in Europe, 2020.
 
