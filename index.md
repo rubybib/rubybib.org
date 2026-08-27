@@ -384,6 +384,11 @@ S. N. Guria, J. S. Foster, D. Van Horn.
 **[RbSyn: Type- and Effect-Guided Program Synthesis](https://arxiv.org/pdf/2102.13183.pdf)**.
 In Proceedings of the 42nd ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI), 2021.
 
+<a class="paper" name="kazerounian2020" href="#kazerounian2020">#</a>
+M. Kazerounian, B. M. Ren, J. S. Foster.
+**[Sound, Heuristic Type Annotation Inference for Ruby](https://www.cs.tufts.edu/~jfoster/papers/dls20.pdf)**.
+In Proceedings of the 16th Symposium on Dynamic Languages (DLS), 2020.
+
 <a class="paper" name="kazerounian2019" href="#kazerounian2019">#</a>
 M. Kazerounian, S. N. Guria, N. Vazou, J. S. Foster, D. Van Horn.
 **[Type-level Computations for Ruby Libraries](https://arxiv.org/pdf/1904.03521.pdf)**.
