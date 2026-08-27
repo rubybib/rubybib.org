@@ -527,6 +527,11 @@ In Proceedings of the 2011 International Symposium on Software Testing and Analy
 
 ### Software Engineering
 
+<a class="paper" name="akbarpour2025" href="#akbarpour2025">#</a>
+N. Akbarpour, A. S. Mirza, E. Raoofian, F. H. Fard, G. Rodríguez-Pérez.
+**[Unveiling Ruby: Insights from Stack Overflow and Developer Survey](https://arxiv.org/pdf/2503.19238)**.
+In Proceedings of the 29th International Conference on Evaluation and Assessment in Software Engineering (EASE), 2025.
+
 <a class="paper" name="rodrigues2018" href="#rodrigues2018">#</a>
 E. Rodrigues, R. S. Durelli, R. W. de Bettio, L. Montecchi, R. Terra.
 **[Refactorings for Replacing Dynamic Instructions with Static Ones: the Case of Ruby](https://dl.acm.org/doi/abs/10.1145/3264637.3264645)**.
