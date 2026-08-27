@@ -379,6 +379,11 @@ In the IPSJ Journal of Programming (PRO), 2007. *In Japanese*.
 
 ### Type Systems
 
+<a class="paper" name="kazerounian2021" href="#kazerounian2021">#</a>
+M. Kazerounian, J. S. Foster, B. Min.
+**[SimTyper: Sound Type Inference for Ruby using Type Equality Prediction](https://www.cs.tufts.edu/~jfoster/papers/oopsla21.pdf)**.
+In Proceedings of the Conference on Object-Oriented Programming, Systems, Languages and Applications (OOPSLA), 2021.
+
 <a class="paper" name="guria2021" href="#guria2021">#</a>
 S. N. Guria, J. S. Foster, D. Van Horn.
 **[RbSyn: Type- and Effect-Guided Program Synthesis](https://arxiv.org/pdf/2102.13183.pdf)**.
