@@ -4,6 +4,20 @@ ignore:
   redirect:
     exact:
     - https://journals.sagepub.com/doi/pdf/10.1016/j.jala.2006.07.013
+    - https://ynu.repo.nii.ac.jp/record/4714/files/ide_masahiro-thesis.pdf
     prefixes:
     - https://dl.acm.org/doi/
     - https://link.springer.com/
+  # ResearchGate blocks or rate-limits automated requests.
+  forbidden:
+    exact:
+    - https://www.researchgate.net/profile/Aviansh-Nagumanthri/publication/282816987_mruby_-_Rapid_Software_Development_for_Embedded_Systems/links/561f03e308ae50795aff64d0/mruby-Rapid-Software-Development-for-Embedded-Systems.pdf
+    # ResearchGate blocks unauthenticated access to this publication page.
+    - https://www.researchgate.net/publication/239436707_How_to_Select_Superinstructions_for_Ruby
+    # Europe PMC can reject automated requests for these valid PDFs.
+    - https://europepmc.org/api/fulltextRepo?fileName=1758-2946-5-35.pdf&mimeType=application%2Fpdf&pdfKey=mmXdT8y82ImKZr9J1BKhygSuk43G6DbtnYA3fuicU07POAV1nEw5EtU&pmcId=PMC3733738&pmc_domain=jcheminf&pmc_pageType=pdf&type=FILE&version=1
+    - https://europepmc.org/api/fulltextRepo?fileName=btq475.pdf&mimeType=application%2Fpdf&pdfKey=vlfRpUSo2H145j2hPs3O4ccJo5VL0tM0rKe28tG-UgUIkbbk-KSCMUs&pmcId=PMC2951089&pmc_domain=bioinfo&pmc_pageType=pdf&type=FILE&version=1
+    # ISO protects its catalogue with an automated-request challenge.
+    - https://www.iso.org/standard/59579.html
+    prefixes:
+    - https://dl.acm.org/doi/

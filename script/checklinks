@@ -284,12 +284,12 @@ url_worklist.process_concurrently(16) do |url|
 
   if code == 200
     status_worklist.push([:ok])
-  elsif (301..302).include?(code) &&
+  elsif (301..303).include?(code) &&
         (config_matches?(config, ["redirect", "exact"], url) { |candidate, value| value.start_with?(candidate) } ||
          config_matches?(config, ["redirect", "prefixes"], url) { |candidate, value| value.start_with?(candidate) } ||
          config_matches?(config, ["redirect", "suffixes"], url) { |candidate, value| value.end_with?(candidate) })
     status_worklist.push([:ignored])
-  elsif code == 403 &&
+  elsif [403, 429].include?(code) &&
         (config_matches?(config, ["forbidden", "exact"], url) { |candidate, value| value.start_with?(candidate) } ||
          config_matches?(config, ["forbidden", "prefixes"], url) { |candidate, value| value.start_with?(candidate) } ||
          config_matches?(config, ["forbidden", "suffixes"], url) { |candidate, value| value.end_with?(candidate) })
@@ -348,7 +348,7 @@ else
       puts "  #{filename}: #{error}"
     when :url
       url, code, headers = args
-      message = if (301..302).include?(code)
+      message = if (301..303).include?(code)
                   "#{code} -> #{headers["location"]}"
                 else
                   code
