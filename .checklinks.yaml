@@ -1,6 +1,11 @@
 ignore:
   exact:
   - https://kuramitsulab.github.io/paper/rujit.pdf
+  # CI skips links that reject GitHub Actions requests.
+  ci:
+    exact:
+    - https://digitalcommons.dartmouth.edu/cgi/viewcontent.cgi?article=1071&context=senior_theses
+    - https://journals.sagepub.com/doi/pdf/10.1016/j.jala.2006.07.013
   redirect:
     exact:
     - https://journals.sagepub.com/doi/pdf/10.1016/j.jala.2006.07.013

@@ -235,7 +235,9 @@ def parse_arguments(arguments)
 end
 
 def config_matches?(config, path, url)
-  Array(config.dig("ignore", *path)).any? { |candidate| yield candidate, url }
+  candidates = Array(config.dig("ignore", *path))
+  candidates += Array(config.dig("ignore", "ci", *path)) if ENV["CI"] == "true"
+  candidates.any? { |candidate| yield candidate, url }
 end
 
 config, files = parse_arguments(ARGV)
