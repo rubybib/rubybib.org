@@ -37,7 +37,7 @@ PhD thesis, Johannes Kepler University Linz, 2019.
 
 <a class="paper" name="mosaner2019" href="#mosaner2019">#</a>
 R. Mosaner, D. Leopoldseder, M. Rigger, R. Schatz, H. Mössenböck.
-**[Supporting On-Stack Replacement in Unstructured Languages by Loop Reconstruction and Extraction](https://arxiv.org/pdf/1909.08815.pdf)**.
+**[Supporting On-Stack Replacement in Unstructured Languages by Loop Reconstruction and Extraction](https://arxiv.org/pdf/1909.08815)**.
 In Proceedings of the 16th International Conference on Managed Programming Languages and Runtimes (MPLR), 2019.
 <span class="badge badge-warning">TruffleRuby</span>
 
@@ -49,7 +49,7 @@ In Proceedings of the International Symposium on Memory Management (ISMM), 2019.
 
 <a class="paper" name="sugiyama2018" href="#sugiyama2018">#</a>
 K. Sugiyama, K. Sasada, M. J. Dürst.
-**[Dynamic Extension of the Ruby Virtual Machine Stack](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=191427&item_no=1)**.
+**[Dynamic Extension of the Ruby Virtual Machine Stack](https://ipsj.ixsq.nii.ac.jp/record/191427/files/IPSJ-TPRO1103004.pdf)**.
 In the IPSJ Journal of Programming (PRO), 2018. *In Japanese*.
 <span class="badge badge-danger">MRI</span>
 <!-- link is flaky -->
@@ -116,7 +116,7 @@ In Proceedings of the 11th Workshop on Implementation, Compilation, Optimization
 
 <a class="paper" name="ide2015a" href="#ide2015a">#</a>
 M. Ide.
-**[Study on Method-based and Trace-based Just-in-time Compilation for Scripting Languages](https://ynu.repo.nii.ac.jp/?action=repository_action_common_download&item_id=4714&item_no=1&attribute_id=20&file_no=1)**.
+**[Study on Method-based and Trace-based Just-in-time Compilation for Scripting Languages](https://ynu.repo.nii.ac.jp/record/4714/files/ide_masahiro-thesis.pdf)**.
 PhD thesis, Yokohama National University, 2015.
 <span class="badge badge-danger">MRI</span>
 
@@ -194,7 +194,7 @@ In Proceedings of the 7th Workshop on Virtual Machines and Intermediate Language
 
 <a class="paper" name="hang2013" href="#hang2013">#</a>
 <a name="talk-talk">W. Hang Li, D. R. White, J. Singer.
-**[JVM-Hosted Languages: They Talk the Talk, but do they Walk the Walk?](http://www.dcs.gla.ac.uk/~jsinger/pdfs/pppj13.pdf)** In Proceedings of the International Conference on Principles and Practices of Programming on the Java Platform (PPPJ), 2013.
+**[JVM-Hosted Languages: They Talk the Talk, but do they Walk the Walk?](https://www.dcs.gla.ac.uk/~jsinger/pdfs/pppj13.pdf)** In Proceedings of the International Conference on Principles and Practices of Programming on the Java Platform (PPPJ), 2013.
 <span class="badge badge-info">JRuby</span>
 
 <a class="paper" name="springer2013" href="#springer2013">#</a>
@@ -205,20 +205,20 @@ Bachelor's thesis, Hasso-Plattner-Institute, 2013.
 
 <a class="paper" name="castanos2012" href="#castanos2012">#</a>
 J. Castanos, D. Edelsohn, K. Ishizaki, P. Nagpurkar, T. Nakatani, T. Ogasawara, P. Wu.
-**[On the Benefits and Pitfalls of Extending a Statically Typed Language JIT Compiler for Dynamic Scripting Languages](https://researcher.watson.ibm.com/researcher/files/us-pengwu/oopsla12-final-dsl.pdf)**.
+**[On the Benefits and Pitfalls of Extending a Statically Typed Language JIT Compiler for Dynamic Scripting Languages](https://dl.acm.org/doi/pdf/10.1145/2384616.2384631)**.
 In Proceedings of the 20th Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA), 2012.
 <span class="badge badge-info">JRuby</span> <span class="badge badge-secondary">Rubinius</span>
 
 <a class="paper" name="shiba2012" href="#shiba2012">#</a>
 S. Shiba, K. Sasada, K. Hiraki.
-**[CastOff: A Compiler for Ruby Implemented as a Library](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=83510&item_no=1&page_id=13&block_id=8)**.
+**[CastOff: A Compiler for Ruby Implemented as a Library](https://ipsj.ixsq.nii.ac.jp/record/83510/files/IPSJ-TPRO0503002.pdf)**.
 In Journal of Information Processing Society of Japan, Transactions on Programming, 2012. *In Japanese*.
 <span class="badge badge-danger">MRI</span>
 <!-- link is flaky -->
 
 <a class="paper" name="shiba2011" href="#shiba2011">#</a>
 S. Shiba, K. Sasada, S. Urabe, Y. Matsumoto, M. Inaba, K. Hiraki.
-**[A Practical AOT Compiler for Ruby](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=73661&item_no=1&page_id=13&block_id=8)**.
+**[A Practical AOT Compiler for Ruby](https://ipsj.ixsq.nii.ac.jp/record/73661/files/IPSJ-TPRO0401007.pdf)**.
 In Journal of Information Processing Society of Japan, Transactions on Programming, 2011. *In Japanese*.
 <span class="badge badge-danger">MRI</span>
 <!-- link is flaky -->
@@ -261,8 +261,9 @@ In Proceedings of the 23rd Conference on Object-Oriented Programming, Systems, L
 
 <a class="paper" name="kelly2008" href="#kelly2008">#</a>
 W. Kelly, J. Gough.
-**[Ruby.NET: a Ruby Compiler for the Common Language Infrastructure](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.294.2678)**.
+**[Ruby.NET: a Ruby compiler for the Common Language Infrastructure](https://dl.acm.org/doi/10.5555/1378279.1378288)**.
 In Proceedings of the 31st Australasian Conference on Computer Science, 2008.
+<span class="badge badge-dark">Paywall</span>
 
 <a class="paper" name="sasada2005b" href="#sasada2005b">#</a>
 K. Sasada, Y. Matsumoto, A. Maeda, M. Namiki.
@@ -277,7 +278,7 @@ In Proceedings of the 4th IEEE International Conference on eScience, ESCIENCE, 2
 
 <a class="paper" name="sasada2005" href="#sasada2005">#</a>
 K. Sasada.
-**[YARV: Yet Another RubyVM: Innovating the Ruby Interpreter](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.482.9851&rep=rep1&type=pdf)**.
+**[YARV: Yet Another RubyVM: Innovating the Ruby Interpreter](https://www.atdot.net/yarv/oopsla2005eabstract-rc1.pdf)**.
 In Proceedings of the 20th Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA), 2005.
 <span class="badge badge-danger">MRI</span>
 
@@ -302,7 +303,7 @@ In Proceedings of the 2nd International Conference on Electronics and Electrical
 
 <a class="paper" name="daloze2018" href="#daloze2018">#</a>
 B. Daloze, A. Tal, S. Marr, H. Mössenböck, E. Petrank.
-**[Parallelization of Dynamic Languages: Synchronizing Built-in Collections](https://ssw.jku.at/General/Staff/Daloze/thread-safe-collections.pdf)**.
+**[Parallelization of Dynamic Languages: Synchronizing Built-in Collections](https://eregon.me/blog/assets/research/thread-safe-collections.pdf)**.
 In Proceedings of the Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA), 2018.
 <span class="badge badge-warning">TruffleRuby</span>
 
@@ -318,19 +319,19 @@ In Proceedings of the 3rd International Workshop on Libraries, Languages, and Co
 
 <a class="paper" name="daloze2016" href="#daloze2016">#</a>
 B. Daloze, S. Marr, D. Bonetta, H. Mössenböck.
-**[Efficient and Thread-Safe Objects for Dynamically-Typed Languages](https://ssw.jku.at/General/Staff/Daloze/thread-safe-objects.pdf)**.
+**[Efficient and Thread-Safe Objects for Dynamically-Typed Languages](https://eregon.me/blog/assets/research/thread-safe-objects.pdf)**.
 In Proceedings of the Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA), 2016.
 <span class="badge badge-warning">TruffleRuby</span>
 
 <a class="paper" name="alcazarzapien2015" href="#alcazarzapien2015">#</a>
 J. Alcázar Zapién.
-**[Debugging Parallel Programs Using Fork Handlers](https://modprobe.files.wordpress.com/2015/09/jalcazar_pmam20151.pdf)**.
+**[Debugging Parallel Programs Using Fork Handlers](https://modprobe.wordpress.com/wp-content/uploads/2015/09/jalcazar_pmam20151.pdf)**.
 In Proceedings of the Sixth International Workshop on Programming Models and Applications for Multicores and Manycores (PMAM), 2015.
 <span class="badge badge-danger">MRI</span>
 
 <a class="paper" name="ding2015" href="#ding2015">#</a>
 C. Ding, B. Gernhardt, P. Li, M. Hertz.
-**[Safe Parallel Programming in an Interpreted Language](http://polaris.cs.uiuc.edu/hpsl/abstracts/a7-ding.pdf)**.
+**[Safe Parallel Programming in an Interpreted Language](https://urresearch.rochester.edu/fileDownloadForInstitutionalItem.action?itemId=28626&itemFileId=143942)**.
 In Proceedings of the First Workshop on the High Performance Scripting Languages, 2015.
 <span class="badge badge-danger">MRI</span>
 
@@ -342,7 +343,7 @@ In Proceedings of the 35th Conference on Programming Language Design and Impleme
 
 <a class="paper" name="odaira2014" href="#odaira2014">#</a>
 R. Odaira, J. G. Castanos, H. Tomari.
-**[Eliminating Global Interpreter Locks in Ruby Through Hardware Transactional Memory](https://researcher.watson.ibm.com/researcher/files/jp-ODAIRA/PPoPP2014_RubyGILHTM.pdf)**.
+**[Eliminating Global Interpreter Locks in Ruby Through Hardware Transactional Memory](https://dl.acm.org/doi/pdf/10.1145/2555243.2555247)**.
 In Proceedings of the 19th Symposium on Principles and Practice of Parallel Programming (PPoPP), 2014.
 <span class="badge badge-danger">MRI</span>
 
@@ -360,7 +361,7 @@ In Proceedings of the 9th ECOOP Workshop on Reflection, AOP, and Meta-Data for S
 
 <a class="paper" name="nakagawa2012" href="#nakagawa2012">#</a>
 H. Nakagawa, K. Sasada.
-**[Design and Implementation of Efficient Interprocess Transfer and Sharing Mechanism for Ruby Objects](https://ipsj.ixsq.nii.ac.jp/ej/index.php?action=pages_view_main&active_action=repository_action_common_download&item_id=83710&item_no=1&attribute_id=1&file_no=1&page_id=13&block_id=8)**.
+**[Design and Implementation of Efficient Interprocess Transfer and Sharing Mechanism for Ruby Objects](https://ipsj.ixsq.nii.ac.jp/record/83710/files/IPSJ-TPRO0504002.pdf)**.
 In the IPSJ Journal of Programming (PRO), 2012. *In Japanese*.
 <span class="badge badge-danger">MRI</span>
 <!-- link is flaky -->
@@ -398,7 +399,7 @@ In Proceedings of the Conference on Object-Oriented Programming, Systems, Langua
 
 <a class="paper" name="guria2021" href="#guria2021">#</a>
 S. N. Guria, J. S. Foster, D. Van Horn.
-**[RbSyn: Type- and Effect-Guided Program Synthesis](https://arxiv.org/pdf/2102.13183.pdf)**.
+**[RbSyn: Type- and Effect-Guided Program Synthesis](https://arxiv.org/pdf/2102.13183)**.
 In Proceedings of the 42nd ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI), 2021.
 
 <a class="paper" name="kazerounian2020" href="#kazerounian2020">#</a>
@@ -408,12 +409,12 @@ In Proceedings of the 16th Symposium on Dynamic Languages (DLS), 2020.
 
 <a class="paper" name="kazerounian2019" href="#kazerounian2019">#</a>
 M. Kazerounian, S. N. Guria, N. Vazou, J. S. Foster, D. Van Horn.
-**[Type-level Computations for Ruby Libraries](https://arxiv.org/pdf/1904.03521.pdf)**.
+**[Type-level Computations for Ruby Libraries](https://arxiv.org/pdf/1904.03521)**.
 In Proceedings of the 40th ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI), 2019.
 
 <a class="paper" name="kazerounian2018" href="#kazerounian2018">#</a>
 M. Kazerounian, N. Vazou, A. Bourgerie, J. S. Foster, E. Torlak.
-**[Refinement Types for Ruby](https://arxiv.org/pdf/1711.09281.pdf)**.
+**[Refinement Types for Ruby](https://arxiv.org/pdf/1711.09281)**.
 In Proceedings of the 19th International Conference on Verification, Model Checking, and Abstract Interpretation (VMCAI), 2018.
 
 <a class="paper" name="ren2016" href="#ren2016">#</a>
@@ -477,7 +478,7 @@ In Proceedings of the 44th ACM SIGPLAN Conference on Programming Language Design
 
 <a class="paper" name="powers2019" href="#powers2019">#</a>
 B. Powers, D. Tench, E. D. Berger, A. McGregor.
-**[Mesh: Compacting Memory Management for C/C++ Applications](https://arxiv.org/pdf/1902.04738.pdf)**.
+**[Mesh: Compacting Memory Management for C/C++ Applications](https://arxiv.org/pdf/1902.04738)**.
 In Proceedings of the 40th ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI), 2019.
 
 ### Tooling
@@ -491,13 +492,13 @@ In Proceedings of the 15th International Conference on Managed Languages and Run
 
 <a class="paper" name="kreindl2018" href="#kreindl2018">#</a>
 J. Kreindl, M. Rigger, H. Mössenböck.
-**[Debugging Native Extensions of Dynamic Languages](https://arxiv.org/pdf/1808.00823.pdf)**.
+**[Debugging Native Extensions of Dynamic Languages](https://arxiv.org/pdf/1808.00823)**.
 In Proceedings of 15th International Conference on Managed Languages & Runtimes (ManLang), 2018.
 <span class="badge badge-warning">TruffleRuby</span>
 
 <a class="paper" name="vandevanter2018" href="#vandevanter2018">#</a>
 M. Van De Vanter, C. Seaton, M. Haupt, C. Humer, T. Würthinger.
-**[Fast, Flexible, Polyglot Instrumentation Support for Debuggers and other Tools](https://arxiv.org/pdf/1803.10201v1.pdf)**.
+**[Fast, Flexible, Polyglot Instrumentation Support for Debuggers and other Tools](https://arxiv.org/pdf/1803.10201v1)**.
 In The Art, Science, and Engineering of Programming, Vol. 2, No. 3, 2018.
 <span class="badge badge-warning">TruffleRuby</span>
 
@@ -516,8 +517,8 @@ In Proceedings of the Principles and Practices of Programming on the Java Platfo
 
 <a class="paper" name="seaton2014" href="#seaton2014">#</a>
 C. Seaton, M. L. Van De Vanter, M. Haupt.
-**[Debugging at Full Speed](https://www.cristal.univ-lille.fr/dyla14/papers/dyla14-3-Debugging_at_Full_Speed.pdf))**.
-In Proceedings of the 8th Workshop on Dynamic Languages and Applications (DYLA), 2014. ([source code](https://web.archive.org/web/20150117042919/https://lafo.ssw.uni-linz.ac.at/truffle/debugging/dyla14-debugging-artifact-0557a4f756d4.tar.gz))
+**[Debugging at Full Speed](https://www.cristal.univ-lille.fr/dyla14/papers/dyla14-3-Debugging_at_Full_Speed.pdf)**.
+In Proceedings of the 8th Workshop on Dynamic Languages and Applications (DYLA), 2014.
 <span class="badge badge-warning">TruffleRuby</span>
 
 <a class="paper" name="sunaga2012" href="#sunaga2012">#</a>
@@ -562,7 +563,7 @@ In Proceedings of the 10th Symposium on Dynamic Languages (DLS), 2014.
 
 <a class="paper" name="pasquier2014" href="#pasquier2014">#</a>
 T. F. J.-M. Pasquier, J. Bacon, B. Shand.
-**[FlowR: Aspect Oriented Programming for Information Flow Control in Ruby](https://scholar.harvard.edu/files/tfjmp/files/2014modularity.pdf)**.
+**[FlowR: Aspect Oriented Programming for Information Flow Control in Ruby](https://www.cl.cam.ac.uk/research/srg/opera/publications/papers/2014FlowR.pdf)**.
 In Proceedings of the 13th International Conference on Modularity (MODULARITY), 2014.
 
 <a class="paper" name="pancelet2012" href="#pancelet2012">#</a>
@@ -582,7 +583,7 @@ In Proceedings of the 5th International Conference on Software Language Engineer
 
 <a class="paper" name="mairhofer2011" href="#mairhofer2011">#</a>
 S. Mairhofer, R. Feldt, R. Torkar, S. Poulding.
-**[Search-Based Software Testing and Test Data Generation for a Dynamic Programming Language](https://arxiv.org/pdf/1804.09232.pdf)**.
+**[Search-Based Software Testing and Test Data Generation for a Dynamic Programming Language](https://arxiv.org/pdf/1804.09232)**.
 In Proceedings of the 13th Annual Conference on Genetic and Evolutionary Computation, 2011.
 
 <a class="paper" name="guenther2010b" href="#guenther2010b">#</a>
@@ -613,7 +614,7 @@ In Proceedings of the 1st International Workshop on Feature-Oriented Software De
 
 <a class="paper" name="oritz08" href="#oritz08">#</a>
 A. Oritz.
-**[Language Design and Implementation Using Ruby and the Interpreter Pattern](http://34.212.143.74/publicaciones/sif.pdf)**.
+**[Language Design and Implementation Using Ruby and the Interpreter Pattern](https://arielortiz.info/publicaciones/sif.pdf)**.
 In Proceedings of the 39th SIGCSE Technical Symposium on Computer Science Education, 2008.
 
 <a class="paper" name="geebelen2008" href="#geebelen2008">#</a>
@@ -656,12 +657,12 @@ PhD thesis, 2012.
 
 <a class="paper" name="smith2013" href="#smith2013">#</a>
 R. Smith, R. Williamson, D. Ventura, J. T. Prince.
-**[Rubabel: wrapping open Babel with Ruby](https://jcheminf.biomedcentral.com/track/pdf/10.1186/1758-2946-5-35.pdf)**.
+**[Rubabel: wrapping open Babel with Ruby](https://europepmc.org/api/fulltextRepo?fileName=1758-2946-5-35.pdf&mimeType=application%2Fpdf&pdfKey=mmXdT8y82ImKZr9J1BKhygSuk43G6DbtnYA3fuicU07POAV1nEw5EtU&pmcId=PMC3733738&pmc_domain=jcheminf&pmc_pageType=pdf&type=FILE&version=1)**.
 Journal of Cheminformatics, 5(1), 35, 2013.
 
 <a class="paper" name="goto2010" href="#goto2010">#</a>
 N. Goto, P. Prins, M. Nakao, R. Bonnal, J. Aerts, T. Katayama.
-**[Bioruby: bioinformatics software for the Ruby programming language](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2951089/pdf/btq475.pdf)**.
+**[Bioruby: bioinformatics software for the Ruby programming language](https://europepmc.org/api/fulltextRepo?fileName=btq475.pdf&mimeType=application%2Fpdf&pdfKey=vlfRpUSo2H145j2hPs3O4ccJo5VL0tM0rKe28tG-UgUIkbbk-KSCMUs&pmcId=PMC2951089&pmc_domain=bioinfo&pmc_pageType=pdf&type=FILE&version=1)**.
 Bioinformatics, 26(20):2617–9, Oct 2010.
 
 ### Robotics
